@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}Country Comparison - Road Traffic Data Analysis{% endblock %}
+
+{% block content %}
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">Country Comparison</h5>
+    <div id="chart">{{ graph_html|safe }}</div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,3661 @@
+continent,code,country,year,road traffic death rate
+Americas,ATG,Antigua and Barbuda,2019,0
+Western Pacific,FSM,Micronesia (Federated States of),2019,0.16
+South-East Asia,MDV,Maldives,2019,1.63
+Western Pacific,KIR,Kiribati,2019,1.92
+Eastern Mediterranean,EGY,Egypt,2019,10.1
+Europe,UKR,Ukraine,2019,10.2
+Europe,ROU,Romania,2019,10.29
+Eastern Mediterranean,OMN,Oman,2019,10.59
+Africa,SYC,Seychelles,2019,11.26
+South-East Asia,IDN,Indonesia,2019,11.33
+Europe,UZB,Uzbekistan,2019,11.68
+Europe,ALB,Albania,2019,11.7
+South-East Asia,TLS,Timor-Leste,2019,11.9
+Europe,RUS,Russian Federation,2019,12
+Western Pacific,PHL,Philippines,2019,12.04
+Africa,MUS,Mauritius,2019,12.23
+Europe,GEO,Georgia,2019,12.41
+Western Pacific,PNG,Papua New Guinea,2019,12.59
+Europe,KGZ,Kyrgyzstan,2019,12.66
+Americas,USA,United States of America,2019,12.67
+Europe,KAZ,Kazakhstan,2019,12.68
+Americas,MEX,Mexico,2019,12.78
+Eastern Mediterranean,PAK,Pakistan,2019,13.01
+Western Pacific,WSM,Samoa,2019,13.03
+Europe,TKM,Turkmenistan,2019,13.47
+Europe,BIH,Bosnia and Herzegovina,2019,13.51
+Western Pacific,FJI,Fiji,2019,13.51
+Americas,PER,Peru,2019,13.58
+Americas,PAN,Panama,2019,13.92
+Americas,ARG,Argentina,2019,14.06
+Americas,CRI,Costa Rica,2019,14.78
+Americas,URY,Uruguay,2019,14.78
+Western Pacific,VUT,Vanuatu,2019,14.86
+Americas,CHL,Chile,2019,14.91
+Eastern Mediterranean,SYR,Syrian Arab Republic,2019,14.94
+Americas,JAM,Jamaica,2019,15.06
+Americas,SUR,Suriname,2019,15.32
+South-East Asia,BGD,Bangladesh,2019,15.35
+Americas,COL,Colombia,2019,15.42
+Eastern Mediterranean,KWT,Kuwait,2019,15.43
+South-East Asia,IND,India,2019,15.56
+Europe,TJK,Tajikistan,2019,15.67
+Eastern Mediterranean,AFG,Afghanistan,2019,15.86
+Americas,BRA,Brazil,2019,16.05
+Americas,HND,Honduras,2019,16.13
+South-East Asia,BTN,Bhutan,2019,16.18
+South-East Asia,NPL,Nepal,2019,16.27
+Eastern Mediterranean,LBN,Lebanon,2019,16.44
+Eastern Mediterranean,TUN,Tunisia,2019,16.49
+Western Pacific,SLB,Solomon Islands,2019,16.52
+Americas,NIC,Nicaragua,2019,16.94
+Eastern Mediterranean,MAR,Morocco,2019,16.96
+Eastern Mediterranean,JOR,Jordan,2019,17
+Western Pacific,CHN,China,2019,17.36
+Western Pacific,LAO,Lao People's Democratic Republic,2019,17.87
+Americas,HTI,Haiti,2019,18.77
+Western Pacific,KHM,Cambodia,2019,19.55
+South-East Asia,LKA,Sri Lanka,2019,19.69
+Europe,ARM,Armenia,2019,19.95
+Europe,ISL,Iceland,2019,2.05
+Western Pacific,SGP,Singapore,2019,2.09
+Europe,NOR,Norway,2019,2.12
+Europe,CHE,Switzerland,2019,2.25
+Americas,ECU,Ecuador,2019,20.09
+South-East Asia,MMR,Myanmar,2019,20.36
+Africa,ZMB,Zambia,2019,20.46
+Africa,NGA,Nigeria,2019,20.75
+Americas,SLV,El Salvador,2019,20.87
+Africa,DZA,Algeria,2019,20.9
+Western Pacific,MNG,Mongolia,2019,21.04
+Americas,BOL,Bolivia (Plurinational State of),2019,21.11
+Eastern Mediterranean,LBY,Libya,2019,21.3
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2019,21.47
+Americas,PRY,Paraguay,2019,22.03
+Africa,ZAF,South Africa,2019,22.22
+Americas,GUY,Guyana,2019,22.34
+Western Pacific,MYS,Malaysia,2019,22.48
+Americas,BLZ,Belize,2019,22.56
+Africa,MLI,Mali,2019,22.71
+Americas,GTM,Guatemala,2019,22.9
+Eastern Mediterranean,DJI,Djibouti,2019,23.5
+Africa,SEN,Senegal,2019,23.51
+Africa,GAB,Gabon,2019,23.86
+Africa,CIV,Côte d’Ivoire,2019,24.12
+South-East Asia,PRK,Democratic People's Republic of Korea,2019,24.19
+Africa,NER,Niger,2019,25.51
+Africa,MRT,Mauritania,2019,25.6
+Africa,GHA,Ghana,2019,25.67
+Africa,AGO,Angola,2019,26.13
+Africa,BWA,Botswana,2019,26.41
+Africa,COM,Comoros,2019,26.57
+Eastern Mediterranean,SDN,Sudan,2019,26.76
+Africa,CPV,Cabo Verde,2019,26.78
+Africa,BEN,Benin,2019,26.8
+Africa,GNQ,Equatorial Guinea,2019,27.17
+Eastern Mediterranean,IRQ,Iraq,2019,27.29
+Eastern Mediterranean,SOM,Somalia,2019,27.4
+Africa,STP,Sao Tome and Principe,2019,27.9
+Africa,ETH,Ethiopia,2019,28.16
+Africa,KEN,Kenya,2019,28.31
+Africa,TGO,Togo,2019,28.65
+Africa,MDG,Madagascar,2019,29.22
+Eastern Mediterranean,YEM,Yemen,2019,29.36
+Africa,UGA,Uganda,2019,29.39
+Africa,RWA,Rwanda,2019,29.45
+Africa,GMB,Gambia,2019,29.62
+Africa,GIN,Guinea,2019,29.66
+Africa,COG,Congo,2019,29.7
+Americas,LCA,Saint Lucia,2019,29.84
+Europe,IRL,Ireland,2019,3.13
+Europe,SWE,Sweden,2019,3.14
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,3.21
+Western Pacific,JPN,Japan,2019,3.6
+Europe,DNK,Denmark,2019,3.7
+Europe,DEU,Germany,2019,3.78
+Europe,FIN,Finland,2019,3.89
+Europe,ISR,Israel,2019,3.91
+Europe,ESP,Spain,2019,3.91
+Europe,NLD,Netherlands,2019,3.98
+Africa,MOZ,Mozambique,2019,30.02
+Africa,CMR,Cameroon,2019,30.18
+Western Pacific,VNM,Viet Nam,2019,30.56
+Africa,BFA,Burkina Faso,2019,31.02
+Africa,TZA,United Republic of Tanzania,2019,31.12
+Africa,LSO,Lesotho,2019,31.92
+South-East Asia,THA,Thailand,2019,32.21
+Africa,GNB,Guinea-Bissau,2019,32.23
+Africa,TCD,Chad,2019,32.43
+Western Pacific,TON,Tonga,2019,32.95
+Africa,SLE,Sierra Leone,2019,33.04
+Africa,MWI,Malawi,2019,33.4
+Africa,SWZ,Eswatini,2019,33.47
+Africa,NAM,Namibia,2019,34.81
+Africa,COD,Democratic Republic of the Congo,2019,34.86
+Africa,BDI,Burundi,2019,35.46
+Eastern Mediterranean,SAU,Saudi Arabia,2019,35.94
+Africa,SSD,South Sudan,2019,36.73
+Africa,CAF,Central African Republic,2019,37.72
+Africa,ERI,Eritrea,2019,37.92
+Africa,LBR,Liberia,2019,38.9
+Americas,VEN,Venezuela (Bolivarian Republic of),2019,39.02
+Europe,LUX,Luxembourg,2019,4.07
+Europe,MLT,Malta,2019,4.11
+Europe,EST,Estonia,2019,4.46
+Europe,AUT,Austria,2019,4.87
+Western Pacific,AUS,Australia,2019,4.94
+Africa,ZWE,Zimbabwe,2019,41.22
+Europe,SVN,Slovenia,2019,5.05
+Europe,FRA,France,2019,5.13
+Europe,MKD,The former Yugoslav Republic of Macedonia,2019,5.15
+Eastern Mediterranean,BHR,Bahrain,2019,5.18
+Europe,ITA,Italy,2019,5.32
+Americas,CAN,Canada,2019,5.34
+Europe,CYP,Cyprus,2019,5.75
+Europe,BEL,Belgium,2019,5.77
+Europe,CZE,Czechia,2019,5.95
+Europe,SVK,Slovakia,2019,6.07
+Europe,TUR,Türkiye,2019,6.68
+Europe,AZE,Azerbaijan,2019,6.73
+Americas,DOM,Dominican Republic,2019,64.6
+Europe,MDA,Republic of Moldova,2019,7.25
+Eastern Mediterranean,QAT,Qatar,2019,7.27
+Americas,VCT,Saint Vincent and the Grenadines,2019,7.41
+Western Pacific,BRN,Brunei Darussalam,2019,7.45
+Europe,SRB,Serbia,2019,7.47
+Europe,MNE,Montenegro,2019,7.64
+Europe,BLR,Belarus,2019,7.64
+Europe,HUN,Hungary,2019,7.74
+Americas,BHS,Bahamas,2019,7.75
+Europe,HRV,Croatia,2019,7.95
+Americas,GRD,Grenada,2019,7.96
+Europe,LVA,Latvia,2019,8.05
+Europe,LTU,Lithuania,2019,8.14
+Americas,BRB,Barbados,2019,8.17
+Europe,PRT,Portugal,2019,8.2
+Europe,GRC,Greece,2019,8.31
+Western Pacific,KOR,Republic of Korea,2019,8.59
+Americas,CUB,Cuba,2019,8.89
+Eastern Mediterranean,ARE,United Arab Emirates,2019,8.91
+Europe,BGR,Bulgaria,2019,9.24
+Americas,TTO,Trinidad and Tobago,2019,9.33
+Europe,POL,Poland,2019,9.38
+Western Pacific,NZL,New Zealand,2019,9.57
+Americas,ATG,Antigua and Barbuda,2018,0
+Western Pacific,FSM,Micronesia (Federated States of),2018,0.21
+South-East Asia,MDV,Maldives,2018,1.72
+Europe,UKR,Ukraine,2018,10.01
+Americas,TTO,Trinidad and Tobago,2018,10.16
+Europe,ROU,Romania,2018,10.23
+Europe,UZB,Uzbekistan,2018,10.24
+Eastern Mediterranean,EGY,Egypt,2018,10.34
+Europe,ALB,Albania,2018,10.99
+Eastern Mediterranean,ARE,United Arab Emirates,2018,11.27
+Africa,SYC,Seychelles,2018,11.35
+South-East Asia,IDN,Indonesia,2018,11.59
+Europe,GEO,Georgia,2018,11.82
+Western Pacific,PHL,Philippines,2018,11.9
+South-East Asia,TLS,Timor-Leste,2018,12.25
+Western Pacific,FJI,Fiji,2018,12.25
+Africa,MUS,Mauritius,2018,12.38
+Americas,USA,United States of America,2018,12.55
+Europe,KGZ,Kyrgyzstan,2018,12.81
+Europe,RUS,Russian Federation,2018,12.89
+Western Pacific,WSM,Samoa,2018,12.94
+Americas,MEX,Mexico,2018,12.95
+Eastern Mediterranean,PAK,Pakistan,2018,13.15
+Western Pacific,PNG,Papua New Guinea,2018,13.51
+Americas,ARG,Argentina,2018,13.57
+Eastern Mediterranean,OMN,Oman,2018,13.6
+Americas,PER,Peru,2018,13.7
+Europe,KAZ,Kazakhstan,2018,13.77
+Americas,PAN,Panama,2018,13.89
+Americas,CHL,Chile,2018,13.99
+Europe,TKM,Turkmenistan,2018,14.14
+Europe,BIH,Bosnia and Herzegovina,2018,14.23
+Eastern Mediterranean,AFG,Afghanistan,2018,14.25
+Americas,JAM,Jamaica,2018,14.28
+Americas,CRI,Costa Rica,2018,14.42
+Western Pacific,VUT,Vanuatu,2018,15.07
+South-East Asia,IND,India,2018,15.53
+South-East Asia,BGD,Bangladesh,2018,15.53
+Americas,SUR,Suriname,2018,15.66
+Americas,URY,Uruguay,2018,15.77
+South-East Asia,BTN,Bhutan,2018,15.93
+Europe,TJK,Tajikistan,2018,16.05
+Americas,HND,Honduras,2018,16.13
+South-East Asia,NPL,Nepal,2018,16.23
+Eastern Mediterranean,KWT,Kuwait,2018,16.24
+Eastern Mediterranean,LBN,Lebanon,2018,16.29
+Americas,COL,Colombia,2018,16.32
+Americas,NIC,Nicaragua,2018,16.59
+Western Pacific,SLB,Solomon Islands,2018,16.62
+Americas,BRA,Brazil,2018,17.12
+Eastern Mediterranean,SYR,Syrian Arab Republic,2018,17.13
+Western Pacific,LAO,Lao People's Democratic Republic,2018,17.32
+Western Pacific,CHN,China,2018,17.57
+Eastern Mediterranean,JOR,Jordan,2018,17.63
+Eastern Mediterranean,MAR,Morocco,2018,17.68
+South-East Asia,LKA,Sri Lanka,2018,17.89
+Americas,HTI,Haiti,2018,18.59
+Eastern Mediterranean,LBY,Libya,2018,18.67
+Eastern Mediterranean,TUN,Tunisia,2018,18.73
+Western Pacific,KHM,Cambodia,2018,18.96
+Western Pacific,KIR,Kiribati,2018,2.13
+Europe,NOR,Norway,2018,2.14
+Western Pacific,SGP,Singapore,2018,2.28
+Europe,CHE,Switzerland,2018,2.82
+South-East Asia,MMR,Myanmar,2018,20.2
+Americas,GTM,Guatemala,2018,20.36
+Europe,ARM,Armenia,2018,20.39
+Africa,ZMB,Zambia,2018,20.51
+Americas,ECU,Ecuador,2018,20.7
+Americas,BOL,Bolivia (Plurinational State of),2018,20.71
+Americas,SLV,El Salvador,2018,20.75
+Western Pacific,MNG,Mongolia,2018,20.9
+Africa,NGA,Nigeria,2018,20.94
+Africa,DZA,Algeria,2018,20.96
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2018,21.66
+Americas,PRY,Paraguay,2018,22.06
+Americas,BLZ,Belize,2018,22.46
+Americas,GUY,Guyana,2018,22.53
+Western Pacific,MYS,Malaysia,2018,22.69
+Africa,ZAF,South Africa,2018,22.7
+Africa,MLI,Mali,2018,22.85
+Eastern Mediterranean,DJI,Djibouti,2018,23.6
+Africa,SEN,Senegal,2018,23.66
+Africa,GAB,Gabon,2018,23.77
+Africa,CIV,Côte d’Ivoire,2018,23.87
+Western Pacific,TON,Tonga,2018,23.9
+South-East Asia,PRK,Democratic People's Republic of Korea,2018,24.06
+Africa,GHA,Ghana,2018,25.29
+Africa,MRT,Mauritania,2018,25.63
+Africa,NER,Niger,2018,25.66
+Africa,BWA,Botswana,2018,25.71
+Africa,AGO,Angola,2018,25.99
+Eastern Mediterranean,SDN,Sudan,2018,26.1
+Africa,GNQ,Equatorial Guinea,2018,26.29
+Africa,CPV,Cabo Verde,2018,26.32
+Africa,COM,Comoros,2018,26.59
+Americas,LCA,Saint Lucia,2018,26.67
+Africa,BEN,Benin,2018,26.91
+Eastern Mediterranean,IRQ,Iraq,2018,27.12
+Eastern Mediterranean,SOM,Somalia,2018,27.39
+Africa,ETH,Ethiopia,2018,27.56
+Africa,STP,Sao Tome and Principe,2018,27.63
+Africa,KEN,Kenya,2018,27.99
+Eastern Mediterranean,YEM,Yemen,2018,28.39
+Africa,TGO,Togo,2018,28.84
+Africa,MDG,Madagascar,2018,29.03
+Africa,GMB,Gambia,2018,29.12
+Africa,COG,Congo,2018,29.17
+Western Pacific,VNM,Viet Nam,2018,29.17
+Africa,UGA,Uganda,2018,29.66
+Africa,GIN,Guinea,2018,29.73
+Africa,RWA,Rwanda,2018,29.91
+Africa,CMR,Cameroon,2018,29.92
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2018,3.02
+Europe,IRL,Ireland,2018,3.03
+Europe,DNK,Denmark,2018,3.19
+Europe,ISR,Israel,2018,3.4
+Europe,SWE,Sweden,2018,3.62
+Western Pacific,JPN,Japan,2018,3.65
+Africa,MOZ,Mozambique,2018,30.1
+Africa,TCD,Chad,2018,30.62
+Africa,BFA,Burkina Faso,2018,30.84
+Africa,TZA,United Republic of Tanzania,2018,31.02
+Africa,LSO,Lesotho,2018,31.64
+Africa,GNB,Guinea-Bissau,2018,32.13
+Africa,SLE,Sierra Leone,2018,32.18
+South-East Asia,THA,Thailand,2018,32.35
+Africa,COD,Democratic Republic of the Congo,2018,32.96
+Africa,SWZ,Eswatini,2018,33
+Africa,MWI,Malawi,2018,33.12
+Eastern Mediterranean,SAU,Saudi Arabia,2018,33.19
+Africa,NAM,Namibia,2018,34.05
+Africa,BDI,Burundi,2018,35.16
+Africa,SSD,South Sudan,2018,35.75
+Africa,CAF,Central African Republic,2018,35.97
+Africa,ERI,Eritrea,2018,37.41
+Africa,LBR,Liberia,2018,37.94
+Americas,VEN,Venezuela (Bolivarian Republic of),2018,38.22
+Europe,DEU,Germany,2018,4.09
+Europe,NLD,Netherlands,2018,4.1
+Europe,ESP,Spain,2018,4.11
+Europe,FIN,Finland,2018,4.45
+Europe,SVN,Slovenia,2018,4.52
+Europe,MLT,Malta,2018,4.63
+Western Pacific,AUS,Australia,2018,4.79
+Europe,AUT,Austria,2018,4.82
+Africa,ZWE,Zimbabwe,2018,40.64
+Europe,FRA,France,2018,5.15
+Europe,MKD,The former Yugoslav Republic of Macedonia,2018,5.18
+Americas,CAN,Canada,2018,5.43
+Europe,BEL,Belgium,2018,5.43
+Europe,CYP,Cyprus,2018,5.47
+Europe,ITA,Italy,2018,5.58
+Eastern Mediterranean,BHR,Bahrain,2018,5.66
+Europe,EST,Estonia,2018,5.72
+Americas,DOM,Dominican Republic,2018,53.46
+Europe,SVK,Slovakia,2018,6.14
+Europe,CZE,Czechia,2018,6.34
+Europe,LUX,Luxembourg,2018,6.68
+Europe,ISL,Iceland,2018,6.96
+Americas,VCT,Saint Vincent and the Grenadines,2018,7.14
+Europe,SRB,Serbia,2018,7.47
+Europe,LTU,Lithuania,2018,7.51
+Europe,MDA,Republic of Moldova,2018,7.68
+Western Pacific,BRN,Brunei Darussalam,2018,7.76
+Americas,GRD,Grenada,2018,7.79
+Europe,MNE,Montenegro,2018,7.81
+Europe,AZE,Azerbaijan,2018,8.08
+Eastern Mediterranean,QAT,Qatar,2018,8.08
+Europe,HUN,Hungary,2018,8.12
+Americas,BHS,Bahamas,2018,8.2
+Europe,GRC,Greece,2018,8.28
+Europe,BLR,Belarus,2018,8.31
+Americas,BRB,Barbados,2018,8.33
+Europe,TUR,Türkiye,2018,8.36
+Europe,HRV,Croatia,2018,8.44
+Western Pacific,KOR,Republic of Korea,2018,8.59
+Americas,CUB,Cuba,2018,8.8
+Western Pacific,NZL,New Zealand,2018,8.86
+Europe,BGR,Bulgaria,2018,8.92
+Europe,PRT,Portugal,2018,8.99
+Europe,LVA,Latvia,2018,9.07
+Europe,POL,Poland,2018,9.22
+Americas,ATG,Antigua and Barbuda,2017,0
+Western Pacific,FSM,Micronesia (Federated States of),2017,0.28
+South-East Asia,MDV,Maldives,2017,1.78
+Europe,UKR,Ukraine,2017,10.34
+Europe,MNE,Montenegro,2017,10.36
+Eastern Mediterranean,EGY,Egypt,2017,10.59
+Europe,ROU,Romania,2017,10.61
+Americas,TTO,Trinidad and Tobago,2017,11.07
+Western Pacific,FJI,Fiji,2017,11.1
+Europe,UZB,Uzbekistan,2017,11.22
+Europe,ALB,Albania,2017,11.44
+Africa,SYC,Seychelles,2017,11.44
+Western Pacific,PHL,Philippines,2017,11.76
+South-East Asia,IDN,Indonesia,2017,11.84
+Africa,MUS,Mauritius,2017,12.54
+South-East Asia,TLS,Timor-Leste,2017,12.6
+Americas,USA,United States of America,2017,12.78
+Western Pacific,WSM,Samoa,2017,13.03
+Americas,MEX,Mexico,2017,13.14
+Eastern Mediterranean,ARE,United Arab Emirates,2017,13.26
+Eastern Mediterranean,PAK,Pakistan,2017,13.28
+Europe,GEO,Georgia,2017,13.3
+Americas,PAN,Panama,2017,13.42
+Americas,JAM,Jamaica,2017,13.5
+Europe,RUS,Russian Federation,2017,13.52
+Americas,PER,Peru,2017,13.83
+Europe,KAZ,Kazakhstan,2017,13.88
+Western Pacific,PNG,Papua New Guinea,2017,13.9
+Americas,CHL,Chile,2017,13.97
+Americas,ARG,Argentina,2017,14
+Americas,URY,Uruguay,2017,14.11
+Eastern Mediterranean,OMN,Oman,2017,14.15
+Europe,TKM,Turkmenistan,2017,14.58
+Americas,CRI,Costa Rica,2017,14.71
+Eastern Mediterranean,AFG,Afghanistan,2017,15.13
+South-East Asia,IND,India,2017,15.16
+Western Pacific,VUT,Vanuatu,2017,15.27
+South-East Asia,BGD,Bangladesh,2017,15.62
+Europe,BIH,Bosnia and Herzegovina,2017,15.62
+South-East Asia,BTN,Bhutan,2017,15.68
+Americas,SUR,Suriname,2017,16
+South-East Asia,NPL,Nepal,2017,16.2
+Americas,HND,Honduras,2017,16.2
+Americas,NIC,Nicaragua,2017,16.25
+South-East Asia,LKA,Sri Lanka,2017,16.25
+Eastern Mediterranean,LBN,Lebanon,2017,16.33
+Europe,ARM,Armenia,2017,16.39
+Europe,KGZ,Kyrgyzstan,2017,16.53
+Western Pacific,SLB,Solomon Islands,2017,16.72
+Western Pacific,LAO,Lao People's Democratic Republic,2017,16.78
+Eastern Mediterranean,KWT,Kuwait,2017,17.09
+Eastern Mediterranean,SYR,Syrian Arab Republic,2017,17.11
+Americas,COL,Colombia,2017,17.2
+Western Pacific,TON,Tonga,2017,17.33
+Western Pacific,CHN,China,2017,17.78
+Europe,TJK,Tajikistan,2017,18.02
+Americas,GTM,Guatemala,2017,18.11
+Western Pacific,KHM,Cambodia,2017,18.39
+Americas,HTI,Haiti,2017,18.42
+Americas,BRA,Brazil,2017,18.69
+Eastern Mediterranean,MAR,Morocco,2017,19.14
+Americas,BLZ,Belize,2017,19.44
+Europe,NOR,Norway,2017,2.12
+Western Pacific,KIR,Kiribati,2017,2.36
+Western Pacific,SGP,Singapore,2017,2.48
+Europe,SWE,Sweden,2017,2.73
+Europe,CHE,Switzerland,2017,2.8
+South-East Asia,MMR,Myanmar,2017,20.03
+Americas,BOL,Bolivia (Plurinational State of),2017,20.32
+Eastern Mediterranean,IRQ,Iraq,2017,20.43
+Africa,ZMB,Zambia,2017,20.57
+Americas,SLV,El Salvador,2017,20.63
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2017,20.7
+Western Pacific,MNG,Mongolia,2017,20.75
+Africa,DZA,Algeria,2017,21.01
+Africa,NGA,Nigeria,2017,21.13
+Eastern Mediterranean,LBY,Libya,2017,21.32
+Americas,ECU,Ecuador,2017,21.33
+Eastern Mediterranean,JOR,Jordan,2017,21.52
+Eastern Mediterranean,TUN,Tunisia,2017,21.52
+Americas,PRY,Paraguay,2017,22.19
+Americas,GUY,Guyana,2017,22.73
+Western Pacific,MYS,Malaysia,2017,22.9
+Africa,MLI,Mali,2017,22.99
+Africa,ZAF,South Africa,2017,23.18
+Africa,CIV,Côte d’Ivoire,2017,23.63
+Eastern Mediterranean,DJI,Djibouti,2017,23.69
+South-East Asia,PRK,Democratic People's Republic of Korea,2017,23.76
+Africa,SEN,Senegal,2017,23.8
+Americas,LCA,Saint Lucia,2017,23.84
+Africa,GAB,Gabon,2017,23.91
+Africa,GHA,Ghana,2017,24.92
+Africa,BWA,Botswana,2017,25.03
+Africa,GNQ,Equatorial Guinea,2017,25.44
+Africa,AGO,Angola,2017,25.47
+Africa,MRT,Mauritania,2017,25.66
+Africa,NER,Niger,2017,25.81
+Africa,CPV,Cabo Verde,2017,25.86
+Africa,COM,Comoros,2017,26.6
+Eastern Mediterranean,SDN,Sudan,2017,26.87
+Africa,ETH,Ethiopia,2017,26.98
+Africa,BEN,Benin,2017,27.02
+Africa,STP,Sao Tome and Principe,2017,27.35
+Eastern Mediterranean,SOM,Somalia,2017,27.38
+Eastern Mediterranean,YEM,Yemen,2017,27.46
+Africa,KEN,Kenya,2017,27.68
+Western Pacific,VNM,Viet Nam,2017,27.84
+Africa,GMB,Gambia,2017,28.63
+Africa,COG,Congo,2017,28.64
+Africa,MDG,Madagascar,2017,28.81
+Africa,TCD,Chad,2017,28.92
+Africa,TGO,Togo,2017,29.16
+Africa,CMR,Cameroon,2017,29.66
+Africa,GIN,Guinea,2017,29.79
+Africa,UGA,Uganda,2017,29.94
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2017,3.02
+Europe,DNK,Denmark,2017,3.27
+Europe,IRL,Ireland,2017,3.41
+Europe,NLD,Netherlands,2017,3.71
+Western Pacific,JPN,Japan,2017,3.88
+Europe,DEU,Germany,2017,3.99
+Africa,MOZ,Mozambique,2017,30.18
+Africa,RWA,Rwanda,2017,30.38
+Eastern Mediterranean,SAU,Saudi Arabia,2017,30.64
+Africa,BFA,Burkina Faso,2017,30.66
+Africa,TZA,United Republic of Tanzania,2017,30.92
+Africa,SLE,Sierra Leone,2017,31.35
+Africa,GNB,Guinea-Bissau,2017,32.04
+Africa,SWZ,Eswatini,2017,32.58
+Africa,MWI,Malawi,2017,32.85
+Africa,COD,Democratic Republic of the Congo,2017,33.18
+Africa,NAM,Namibia,2017,33.3
+Africa,SSD,South Sudan,2017,34.69
+Africa,BDI,Burundi,2017,34.86
+South-East Asia,THA,Thailand,2017,35.11
+Africa,CAF,Central African Republic,2017,35.35
+Africa,ERI,Eritrea,2017,36.93
+Africa,LBR,Liberia,2017,37
+Americas,VEN,Venezuela (Bolivarian Republic of),2017,37.77
+Europe,ISR,Israel,2017,4.02
+Europe,EST,Estonia,2017,4.07
+Europe,ESP,Spain,2017,4.17
+Europe,FIN,Finland,2017,4.45
+Europe,LUX,Luxembourg,2017,4.79
+Europe,MLT,Malta,2017,4.9
+Europe,AUT,Austria,2017,4.92
+Africa,ZWE,Zimbabwe,2017,40.05
+Africa,LSO,Lesotho,2017,42.58
+Americas,DOM,Dominican Republic,2017,46.3
+Europe,SVN,Slovenia,2017,5.15
+Western Pacific,AUS,Australia,2017,5.2
+Europe,FRA,France,2017,5.48
+Europe,BEL,Belgium,2017,5.5
+Europe,ISL,Iceland,2017,5.54
+Americas,CAN,Canada,2017,5.59
+Europe,CZE,Czechia,2017,5.59
+Europe,ITA,Italy,2017,5.65
+Europe,CYP,Cyprus,2017,5.96
+Europe,MKD,The former Yugoslav Republic of Macedonia,2017,6.06
+Eastern Mediterranean,BHR,Bahrain,2017,6.19
+Europe,SVK,Slovakia,2017,6.23
+Americas,VCT,Saint Vincent and the Grenadines,2017,6.88
+Americas,GRD,Grenada,2017,7.61
+Europe,PRT,Portugal,2017,7.99
+Europe,HUN,Hungary,2017,7.99
+Western Pacific,BRN,Brunei Darussalam,2017,8.08
+Europe,LVA,Latvia,2017,8.1
+Europe,LTU,Lithuania,2017,8.18
+Europe,MDA,Republic of Moldova,2017,8.45
+Europe,AZE,Azerbaijan,2017,8.48
+Americas,BRB,Barbados,2017,8.5
+Europe,SRB,Serbia,2017,8.56
+Europe,GRC,Greece,2017,8.61
+Americas,BHS,Bahamas,2017,8.66
+Eastern Mediterranean,QAT,Qatar,2017,8.68
+Americas,CUB,Cuba,2017,8.7
+Europe,HRV,Croatia,2017,8.74
+Europe,BLR,Belarus,2017,8.92
+Western Pacific,NZL,New Zealand,2017,8.96
+Europe,POL,Poland,2017,9.12
+Europe,TUR,Türkiye,2017,9.44
+Western Pacific,KOR,Republic of Korea,2017,9.52
+Europe,BGR,Bulgaria,2017,9.9
+Americas,ATG,Antigua and Barbuda,2016,0
+South-East Asia,MDV,Maldives,2016,0.86
+Western Pacific,FSM,Micronesia (Federated States of),2016,1.81
+Europe,BGR,Bulgaria,2016,10.21
+Europe,ROU,Romania,2016,10.33
+Europe,MNE,Montenegro,2016,10.68
+Western Pacific,WSM,Samoa,2016,11.31
+Europe,UZB,Uzbekistan,2016,11.5
+Americas,TTO,Trinidad and Tobago,2016,11.98
+South-East Asia,IDN,Indonesia,2016,12.15
+Western Pacific,PHL,Philippines,2016,12.24
+Americas,CHL,Chile,2016,12.33
+Americas,USA,United States of America,2016,12.86
+Americas,JAM,Jamaica,2016,13.1
+South-East Asia,TLS,Timor-Leste,2016,13.2
+Americas,URY,Uruguay,2016,13.43
+Eastern Mediterranean,PAK,Pakistan,2016,13.55
+Americas,MEX,Mexico,2016,13.56
+Europe,UKR,Ukraine,2016,13.62
+Africa,MUS,Mauritius,2016,13.71
+Europe,ALB,Albania,2016,13.82
+Americas,PER,Peru,2016,13.86
+Western Pacific,PNG,Papua New Guinea,2016,13.9
+Americas,ARG,Argentina,2016,14.06
+Europe,TKM,Turkmenistan,2016,14.16
+Americas,PAN,Panama,2016,14.24
+Americas,SUR,Suriname,2016,14.34
+Europe,RUS,Russian Federation,2016,14.41
+South-East Asia,LKA,Sri Lanka,2016,14.73
+Eastern Mediterranean,AFG,Afghanistan,2016,14.81
+Europe,GEO,Georgia,2016,14.92
+Europe,KGZ,Kyrgyzstan,2016,15.08
+Americas,BOL,Bolivia (Plurinational State of),2016,15.29
+South-East Asia,IND,India,2016,15.33
+Western Pacific,VUT,Vanuatu,2016,15.45
+Africa,SYC,Seychelles,2016,15.67
+Europe,ARM,Armenia,2016,15.7
+South-East Asia,BGD,Bangladesh,2016,15.8
+Eastern Mediterranean,OMN,Oman,2016,15.92
+Americas,NIC,Nicaragua,2016,16.12
+Eastern Mediterranean,LBN,Lebanon,2016,16.23
+Europe,BIH,Bosnia and Herzegovina,2016,16.3
+Western Pacific,MNG,Mongolia,2016,16.33
+Western Pacific,LAO,Lao People's Democratic Republic,2016,16.36
+Americas,HND,Honduras,2016,16.37
+Americas,CRI,Costa Rica,2016,16.57
+Americas,GTM,Guatemala,2016,16.63
+Western Pacific,SLB,Solomon Islands,2016,16.79
+South-East Asia,NPL,Nepal,2016,16.95
+Europe,KAZ,Kazakhstan,2016,17.71
+Western Pacific,KHM,Cambodia,2016,17.78
+Western Pacific,TON,Tonga,2016,17.8
+Eastern Mediterranean,ARE,United Arab Emirates,2016,17.93
+Western Pacific,CHN,China,2016,18.02
+Eastern Mediterranean,KWT,Kuwait,2016,18.07
+Europe,TJK,Tajikistan,2016,18.2
+Americas,HTI,Haiti,2016,18.27
+Americas,COL,Colombia,2016,18.57
+South-East Asia,BTN,Bhutan,2016,18.87
+Eastern Mediterranean,MAR,Morocco,2016,19.69
+South-East Asia,MMR,Myanmar,2016,19.87
+Americas,BRA,Brazil,2016,19.89
+Europe,CHE,Switzerland,2016,2.66
+Europe,NOR,Norway,2016,2.72
+Western Pacific,SGP,Singapore,2016,2.74
+Eastern Mediterranean,IRQ,Iraq,2016,20.4
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2016,20.65
+Africa,DZA,Algeria,2016,21.05
+Americas,ECU,Ecuador,2016,21.16
+Africa,ZMB,Zambia,2016,21.22
+Africa,NGA,Nigeria,2016,21.4
+Americas,SLV,El Salvador,2016,22.2
+Americas,PRY,Paraguay,2016,22.56
+Eastern Mediterranean,TUN,Tunisia,2016,22.96
+Africa,GAB,Gabon,2016,23.09
+Africa,MLI,Mali,2016,23.15
+Africa,CIV,Côte d’Ivoire,2016,23.43
+Eastern Mediterranean,DJI,Djibouti,2016,23.79
+Western Pacific,MYS,Malaysia,2016,24.03
+Africa,SEN,Senegal,2016,24.07
+South-East Asia,PRK,Democratic People's Republic of Korea,2016,24.09
+Eastern Mediterranean,JOR,Jordan,2016,24.14
+Americas,GUY,Guyana,2016,24.63
+Africa,GHA,Ghana,2016,24.64
+Africa,GNQ,Equatorial Guinea,2016,24.69
+Africa,AGO,Angola,2016,24.75
+Africa,BWA,Botswana,2016,24.77
+Eastern Mediterranean,LBY,Libya,2016,25.19
+Africa,CPV,Cabo Verde,2016,25.42
+Eastern Mediterranean,SDN,Sudan,2016,25.54
+Africa,MRT,Mauritania,2016,25.56
+Africa,ZAF,South Africa,2016,25.81
+Africa,NER,Niger,2016,26.04
+Africa,ETH,Ethiopia,2016,26.38
+Africa,COM,Comoros,2016,26.52
+Western Pacific,VNM,Viet Nam,2016,26.67
+Africa,STP,Sao Tome and Principe,2016,27.06
+Eastern Mediterranean,YEM,Yemen,2016,27.3
+Eastern Mediterranean,SOM,Somalia,2016,27.38
+Africa,TCD,Chad,2016,27.4
+Africa,KEN,Kenya,2016,27.45
+Africa,BEN,Benin,2016,27.46
+Eastern Mediterranean,SYR,Syrian Arab Republic,2016,27.51
+Africa,GMB,Gambia,2016,28.15
+Americas,BLZ,Belize,2016,28.19
+Africa,COG,Congo,2016,28.21
+Africa,MDG,Madagascar,2016,28.55
+Eastern Mediterranean,SAU,Saudi Arabia,2016,28.7
+Africa,CMR,Cameroon,2016,29.53
+Africa,TGO,Togo,2016,29.61
+Africa,GIN,Guinea,2016,29.73
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2016,3.05
+Europe,SWE,Sweden,2016,3.13
+Europe,NLD,Netherlands,2016,3.82
+Europe,DNK,Denmark,2016,3.97
+Africa,RWA,Rwanda,2016,30.29
+Africa,UGA,Uganda,2016,30.36
+Africa,BFA,Burkina Faso,2016,30.49
+Africa,SLE,Sierra Leone,2016,30.52
+Africa,TZA,United Republic of Tanzania,2016,30.64
+Africa,LSO,Lesotho,2016,30.78
+Africa,MOZ,Mozambique,2016,31.14
+Africa,GNB,Guinea-Bissau,2016,31.7
+Africa,NAM,Namibia,2016,31.98
+Africa,SWZ,Eswatini,2016,32.41
+Africa,MWI,Malawi,2016,32.55
+South-East Asia,THA,Thailand,2016,32.55
+Africa,COD,Democratic Republic of the Congo,2016,33.67
+Africa,SSD,South Sudan,2016,33.8
+Africa,CAF,Central African Republic,2016,34.07
+Africa,BDI,Burundi,2016,34.81
+Americas,LCA,Saint Lucia,2016,34.99
+Americas,DOM,Dominican Republic,2016,35.43
+Americas,VEN,Venezuela (Bolivarian Republic of),2016,35.64
+Africa,LBR,Liberia,2016,36.13
+Africa,ERI,Eritrea,2016,37.17
+Africa,ZWE,Zimbabwe,2016,39.92
+Europe,DEU,Germany,2016,4.05
+Western Pacific,JPN,Japan,2016,4.09
+Europe,ESP,Spain,2016,4.12
+Europe,IRL,Ireland,2016,4.13
+Europe,ISR,Israel,2016,4.25
+Western Pacific,KIR,Kiribati,2016,4.44
+Europe,FIN,Finland,2016,4.73
+Europe,AUT,Austria,2016,5.17
+Europe,CYP,Cyprus,2016,5.21
+Europe,ITA,Italy,2016,5.49
+Europe,FRA,France,2016,5.54
+Western Pacific,AUS,Australia,2016,5.57
+Americas,BRB,Barbados,2016,5.6
+Europe,BEL,Belgium,2016,5.79
+Americas,CAN,Canada,2016,5.82
+Europe,CZE,Czechia,2016,5.93
+Europe,MLT,Malta,2016,5.96
+Europe,EST,Estonia,2016,6.08
+Europe,LUX,Luxembourg,2016,6.21
+Europe,SVK,Slovakia,2016,6.31
+Americas,VCT,Saint Vincent and the Grenadines,2016,6.39
+Europe,MKD,The former Yugoslav Republic of Macedonia,2016,6.44
+Europe,SVN,Slovenia,2016,6.46
+Europe,ISL,Iceland,2016,6.62
+Eastern Mediterranean,BHR,Bahrain,2016,6.94
+Europe,SRB,Serbia,2016,7.36
+Europe,PRT,Portugal,2016,7.44
+Europe,HUN,Hungary,2016,7.75
+Western Pacific,NZL,New Zealand,2016,7.81
+Europe,HRV,Croatia,2016,8.08
+Europe,LTU,Lithuania,2016,8.1
+Americas,BHS,Bahamas,2016,8.2
+Americas,CUB,Cuba,2016,8.6
+Europe,AZE,Azerbaijan,2016,8.68
+Europe,BLR,Belarus,2016,8.91
+Eastern Mediterranean,QAT,Qatar,2016,9
+Western Pacific,BRN,Brunei Darussalam,2016,9.05
+Americas,GRD,Grenada,2016,9.07
+Europe,LVA,Latvia,2016,9.32
+Europe,TUR,Türkiye,2016,9.43
+Europe,GRC,Greece,2016,9.67
+Europe,MDA,Republic of Moldova,2016,9.69
+Europe,POL,Poland,2016,9.73
+Western Pacific,KOR,Republic of Korea,2016,9.79
+Eastern Mediterranean,EGY,Egypt,2016,9.83
+Western Pacific,FJI,Fiji,2016,9.86
+Americas,ATG,Antigua and Barbuda,2015,0
+Western Pacific,FSM,Micronesia (Federated States of),2015,0.92
+Europe,ROU,Romania,2015,10
+Europe,BLR,Belarus,2015,10.07
+Europe,BGR,Bulgaria,2015,10.14
+Europe,AZE,Azerbaijan,2015,10.34
+Europe,MDA,Republic of Moldova,2015,10.37
+Europe,LTU,Lithuania,2015,10.47
+Western Pacific,KOR,Republic of Korea,2015,10.62
+Western Pacific,FJI,Fiji,2015,10.71
+Eastern Mediterranean,QAT,Qatar,2015,11.11
+Europe,LVA,Latvia,2015,11.16
+Western Pacific,WSM,Samoa,2015,11.37
+Americas,SUR,Suriname,2015,11.45
+Eastern Mediterranean,EGY,Egypt,2015,11.66
+Europe,UZB,Uzbekistan,2015,11.94
+Americas,USA,United States of America,2015,12.06
+Americas,CHL,Chile,2015,12.27
+South-East Asia,IDN,Indonesia,2015,12.28
+Western Pacific,PHL,Philippines,2015,12.46
+Europe,UKR,Ukraine,2015,12.9
+South-East Asia,TLS,Timor-Leste,2015,13.12
+Americas,TTO,Trinidad and Tobago,2015,13.14
+Americas,JAM,Jamaica,2015,13.28
+Americas,BRB,Barbados,2015,13.32
+Eastern Mediterranean,PAK,Pakistan,2015,13.54
+Americas,MEX,Mexico,2015,13.6
+Africa,SYC,Seychelles,2015,13.69
+Europe,ALB,Albania,2015,13.77
+Africa,MUS,Mauritius,2015,13.82
+Americas,PER,Peru,2015,13.85
+Americas,ARG,Argentina,2015,13.88
+South-East Asia,LKA,Sri Lanka,2015,13.89
+Americas,GTM,Guatemala,2015,14
+Western Pacific,PNG,Papua New Guinea,2015,14.09
+Americas,PAN,Panama,2015,14.24
+Eastern Mediterranean,AFG,Afghanistan,2015,14.36
+South-East Asia,BTN,Bhutan,2015,15.11
+Western Pacific,LAO,Lao People's Democratic Republic,2015,15.22
+Americas,URY,Uruguay,2015,15.3
+Western Pacific,VUT,Vanuatu,2015,15.49
+South-East Asia,IND,India,2015,15.61
+Europe,GEO,Georgia,2015,15.75
+South-East Asia,BGD,Bangladesh,2015,15.81
+Europe,BIH,Bosnia and Herzegovina,2015,15.83
+Americas,HND,Honduras,2015,16.03
+Americas,NIC,Nicaragua,2015,16.13
+Eastern Mediterranean,LBN,Lebanon,2015,16.2
+South-East Asia,NPL,Nepal,2015,16.3
+Eastern Mediterranean,OMN,Oman,2015,16.31
+Europe,TKM,Turkmenistan,2015,16.35
+Americas,CRI,Costa Rica,2015,16.46
+Europe,ARM,Armenia,2015,16.75
+Western Pacific,SLB,Solomon Islands,2015,16.91
+Western Pacific,KHM,Cambodia,2015,17.37
+Europe,KGZ,Kyrgyzstan,2015,17.49
+Europe,RUS,Russian Federation,2015,17.49
+Americas,COL,Colombia,2015,17.97
+Americas,HTI,Haiti,2015,17.99
+Eastern Mediterranean,ARE,United Arab Emirates,2015,18.09
+Western Pacific,CHN,China,2015,18.25
+Europe,TJK,Tajikistan,2015,18.36
+Europe,KAZ,Kazakhstan,2015,18.39
+Americas,BOL,Bolivia (Plurinational State of),2015,18.8
+Eastern Mediterranean,KWT,Kuwait,2015,18.85
+Americas,LCA,Saint Lucia,2015,18.98
+Western Pacific,MNG,Mongolia,2015,19.44
+South-East Asia,MMR,Myanmar,2015,19.73
+Eastern Mediterranean,MAR,Morocco,2015,19.74
+Europe,NOR,Norway,2015,2.56
+South-East Asia,MDV,Maldives,2015,2.64
+Europe,MLT,Malta,2015,2.77
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015,2.93
+Western Pacific,SGP,Singapore,2015,2.99
+Eastern Mediterranean,IRQ,Iraq,2015,20.46
+Americas,BRA,Brazil,2015,20.79
+Americas,SLV,El Salvador,2015,20.82
+Africa,ZMB,Zambia,2015,20.86
+Africa,DZA,Algeria,2015,21.18
+Africa,NGA,Nigeria,2015,21.39
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2015,21.78
+Americas,PRY,Paraguay,2015,22.01
+Western Pacific,MYS,Malaysia,2015,22.84
+Eastern Mediterranean,TUN,Tunisia,2015,22.89
+Africa,GAB,Gabon,2015,22.9
+Africa,CIV,Côte d’Ivoire,2015,23.16
+Africa,MLI,Mali,2015,23.25
+Americas,ECU,Ecuador,2015,23.46
+South-East Asia,PRK,Democratic People's Republic of Korea,2015,23.49
+Africa,AGO,Angola,2015,23.62
+Africa,GNQ,Equatorial Guinea,2015,23.79
+Eastern Mediterranean,DJI,Djibouti,2015,23.85
+Eastern Mediterranean,JOR,Jordan,2015,23.96
+Africa,SEN,Senegal,2015,24.06
+Africa,ZAF,South Africa,2015,24.09
+Eastern Mediterranean,LBY,Libya,2015,24.27
+Africa,GHA,Ghana,2015,24.36
+Americas,GUY,Guyana,2015,24.37
+Africa,BWA,Botswana,2015,24.8
+Africa,CPV,Cabo Verde,2015,24.96
+Eastern Mediterranean,SDN,Sudan,2015,25.15
+Western Pacific,VNM,Viet Nam,2015,25.45
+Americas,BLZ,Belize,2015,25.47
+Africa,TCD,Chad,2015,25.72
+Africa,MRT,Mauritania,2015,25.75
+Eastern Mediterranean,SYR,Syrian Arab Republic,2015,25.91
+Eastern Mediterranean,YEM,Yemen,2015,26.02
+Africa,ETH,Ethiopia,2015,26.04
+Africa,NER,Niger,2015,26.07
+Eastern Mediterranean,SAU,Saudi Arabia,2015,26.21
+Africa,COM,Comoros,2015,26.63
+Africa,STP,Sao Tome and Principe,2015,27.08
+Eastern Mediterranean,SOM,Somalia,2015,27.17
+Africa,BEN,Benin,2015,27.3
+Africa,KEN,Kenya,2015,27.3
+Africa,COG,Congo,2015,27.58
+Africa,GMB,Gambia,2015,27.76
+Africa,MDG,Madagascar,2015,28.34
+Africa,CMR,Cameroon,2015,29
+Africa,TGO,Togo,2015,29.92
+Africa,GIN,Guinea,2015,29.94
+Europe,CHE,Switzerland,2015,3.15
+Europe,SWE,Sweden,2015,3.21
+Europe,DNK,Denmark,2015,3.47
+Europe,IRL,Ireland,2015,3.59
+Western Pacific,KIR,Kiribati,2015,3.61
+Europe,NLD,Netherlands,2015,3.78
+Africa,LSO,Lesotho,2015,30.15
+Africa,RWA,Rwanda,2015,30.21
+Africa,UGA,Uganda,2015,30.28
+Africa,SLE,Sierra Leone,2015,30.35
+Africa,BFA,Burkina Faso,2015,30.42
+Africa,MOZ,Mozambique,2015,30.71
+Africa,TZA,United Republic of Tanzania,2015,30.8
+Africa,SWZ,Eswatini,2015,31.52
+Africa,NAM,Namibia,2015,31.97
+Africa,GNB,Guinea-Bissau,2015,32.06
+Africa,MWI,Malawi,2015,32.37
+South-East Asia,THA,Thailand,2015,32.82
+Americas,DOM,Dominican Republic,2015,32.86
+Africa,SSD,South Sudan,2015,33.06
+Africa,COD,Democratic Republic of the Congo,2015,33.49
+Africa,CAF,Central African Republic,2015,34.01
+Africa,BDI,Burundi,2015,34.43
+Americas,VEN,Venezuela (Bolivarian Republic of),2015,34.91
+Africa,LBR,Liberia,2015,35.19
+Africa,ERI,Eritrea,2015,36.94
+Africa,ZWE,Zimbabwe,2015,38.75
+Europe,ISR,Israel,2015,4.16
+Western Pacific,JPN,Japan,2015,4.22
+Europe,ESP,Spain,2015,4.23
+Europe,DEU,Germany,2015,4.36
+Europe,ISL,Iceland,2015,4.85
+Europe,FIN,Finland,2015,5.07
+Western Pacific,AUS,Australia,2015,5.19
+Europe,FRA,France,2015,5.54
+Europe,AUT,Austria,2015,5.69
+Americas,CAN,Canada,2015,5.75
+Europe,ITA,Italy,2015,5.88
+Europe,SVN,Slovenia,2015,6.04
+Europe,SVK,Slovakia,2015,6.39
+Europe,EST,Estonia,2015,6.39
+Americas,VCT,Saint Vincent and the Grenadines,2015,6.41
+Europe,LUX,Luxembourg,2015,6.53
+Europe,BEL,Belgium,2015,6.69
+Europe,CYP,Cyprus,2015,6.72
+Europe,SRB,Serbia,2015,6.73
+Western Pacific,TON,Tonga,2015,6.95
+Europe,CZE,Czechia,2015,7.18
+Europe,MKD,The former Yugoslav Republic of Macedonia,2015,7.36
+Eastern Mediterranean,BHR,Bahrain,2015,7.51
+Western Pacific,NZL,New Zealand,2015,7.71
+Europe,HUN,Hungary,2015,7.84
+Americas,GRD,Grenada,2015,8.21
+Americas,BHS,Bahamas,2015,8.26
+Europe,PRT,Portugal,2015,8.26
+Europe,MNE,Montenegro,2015,8.45
+Western Pacific,BRN,Brunei Darussalam,2015,8.92
+Americas,CUB,Cuba,2015,9.01
+Europe,HRV,Croatia,2015,9.26
+Europe,GRC,Greece,2015,9.27
+Europe,POL,Poland,2015,9.34
+Europe,TUR,Türkiye,2015,9.89
+Americas,ATG,Antigua and Barbuda,2014,0.55
+Western Pacific,FSM,Micronesia (Federated States of),2014,0.93
+Europe,ISL,Iceland,2014,1.83
+Europe,POL,Poland,2014,10.36
+Europe,MNE,Montenegro,2014,10.69
+Western Pacific,KOR,Republic of Korea,2014,10.87
+Europe,UZB,Uzbekistan,2014,10.87
+Western Pacific,PHL,Philippines,2014,10.92
+Europe,LTU,Lithuania,2014,11.21
+Europe,MDA,Republic of Moldova,2014,11.27
+Americas,USA,United States of America,2014,11.32
+Western Pacific,WSM,Samoa,2014,11.45
+Europe,BLR,Belarus,2014,11.48
+Americas,JAM,Jamaica,2014,11.5
+South-East Asia,BTN,Bhutan,2014,11.82
+South-East Asia,LKA,Sri Lanka,2014,12.1
+Americas,CHL,Chile,2014,12.3
+Eastern Mediterranean,EGY,Egypt,2014,12.34
+Europe,LVA,Latvia,2014,12.37
+South-East Asia,IDN,Indonesia,2014,12.74
+Africa,SYC,Seychelles,2014,12.74
+Americas,GTM,Guatemala,2014,12.84
+Americas,LCA,Saint Lucia,2014,12.9
+South-East Asia,TLS,Timor-Leste,2014,13.03
+Africa,MUS,Mauritius,2014,13.12
+Europe,AZE,Azerbaijan,2014,13.16
+Americas,MEX,Mexico,2014,13.3
+Americas,ARG,Argentina,2014,13.37
+Eastern Mediterranean,QAT,Qatar,2014,13.42
+Eastern Mediterranean,PAK,Pakistan,2014,13.55
+Americas,PER,Peru,2014,13.55
+Europe,ALB,Albania,2014,13.6
+Europe,UKR,Ukraine,2014,13.75
+Eastern Mediterranean,AFG,Afghanistan,2014,14.06
+Americas,PAN,Panama,2014,14.2
+Americas,CRI,Costa Rica,2014,14.22
+Western Pacific,PNG,Papua New Guinea,2014,14.35
+Europe,GEO,Georgia,2014,14.5
+Western Pacific,VUT,Vanuatu,2014,14.78
+Americas,TTO,Trinidad and Tobago,2014,14.83
+Europe,BIH,Bosnia and Herzegovina,2014,15.45
+South-East Asia,BGD,Bangladesh,2014,15.91
+South-East Asia,NPL,Nepal,2014,15.94
+Eastern Mediterranean,LBN,Lebanon,2014,16.1
+South-East Asia,IND,India,2014,16.11
+Americas,HND,Honduras,2014,16.15
+Americas,NIC,Nicaragua,2014,16.17
+Americas,SUR,Suriname,2014,16.27
+Americas,URY,Uruguay,2014,16.32
+Europe,TKM,Turkmenistan,2014,16.34
+Western Pacific,LAO,Lao People's Democratic Republic,2014,16.37
+Europe,ARM,Armenia,2014,16.65
+Western Pacific,SLB,Solomon Islands,2014,16.86
+Americas,COL,Colombia,2014,16.91
+Europe,KGZ,Kyrgyzstan,2014,17.3
+Western Pacific,KHM,Cambodia,2014,17.35
+Eastern Mediterranean,ARE,United Arab Emirates,2014,17.76
+Americas,HTI,Haiti,2014,17.86
+Europe,TJK,Tajikistan,2014,18.36
+Western Pacific,CHN,China,2014,18.83
+Eastern Mediterranean,KWT,Kuwait,2014,19.05
+Europe,KAZ,Kazakhstan,2014,19.29
+South-East Asia,MMR,Myanmar,2014,19.62
+Eastern Mediterranean,MAR,Morocco,2014,19.84
+Americas,BOL,Bolivia (Plurinational State of),2014,19.89
+Europe,MLT,Malta,2014,2.32
+South-East Asia,MDV,Maldives,2014,2.53
+Europe,RUS,Russian Federation,2014,20.35
+Americas,SLV,El Salvador,2014,20.4
+Eastern Mediterranean,IRQ,Iraq,2014,20.51
+Africa,ZMB,Zambia,2014,20.58
+Eastern Mediterranean,OMN,Oman,2014,20.88
+Africa,DZA,Algeria,2014,21.21
+Americas,PRY,Paraguay,2014,21.79
+Africa,NGA,Nigeria,2014,21.94
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2014,22.46
+Eastern Mediterranean,TUN,Tunisia,2014,22.75
+Africa,GAB,Gabon,2014,22.79
+Africa,GNQ,Equatorial Guinea,2014,22.99
+Africa,CIV,Côte d’Ivoire,2014,23.03
+Western Pacific,MYS,Malaysia,2014,23.04
+Africa,AGO,Angola,2014,23.19
+Africa,MLI,Mali,2014,23.42
+South-East Asia,PRK,Democratic People's Republic of Korea,2014,23.53
+Americas,BRA,Brazil,2014,23.62
+Eastern Mediterranean,LBY,Libya,2014,23.63
+Eastern Mediterranean,DJI,Djibouti,2014,23.81
+Western Pacific,MNG,Mongolia,2014,23.81
+Eastern Mediterranean,JOR,Jordan,2014,23.92
+Africa,GHA,Ghana,2014,23.96
+Americas,ECU,Ecuador,2014,23.98
+Africa,ZAF,South Africa,2014,24.01
+Africa,SEN,Senegal,2014,24.14
+Africa,BWA,Botswana,2014,24.23
+Americas,BLZ,Belize,2014,24.32
+Eastern Mediterranean,YEM,Yemen,2014,24.32
+Africa,CPV,Cabo Verde,2014,24.5
+Africa,TCD,Chad,2014,24.63
+Western Pacific,VNM,Viet Nam,2014,24.67
+Eastern Mediterranean,SYR,Syrian Arab Republic,2014,24.82
+Eastern Mediterranean,SDN,Sudan,2014,24.93
+Eastern Mediterranean,SAU,Saudi Arabia,2014,24.96
+Africa,MRT,Mauritania,2014,25.59
+Africa,ETH,Ethiopia,2014,25.82
+Africa,NER,Niger,2014,26.08
+Africa,COM,Comoros,2014,26.34
+Africa,STP,Sao Tome and Principe,2014,26.57
+Africa,KEN,Kenya,2014,26.64
+Africa,BEN,Benin,2014,27.03
+Eastern Mediterranean,SOM,Somalia,2014,27.22
+Africa,GMB,Gambia,2014,27.27
+Africa,COG,Congo,2014,27.32
+Africa,MDG,Madagascar,2014,28.11
+Americas,GUY,Guyana,2014,28.43
+Africa,SLE,Sierra Leone,2014,28.72
+Africa,CMR,Cameroon,2014,28.9
+Africa,LSO,Lesotho,2014,29.51
+Africa,GIN,Guinea,2014,29.81
+Africa,RWA,Rwanda,2014,29.89
+Europe,NOR,Norway,2014,3.01
+Europe,CHE,Switzerland,2014,3.06
+Western Pacific,SGP,Singapore,2014,3.15
+Europe,SWE,Sweden,2014,3.17
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2014,3.22
+Europe,DNK,Denmark,2014,3.46
+Europe,NLD,Netherlands,2014,3.48
+Europe,ISR,Israel,2014,3.56
+Africa,UGA,Uganda,2014,30.22
+Africa,BFA,Burkina Faso,2014,30.23
+Africa,TGO,Togo,2014,30.27
+Africa,MOZ,Mozambique,2014,30.44
+Africa,TZA,United Republic of Tanzania,2014,30.62
+Africa,NAM,Namibia,2014,31.05
+Africa,SWZ,Eswatini,2014,31.14
+Americas,DOM,Dominican Republic,2014,31.69
+Africa,SSD,South Sudan,2014,31.87
+Africa,MWI,Malawi,2014,32.12
+Africa,GNB,Guinea-Bissau,2014,32.2
+South-East Asia,THA,Thailand,2014,32.6
+Africa,BDI,Burundi,2014,33.59
+Africa,COD,Democratic Republic of the Congo,2014,33.6
+Africa,CAF,Central African Republic,2014,33.68
+Americas,VEN,Venezuela (Bolivarian Republic of),2014,34.48
+Africa,LBR,Liberia,2014,34.8
+Africa,ERI,Eritrea,2014,35
+Africa,ZWE,Zimbabwe,2014,37.91
+Europe,ESP,Spain,2014,4.2
+Western Pacific,JPN,Japan,2014,4.23
+Europe,IRL,Ireland,2014,4.3
+Europe,DEU,Germany,2014,4.3
+Europe,FIN,Finland,2014,4.41
+Western Pacific,KIR,Kiribati,2014,4.57
+Americas,GRD,Grenada,2014,4.59
+Europe,AUT,Austria,2014,5.14
+Europe,CYP,Cyprus,2014,5.29
+Western Pacific,AUS,Australia,2014,5.37
+Europe,FRA,France,2014,5.44
+Europe,SVN,Slovenia,2014,5.47
+Americas,CAN,Canada,2014,5.79
+Europe,ITA,Italy,2014,5.84
+Western Pacific,TON,Tonga,2014,5.94
+Europe,EST,Estonia,2014,6.08
+Americas,VCT,Saint Vincent and the Grenadines,2014,6.43
+Europe,MKD,The former Yugoslav Republic of Macedonia,2014,6.45
+Europe,LUX,Luxembourg,2014,6.49
+Europe,SVK,Slovakia,2014,6.56
+Europe,BEL,Belgium,2014,6.68
+Europe,CZE,Czechia,2014,6.69
+Western Pacific,NZL,New Zealand,2014,7.16
+Eastern Mediterranean,BHR,Bahrain,2014,7.33
+Europe,SRB,Serbia,2014,7.45
+Europe,HUN,Hungary,2014,7.99
+Western Pacific,FJI,Fiji,2014,8.08
+Americas,BHS,Bahamas,2014,8.11
+Europe,HRV,Croatia,2014,8.15
+Americas,BRB,Barbados,2014,8.43
+Europe,PRT,Portugal,2014,8.48
+Americas,CUB,Cuba,2014,8.49
+Western Pacific,BRN,Brunei Darussalam,2014,8.54
+Europe,GRC,Greece,2014,9.29
+Europe,BGR,Bulgaria,2014,9.38
+Europe,TUR,Türkiye,2014,9.65
+Europe,ROU,Romania,2014,9.96
+Western Pacific,KIR,Kiribati,2013,0.93
+Americas,ATG,Antigua and Barbuda,2013,1.68
+Western Pacific,FSM,Micronesia (Federated States of),2013,1.89
+Europe,TUR,Türkiye,2013,10.31
+Europe,GRC,Greece,2013,10.33
+Eastern Mediterranean,EGY,Egypt,2013,10.5
+Western Pacific,PHL,Philippines,2013,10.63
+Americas,JAM,Jamaica,2013,10.72
+Europe,POL,Poland,2013,10.76
+Europe,MDA,Republic of Moldova,2013,10.77
+Americas,USA,United States of America,2013,11.43
+Europe,UZB,Uzbekistan,2013,11.63
+Western Pacific,KOR,Republic of Korea,2013,11.78
+South-East Asia,BTN,Bhutan,2013,11.83
+Europe,MNE,Montenegro,2013,12.13
+Africa,MUS,Mauritius,2013,12.19
+Americas,CHL,Chile,2013,12.38
+South-East Asia,LKA,Sri Lanka,2013,12.63
+Americas,PAN,Panama,2013,12.88
+South-East Asia,IDN,Indonesia,2013,12.9
+Americas,GTM,Guatemala,2013,13.07
+Europe,GEO,Georgia,2013,13.09
+Western Pacific,VUT,Vanuatu,2013,13.25
+Americas,MEX,Mexico,2013,13.34
+Europe,BLR,Belarus,2013,13.57
+Americas,CRI,Costa Rica,2013,13.58
+Americas,NIC,Nicaragua,2013,13.69
+Eastern Mediterranean,PAK,Pakistan,2013,13.71
+Europe,AZE,Azerbaijan,2013,13.81
+Europe,ALB,Albania,2013,13.88
+Americas,TTO,Trinidad and Tobago,2013,13.96
+Eastern Mediterranean,AFG,Afghanistan,2013,13.97
+Americas,PER,Peru,2013,14
+Americas,BRB,Barbados,2013,14.1
+Americas,BHS,Bahamas,2013,14.13
+Eastern Mediterranean,QAT,Qatar,2013,14.21
+Western Pacific,LAO,Lao People's Democratic Republic,2013,14.34
+Americas,ARG,Argentina,2013,14.34
+Americas,SUR,Suriname,2013,14.43
+Europe,UKR,Ukraine,2013,14.56
+South-East Asia,TLS,Timor-Leste,2013,14.83
+Europe,BIH,Bosnia and Herzegovina,2013,15.36
+South-East Asia,NPL,Nepal,2013,15.74
+South-East Asia,BGD,Bangladesh,2013,15.92
+Eastern Mediterranean,LBN,Lebanon,2013,15.95
+Western Pacific,PNG,Papua New Guinea,2013,16.29
+Americas,HND,Honduras,2013,16.42
+Americas,COL,Colombia,2013,16.71
+Europe,ARM,Armenia,2013,16.77
+South-East Asia,IND,India,2013,17
+Europe,TKM,Turkmenistan,2013,17.03
+Western Pacific,KHM,Cambodia,2013,17.14
+Western Pacific,SLB,Solomon Islands,2013,17.15
+Americas,URY,Uruguay,2013,17.26
+Americas,HTI,Haiti,2013,17.65
+Eastern Mediterranean,ARE,United Arab Emirates,2013,17.65
+Americas,LCA,Saint Lucia,2013,18.03
+Eastern Mediterranean,IRQ,Iraq,2013,18.03
+Western Pacific,WSM,Samoa,2013,18.35
+Europe,TJK,Tajikistan,2013,18.6
+Americas,SLV,El Salvador,2013,19.02
+South-East Asia,MMR,Myanmar,2013,19.49
+Western Pacific,CHN,China,2013,19.62
+Americas,GUY,Guyana,2013,19.76
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2013,2.86
+South-East Asia,MDV,Maldives,2013,2.89
+Eastern Mediterranean,MAR,Morocco,2013,20.08
+Europe,KGZ,Kyrgyzstan,2013,20.17
+Africa,ZMB,Zambia,2013,20.37
+Europe,RUS,Russian Federation,2013,20.67
+Western Pacific,MNG,Mongolia,2013,20.72
+Africa,BWA,Botswana,2013,20.9
+Africa,DZA,Algeria,2013,21.11
+Eastern Mediterranean,KWT,Kuwait,2013,21.58
+Americas,BLZ,Belize,2013,21.68
+Africa,NGA,Nigeria,2013,22.02
+Americas,ECU,Ecuador,2013,22.09
+Eastern Mediterranean,SDN,Sudan,2013,22.19
+Africa,GNQ,Equatorial Guinea,2013,22.2
+Africa,AGO,Angola,2013,22.36
+Europe,KAZ,Kazakhstan,2013,22.76
+Africa,ZAF,South Africa,2013,22.83
+Eastern Mediterranean,TUN,Tunisia,2013,22.84
+Eastern Mediterranean,LBY,Libya,2013,23.02
+Eastern Mediterranean,SYR,Syrian Arab Republic,2013,23.04
+Americas,BRA,Brazil,2013,23.14
+Americas,PRY,Paraguay,2013,23.22
+South-East Asia,PRK,Democratic People's Republic of Korea,2013,23.22
+Eastern Mediterranean,YEM,Yemen,2013,23.4
+Africa,GHA,Ghana,2013,23.43
+Americas,BOL,Bolivia (Plurinational State of),2013,23.49
+Africa,CIV,Côte d’Ivoire,2013,23.53
+Africa,GAB,Gabon,2013,23.63
+Africa,MLI,Mali,2013,23.67
+Eastern Mediterranean,DJI,Djibouti,2013,23.77
+Eastern Mediterranean,JOR,Jordan,2013,23.86
+Africa,TCD,Chad,2013,23.99
+Africa,CPV,Cabo Verde,2013,24.04
+Western Pacific,MYS,Malaysia,2013,24.19
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2013,24.26
+Africa,SEN,Senegal,2013,24.59
+Western Pacific,VNM,Viet Nam,2013,24.99
+Eastern Mediterranean,OMN,Oman,2013,24.99
+Africa,MRT,Mauritania,2013,25.46
+Africa,ETH,Ethiopia,2013,25.77
+Africa,NER,Niger,2013,26.07
+Eastern Mediterranean,SAU,Saudi Arabia,2013,26.28
+Africa,KEN,Kenya,2013,26.43
+Africa,STP,Sao Tome and Principe,2013,26.55
+Africa,COM,Comoros,2013,26.57
+Africa,GMB,Gambia,2013,26.68
+Africa,COG,Congo,2013,26.95
+Eastern Mediterranean,SOM,Somalia,2013,26.98
+Africa,BEN,Benin,2013,26.98
+Africa,MDG,Madagascar,2013,27.73
+Africa,SLE,Sierra Leone,2013,28.44
+Africa,CMR,Cameroon,2013,28.7
+Africa,LSO,Lesotho,2013,28.8
+Africa,GIN,Guinea,2013,29.51
+Africa,BFA,Burkina Faso,2013,29.79
+Africa,UGA,Uganda,2013,29.94
+Europe,SWE,Sweden,2013,3.13
+Western Pacific,SGP,Singapore,2013,3.17
+Europe,CHE,Switzerland,2013,3.42
+Europe,NLD,Netherlands,2013,3.49
+Europe,DNK,Denmark,2013,3.51
+Europe,ISR,Israel,2013,3.7
+Europe,NOR,Norway,2013,3.8
+Africa,NAM,Namibia,2013,30.27
+Africa,MOZ,Mozambique,2013,30.28
+Africa,TZA,United Republic of Tanzania,2013,30.29
+Africa,TGO,Togo,2013,30.67
+Africa,SWZ,Eswatini,2013,30.73
+Africa,SSD,South Sudan,2013,31.18
+Africa,GNB,Guinea-Bissau,2013,31.49
+Africa,MWI,Malawi,2013,31.83
+Africa,RWA,Rwanda,2013,32.37
+Africa,CAF,Central African Republic,2013,33.27
+Africa,BDI,Burundi,2013,33.8
+Africa,COD,Democratic Republic of the Congo,2013,33.97
+Africa,LBR,Liberia,2013,34.13
+Africa,ERI,Eritrea,2013,34.53
+Americas,VEN,Venezuela (Bolivarian Republic of),2013,35.38
+South-East Asia,THA,Thailand,2013,36.04
+Africa,ZWE,Zimbabwe,2013,37.68
+Americas,DOM,Dominican Republic,2013,39.96
+Europe,ESP,Spain,2013,4.03
+Europe,IRL,Ireland,2013,4.2
+Europe,DEU,Germany,2013,4.38
+Western Pacific,JPN,Japan,2013,4.51
+Europe,MLT,Malta,2013,4.69
+Europe,ISL,Iceland,2013,4.89
+Europe,FIN,Finland,2013,4.93
+Europe,CYP,Cyprus,2013,4.98
+Europe,SVK,Slovakia,2013,5.23
+Western Pacific,AUS,Australia,2013,5.26
+Europe,FRA,France,2013,5.27
+Europe,AUT,Austria,2013,5.48
+Europe,ITA,Italy,2013,5.83
+Western Pacific,NZL,New Zealand,2013,6.17
+Europe,SVN,Slovenia,2013,6.25
+Americas,CAN,Canada,2013,6.27
+Europe,CZE,Czechia,2013,6.37
+Western Pacific,FJI,Fiji,2013,6.82
+Europe,BEL,Belgium,2013,6.98
+Europe,EST,Estonia,2013,7.13
+Europe,HUN,Hungary,2013,7.8
+Western Pacific,TON,Tonga,2013,7.86
+Europe,PRT,Portugal,2013,7.91
+Americas,CUB,Cuba,2013,8.04
+Americas,VCT,Saint Vincent and the Grenadines,2013,8.29
+Americas,GRD,Grenada,2013,8.32
+Europe,LUX,Luxembourg,2013,8.33
+Europe,SRB,Serbia,2013,8.42
+Europe,BGR,Bulgaria,2013,8.5
+Africa,SYC,Seychelles,2013,8.57
+Europe,HRV,Croatia,2013,9.24
+Western Pacific,BRN,Brunei Darussalam,2013,9.64
+Europe,LTU,Lithuania,2013,9.7
+Eastern Mediterranean,BHR,Bahrain,2013,9.73
+Europe,ROU,Romania,2013,9.75
+Europe,MKD,The former Yugoslav Republic of Macedonia,2013,9.83
+Europe,LVA,Latvia,2013,9.88
+Western Pacific,FSM,Micronesia (Federated States of),2012,0
+Americas,ATG,Antigua and Barbuda,2012,0.74
+South-East Asia,MDV,Maldives,2012,1.28
+Europe,LVA,Latvia,2012,10.05
+Eastern Mediterranean,EGY,Egypt,2012,10.24
+Europe,UZB,Uzbekistan,2012,10.34
+Europe,ROU,Romania,2012,10.41
+Europe,TUR,Türkiye,2012,10.65
+Africa,SYC,Seychelles,2012,10.8
+Western Pacific,PHL,Philippines,2012,10.81
+Europe,POL,Poland,2012,11.08
+Europe,GRC,Greece,2012,11.25
+Americas,GTM,Guatemala,2012,11.51
+Americas,CHL,Chile,2012,11.73
+Americas,USA,United States of America,2012,11.91
+Western Pacific,WSM,Samoa,2012,12.69
+Western Pacific,KOR,Republic of Korea,2012,12.7
+Eastern Mediterranean,QAT,Qatar,2012,12.7
+South-East Asia,LKA,Sri Lanka,2012,12.87
+Europe,LTU,Lithuania,2012,12.94
+Americas,BHS,Bahamas,2012,12.96
+South-East Asia,IDN,Indonesia,2012,13.05
+Americas,ARG,Argentina,2012,13.1
+Western Pacific,VUT,Vanuatu,2012,13.23
+Eastern Mediterranean,AFG,Afghanistan,2012,13.79
+Europe,ALB,Albania,2012,13.83
+Europe,MDA,Republic of Moldova,2012,13.84
+Eastern Mediterranean,PAK,Pakistan,2012,13.84
+Europe,AZE,Azerbaijan,2012,14.03
+Africa,MUS,Mauritius,2012,14.04
+Americas,PAN,Panama,2012,14.11
+Western Pacific,LAO,Lao People's Democratic Republic,2012,14.21
+Americas,PER,Peru,2012,14.57
+Americas,MEX,Mexico,2012,14.58
+South-East Asia,TLS,Timor-Leste,2012,14.65
+Americas,BRB,Barbados,2012,14.8
+Americas,CRI,Costa Rica,2012,14.91
+Americas,NIC,Nicaragua,2012,15.21
+South-East Asia,BTN,Bhutan,2012,15.25
+Europe,GEO,Georgia,2012,15.35
+Europe,UKR,Ukraine,2012,15.53
+Americas,URY,Uruguay,2012,15.6
+Europe,BIH,Bosnia and Herzegovina,2012,15.65
+Americas,SUR,Suriname,2012,15.7
+South-East Asia,NPL,Nepal,2012,15.7
+Europe,BLR,Belarus,2012,15.78
+Europe,TKM,Turkmenistan,2012,15.85
+Eastern Mediterranean,LBN,Lebanon,2012,15.87
+South-East Asia,BGD,Bangladesh,2012,15.93
+Western Pacific,PNG,Papua New Guinea,2012,16.2
+Americas,HND,Honduras,2012,16.34
+Americas,COL,Colombia,2012,16.69
+Europe,ARM,Armenia,2012,17.02
+Western Pacific,KHM,Cambodia,2012,17.05
+Western Pacific,SLB,Solomon Islands,2012,17.08
+South-East Asia,IND,India,2012,17.6
+Americas,TTO,Trinidad and Tobago,2012,17.85
+Americas,HTI,Haiti,2012,17.88
+Eastern Mediterranean,ARE,United Arab Emirates,2012,17.89
+Europe,TJK,Tajikistan,2012,18.55
+Eastern Mediterranean,IRQ,Iraq,2012,18.8
+Americas,SLV,El Salvador,2012,19
+Europe,KGZ,Kyrgyzstan,2012,19.1
+South-East Asia,MMR,Myanmar,2012,19.52
+Europe,MLT,Malta,2012,2.84
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2012,2.99
+Western Pacific,CHN,China,2012,20.33
+Eastern Mediterranean,MAR,Morocco,2012,20.34
+Africa,ZMB,Zambia,2012,20.44
+Americas,GUY,Guyana,2012,20.52
+Africa,BWA,Botswana,2012,21.16
+Americas,BLZ,Belize,2012,21.3
+Africa,DZA,Algeria,2012,21.36
+Europe,RUS,Russian Federation,2012,21.41
+Western Pacific,MNG,Mongolia,2012,21.63
+Africa,NGA,Nigeria,2012,22.09
+Eastern Mediterranean,SYR,Syrian Arab Republic,2012,22.1
+Eastern Mediterranean,SDN,Sudan,2012,22.18
+Africa,GNQ,Equatorial Guinea,2012,22.21
+Americas,ECU,Ecuador,2012,22.26
+Eastern Mediterranean,LBY,Libya,2012,22.26
+Eastern Mediterranean,TUN,Tunisia,2012,22.88
+Americas,PRY,Paraguay,2012,22.89
+Americas,BOL,Bolivia (Plurinational State of),2012,23.02
+Africa,AGO,Angola,2012,23.15
+South-East Asia,PRK,Democratic People's Republic of Korea,2012,23.26
+Africa,GHA,Ghana,2012,23.28
+Eastern Mediterranean,YEM,Yemen,2012,23.48
+Africa,CPV,Cabo Verde,2012,23.55
+Europe,KAZ,Kazakhstan,2012,23.6
+Eastern Mediterranean,DJI,Djibouti,2012,23.61
+Africa,TCD,Chad,2012,23.68
+Africa,MLI,Mali,2012,23.68
+Eastern Mediterranean,JOR,Jordan,2012,23.68
+Africa,CIV,Côte d’Ivoire,2012,23.96
+Africa,GAB,Gabon,2012,24.06
+Western Pacific,MYS,Malaysia,2012,24.53
+Africa,SEN,Senegal,2012,24.68
+Eastern Mediterranean,KWT,Kuwait,2012,24.72
+Americas,BRA,Brazil,2012,24.83
+Western Pacific,VNM,Viet Nam,2012,25.37
+Africa,MRT,Mauritania,2012,25.44
+Africa,STP,Sao Tome and Principe,2012,26.01
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2012,26.05
+Africa,NER,Niger,2012,26.18
+Africa,ETH,Ethiopia,2012,26.23
+Africa,GMB,Gambia,2012,26.4
+Africa,ZAF,South Africa,2012,26.46
+Africa,KEN,Kenya,2012,26.57
+Africa,COM,Comoros,2012,26.66
+Africa,COG,Congo,2012,26.83
+Eastern Mediterranean,SAU,Saudi Arabia,2012,27.01
+Eastern Mediterranean,SOM,Somalia,2012,27.07
+Africa,BEN,Benin,2012,27.35
+Africa,MDG,Madagascar,2012,27.36
+Africa,NAM,Namibia,2012,28.11
+Africa,LSO,Lesotho,2012,28.54
+Africa,CMR,Cameroon,2012,28.61
+Africa,SLE,Sierra Leone,2012,29.26
+Africa,GIN,Guinea,2012,29.42
+Africa,UGA,Uganda,2012,29.48
+Africa,CAF,Central African Republic,2012,29.6
+Africa,BFA,Burkina Faso,2012,29.62
+Europe,NOR,Norway,2012,3.01
+Europe,DNK,Denmark,2012,3.07
+Europe,ISL,Iceland,2012,3.38
+Europe,SWE,Sweden,2012,3.47
+Western Pacific,SGP,Singapore,2012,3.5
+Europe,ISR,Israel,2012,3.56
+Europe,IRL,Ireland,2012,3.65
+Americas,GRD,Grenada,2012,3.72
+Americas,DOM,Dominican Republic,2012,30.24
+Africa,TZA,United Republic of Tanzania,2012,30.31
+Africa,MOZ,Mozambique,2012,30.39
+Africa,SWZ,Eswatini,2012,30.48
+Africa,TGO,Togo,2012,30.65
+Africa,SSD,South Sudan,2012,30.97
+Africa,GNB,Guinea-Bissau,2012,31.09
+Africa,MWI,Malawi,2012,31.53
+Eastern Mediterranean,OMN,Oman,2012,33.56
+Africa,ERI,Eritrea,2012,33.72
+Africa,BDI,Burundi,2012,33.82
+Africa,LBR,Liberia,2012,33.97
+Africa,COD,Democratic Republic of the Congo,2012,34.04
+Africa,RWA,Rwanda,2012,34.19
+Americas,VEN,Venezuela (Bolivarian Republic of),2012,34.42
+South-East Asia,THA,Thailand,2012,36.32
+Africa,ZWE,Zimbabwe,2012,37.32
+Europe,NLD,Netherlands,2012,4.02
+Europe,ESP,Spain,2012,4.25
+Europe,CHE,Switzerland,2012,4.37
+Europe,DEU,Germany,2012,4.7
+Western Pacific,JPN,Japan,2012,4.76
+Europe,FIN,Finland,2012,4.86
+Americas,VCT,Saint Vincent and the Grenadines,2012,5.53
+Western Pacific,KIR,Kiribati,2012,5.64
+Western Pacific,AUS,Australia,2012,5.85
+Europe,FRA,France,2012,5.92
+Europe,CYP,Cyprus,2012,6.07
+Europe,LUX,Luxembourg,2012,6.43
+Europe,AUT,Austria,2012,6.43
+Europe,ITA,Italy,2012,6.52
+Europe,MKD,The former Yugoslav Republic of Macedonia,2012,6.56
+Europe,SVN,Slovenia,2012,6.61
+Americas,CAN,Canada,2012,6.75
+Europe,EST,Estonia,2012,6.8
+Europe,BEL,Belgium,2012,7.16
+Europe,CZE,Czechia,2012,7.23
+Europe,MNE,Montenegro,2012,7.51
+Western Pacific,NZL,New Zealand,2012,7.61
+Western Pacific,FJI,Fiji,2012,7.63
+Western Pacific,TON,Tonga,2012,7.79
+Europe,SVK,Slovakia,2012,7.91
+Europe,PRT,Portugal,2012,7.95
+Europe,HUN,Hungary,2012,8.23
+Americas,CUB,Cuba,2012,8.33
+Europe,BGR,Bulgaria,2012,8.45
+Europe,SRB,Serbia,2012,8.94
+Western Pacific,BRN,Brunei Darussalam,2012,9.02
+Americas,LCA,Saint Lucia,2012,9.06
+Americas,JAM,Jamaica,2012,9.11
+Eastern Mediterranean,BHR,Bahrain,2012,9.46
+Europe,HRV,Croatia,2012,9.59
+Western Pacific,FSM,Micronesia (Federated States of),2011,0
+Western Pacific,KIR,Kiribati,2011,1.91
+Europe,ROU,Romania,2011,10.41
+Western Pacific,PHL,Philippines,2011,10.47
+Europe,PRT,Portugal,2011,10.8
+Americas,BRB,Barbados,2011,10.95
+Americas,GTM,Guatemala,2011,10.96
+Europe,TUR,Türkiye,2011,11.01
+Europe,HRV,Croatia,2011,11.11
+Europe,UZB,Uzbekistan,2011,11.26
+Americas,USA,United States of America,2011,11.6
+Europe,LTU,Lithuania,2011,11.77
+Africa,SYC,Seychelles,2011,11.97
+Western Pacific,BRN,Brunei Darussalam,2011,12.19
+Americas,CHL,Chile,2011,12.23
+Europe,GRC,Greece,2011,12.25
+Europe,AZE,Azerbaijan,2011,12.37
+Western Pacific,KOR,Republic of Korea,2011,12.8
+Western Pacific,WSM,Samoa,2011,12.8
+Europe,POL,Poland,2011,12.84
+Americas,JAM,Jamaica,2011,12.93
+Eastern Mediterranean,EGY,Egypt,2011,13
+Americas,BHS,Bahamas,2011,13.11
+Europe,GEO,Georgia,2011,13.28
+Americas,CRI,Costa Rica,2011,13.3
+Eastern Mediterranean,QAT,Qatar,2011,13.31
+Western Pacific,VUT,Vanuatu,2011,13.6
+Europe,MDA,Republic of Moldova,2011,13.63
+South-East Asia,IDN,Indonesia,2011,13.76
+Americas,ARG,Argentina,2011,13.86
+Americas,PAN,Panama,2011,14
+Western Pacific,LAO,Lao People's Democratic Republic,2011,14.02
+South-East Asia,LKA,Sri Lanka,2011,14.14
+Eastern Mediterranean,AFG,Afghanistan,2011,14.22
+Europe,ALB,Albania,2011,14.31
+Americas,NIC,Nicaragua,2011,14.33
+Americas,MEX,Mexico,2011,14.36
+Eastern Mediterranean,PAK,Pakistan,2011,14.76
+Eastern Mediterranean,LBN,Lebanon,2011,14.84
+Europe,BIH,Bosnia and Herzegovina,2011,14.89
+Africa,MUS,Mauritius,2011,15.03
+Europe,UKR,Ukraine,2011,15.18
+South-East Asia,TLS,Timor-Leste,2011,15.36
+Americas,COL,Colombia,2011,15.76
+Americas,TTO,Trinidad and Tobago,2011,15.94
+South-East Asia,NPL,Nepal,2011,16.08
+Americas,PER,Peru,2011,16.17
+Americas,HND,Honduras,2011,16.32
+Europe,TKM,Turkmenistan,2011,16.58
+South-East Asia,BTN,Bhutan,2011,16.73
+South-East Asia,BGD,Bangladesh,2011,16.83
+Western Pacific,PNG,Papua New Guinea,2011,16.84
+Western Pacific,SLB,Solomon Islands,2011,17.36
+South-East Asia,IND,India,2011,17.43
+Americas,URY,Uruguay,2011,17.51
+Americas,BOL,Bolivia (Plurinational State of),2011,17.52
+Europe,ARM,Armenia,2011,17.73
+Western Pacific,KHM,Cambodia,2011,17.96
+Americas,BLZ,Belize,2011,18.17
+Eastern Mediterranean,IRQ,Iraq,2011,18.46
+Europe,TJK,Tajikistan,2011,18.5
+Europe,BLR,Belarus,2011,18.57
+Americas,HTI,Haiti,2011,18.65
+South-East Asia,MMR,Myanmar,2011,19.01
+Eastern Mediterranean,ARE,United Arab Emirates,2011,19.11
+Europe,KGZ,Kyrgyzstan,2011,19.3
+South-East Asia,MDV,Maldives,2011,2.37
+Western Pacific,MNG,Mongolia,2011,20.32
+Africa,ZMB,Zambia,2011,20.67
+Western Pacific,CHN,China,2011,20.7
+Eastern Mediterranean,MAR,Morocco,2011,20.89
+Europe,RUS,Russian Federation,2011,21.05
+Eastern Mediterranean,SDN,Sudan,2011,21.08
+Americas,SLV,El Salvador,2011,21.09
+Africa,GNQ,Equatorial Guinea,2011,21.28
+Eastern Mediterranean,KWT,Kuwait,2011,22.13
+Americas,SUR,Suriname,2011,22.24
+Africa,DZA,Algeria,2011,22.31
+Africa,NGA,Nigeria,2011,22.46
+Eastern Mediterranean,SYR,Syrian Arab Republic,2011,22.75
+Africa,GHA,Ghana,2011,23.4
+Africa,CPV,Cabo Verde,2011,23.45
+South-East Asia,PRK,Democratic People's Republic of Korea,2011,23.52
+Eastern Mediterranean,TUN,Tunisia,2011,23.66
+Africa,BWA,Botswana,2011,23.83
+Africa,NAM,Namibia,2011,23.93
+Europe,KAZ,Kazakhstan,2011,24.02
+Africa,MLI,Mali,2011,24.03
+Eastern Mediterranean,YEM,Yemen,2011,24.11
+Americas,PRY,Paraguay,2011,24.31
+Africa,GAB,Gabon,2011,24.31
+Americas,BRA,Brazil,2011,24.46
+Americas,LCA,Saint Lucia,2011,24.5
+Americas,ECU,Ecuador,2011,24.72
+Western Pacific,MYS,Malaysia,2011,24.75
+Africa,TCD,Chad,2011,24.78
+Eastern Mediterranean,DJI,Djibouti,2011,25.19
+Eastern Mediterranean,JOR,Jordan,2011,25.34
+Western Pacific,VNM,Viet Nam,2011,25.34
+Africa,AGO,Angola,2011,25.39
+Africa,SEN,Senegal,2011,25.66
+Americas,DOM,Dominican Republic,2011,25.68
+Africa,KEN,Kenya,2011,25.71
+Africa,CIV,Côte d’Ivoire,2011,25.82
+Africa,STP,Sao Tome and Principe,2011,26.01
+Africa,ETH,Ethiopia,2011,26.04
+Americas,GUY,Guyana,2011,26.06
+Eastern Mediterranean,SAU,Saudi Arabia,2011,26.09
+Africa,MRT,Mauritania,2011,26.12
+Eastern Mediterranean,LBY,Libya,2011,26.23
+Africa,GMB,Gambia,2011,26.84
+Africa,MDG,Madagascar,2011,26.96
+Africa,COG,Congo,2011,27.01
+Africa,COM,Comoros,2011,27.03
+Africa,NER,Niger,2011,27.34
+Africa,SSD,South Sudan,2011,27.38
+Africa,LSO,Lesotho,2011,27.45
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2011,27.72
+Eastern Mediterranean,SOM,Somalia,2011,27.75
+Africa,ZAF,South Africa,2011,27.79
+Africa,BEN,Benin,2011,28.07
+Africa,UGA,Uganda,2011,28.4
+Africa,TZA,United Republic of Tanzania,2011,28.6
+Africa,CMR,Cameroon,2011,28.98
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2011,3.36
+Europe,SWE,Sweden,2011,3.38
+Europe,NOR,Norway,2011,3.5
+Americas,VCT,Saint Vincent and the Grenadines,2011,3.69
+Africa,SLE,Sierra Leone,2011,30
+Africa,BFA,Burkina Faso,2011,30.04
+Americas,VEN,Venezuela (Bolivarian Republic of),2011,30.06
+Africa,MWI,Malawi,2011,30.22
+Africa,CAF,Central African Republic,2011,30.3
+Africa,MOZ,Mozambique,2011,30.41
+Africa,GIN,Guinea,2011,30.63
+Africa,SWZ,Eswatini,2011,30.97
+Africa,TGO,Togo,2011,31.14
+Africa,GNB,Guinea-Bissau,2011,31.16
+Africa,LBR,Liberia,2011,32.91
+Africa,BDI,Burundi,2011,32.95
+Eastern Mediterranean,OMN,Oman,2011,33.5
+Africa,ERI,Eritrea,2011,33.63
+Africa,RWA,Rwanda,2011,34
+Africa,COD,Democratic Republic of the Congo,2011,35.64
+Africa,ZWE,Zimbabwe,2011,37.4
+South-East Asia,THA,Thailand,2011,38.21
+Europe,DNK,Denmark,2011,4.07
+Europe,NLD,Netherlands,2011,4.07
+Europe,CHE,Switzerland,2011,4.17
+Europe,IRL,Ireland,2011,4.18
+Europe,ISL,Iceland,2011,4.32
+Western Pacific,SGP,Singapore,2011,4.6
+Europe,ISR,Israel,2011,4.7
+Europe,ESP,Spain,2011,4.7
+Europe,MLT,Malta,2011,4.79
+Western Pacific,JPN,Japan,2011,4.97
+Europe,DEU,Germany,2011,5.27
+Europe,FIN,Finland,2011,5.58
+Western Pacific,AUS,Australia,2011,5.93
+Americas,CAN,Canada,2011,6.34
+Europe,AUT,Austria,2011,6.38
+Europe,FRA,France,2011,6.46
+Europe,LUX,Luxembourg,2011,6.53
+Europe,SVN,Slovenia,2011,7.07
+Europe,ITA,Italy,2011,7.18
+Western Pacific,NZL,New Zealand,2011,7.31
+Europe,CZE,Czechia,2011,7.54
+Europe,CYP,Cyprus,2011,7.79
+Americas,CUB,Cuba,2011,7.86
+Europe,EST,Estonia,2011,8.13
+Europe,BEL,Belgium,2011,8.19
+Americas,GRD,Grenada,2011,8.43
+Europe,HUN,Hungary,2011,8.52
+Europe,MKD,The former Yugoslav Republic of Macedonia,2011,8.54
+Western Pacific,TON,Tonga,2011,8.69
+Americas,ATG,Antigua and Barbuda,2011,8.75
+Europe,SVK,Slovakia,2011,8.75
+Western Pacific,FJI,Fiji,2011,8.8
+Europe,LVA,Latvia,2011,8.98
+Europe,BGR,Bulgaria,2011,9.18
+Europe,MNE,Montenegro,2011,9.6
+Europe,SRB,Serbia,2011,9.68
+Eastern Mediterranean,BHR,Bahrain,2011,9.7
+Europe,HRV,Croatia,2010,10.51
+Europe,BGR,Bulgaria,2010,10.76
+Eastern Mediterranean,BHR,Bahrain,2010,10.8
+Europe,PRT,Portugal,2010,11.21
+Europe,UZB,Uzbekistan,2010,11.28
+Americas,JAM,Jamaica,2010,11.39
+Europe,AZE,Azerbaijan,2010,11.4
+Western Pacific,PHL,Philippines,2010,11.49
+Americas,USA,United States of America,2010,11.7
+Europe,LVA,Latvia,2010,11.85
+Europe,ROU,Romania,2010,11.97
+Europe,POL,Poland,2010,11.99
+Europe,LTU,Lithuania,2010,12.07
+Americas,CHL,Chile,2010,12.52
+Americas,BHS,Bahamas,2010,12.72
+Americas,ARG,Argentina,2010,12.84
+Western Pacific,WSM,Samoa,2010,12.91
+Europe,GRC,Greece,2010,13.12
+Europe,MDA,Republic of Moldova,2010,13.17
+Americas,PER,Peru,2010,13.18
+Americas,PAN,Panama,2010,13.2
+Africa,MUS,Mauritius,2010,13.3
+Americas,GTM,Guatemala,2010,13.38
+Western Pacific,VUT,Vanuatu,2010,13.55
+South-East Asia,BTN,Bhutan,2010,13.57
+South-East Asia,IDN,Indonesia,2010,13.66
+Eastern Mediterranean,EGY,Egypt,2010,13.69
+Western Pacific,KOR,Republic of Korea,2010,13.71
+Americas,BLZ,Belize,2010,13.96
+Americas,CRI,Costa Rica,2010,13.98
+Europe,ALB,Albania,2010,14.08
+South-East Asia,LKA,Sri Lanka,2010,14.19
+Africa,SYC,Seychelles,2010,14.24
+Western Pacific,LAO,Lao People's Democratic Republic,2010,14.31
+Eastern Mediterranean,AFG,Afghanistan,2010,14.42
+Americas,NIC,Nicaragua,2010,14.47
+Americas,MEX,Mexico,2010,14.51
+Eastern Mediterranean,LBN,Lebanon,2010,14.62
+Eastern Mediterranean,PAK,Pakistan,2010,14.69
+South-East Asia,TLS,Timor-Leste,2010,15.27
+Europe,UKR,Ukraine,2010,15.43
+Europe,MNE,Montenegro,2010,15.7
+South-East Asia,NPL,Nepal,2010,15.75
+Eastern Mediterranean,QAT,Qatar,2010,15.95
+Americas,COL,Colombia,2010,16.21
+Americas,HND,Honduras,2010,16.38
+South-East Asia,BGD,Bangladesh,2010,16.85
+Europe,TKM,Turkmenistan,2010,16.87
+Europe,BIH,Bosnia and Herzegovina,2010,16.92
+Americas,URY,Uruguay,2010,17.06
+Western Pacific,PNG,Papua New Guinea,2010,17.08
+South-East Asia,IND,India,2010,17.18
+Europe,GEO,Georgia,2010,17.22
+Americas,BOL,Bolivia (Plurinational State of),2010,17.26
+Western Pacific,SLB,Solomon Islands,2010,17.81
+Americas,GUY,Guyana,2010,18.01
+Europe,KGZ,Kyrgyzstan,2010,18.02
+Europe,ARM,Armenia,2010,18.04
+Western Pacific,KHM,Cambodia,2010,18.08
+Western Pacific,MNG,Mongolia,2010,18.6
+Americas,HTI,Haiti,2010,18.73
+Europe,TJK,Tajikistan,2010,18.74
+South-East Asia,MMR,Myanmar,2010,19.08
+Eastern Mediterranean,ARE,United Arab Emirates,2010,19.4
+Americas,SUR,Suriname,2010,19.47
+Europe,ISL,Iceland,2010,2.57
+Western Pacific,FSM,Micronesia (Federated States of),2010,2.92
+Eastern Mediterranean,KWT,Kuwait,2010,20.09
+Americas,TTO,Trinidad and Tobago,2010,20.18
+Western Pacific,CHN,China,2010,20.27
+Europe,RUS,Russian Federation,2010,20.52
+Africa,GNQ,Equatorial Guinea,2010,20.77
+Eastern Mediterranean,IRQ,Iraq,2010,20.87
+Europe,BLR,Belarus,2010,21.93
+Eastern Mediterranean,LBY,Libya,2010,21.99
+Africa,DZA,Algeria,2010,22.3
+Americas,SLV,El Salvador,2010,22.32
+Eastern Mediterranean,JOR,Jordan,2010,22.45
+Eastern Mediterranean,SYR,Syrian Arab Republic,2010,22.53
+Eastern Mediterranean,YEM,Yemen,2010,23.13
+Africa,ETH,Ethiopia,2010,23.3
+South-East Asia,PRK,Democratic People's Republic of Korea,2010,23.35
+Eastern Mediterranean,MAR,Morocco,2010,23.4
+Africa,CPV,Cabo Verde,2010,23.55
+Africa,ZMB,Zambia,2010,23.64
+Africa,GHA,Ghana,2010,23.75
+Eastern Mediterranean,SDN,Sudan,2010,23.83
+Eastern Mediterranean,TUN,Tunisia,2010,23.86
+Africa,BWA,Botswana,2010,24.16
+Africa,MLI,Mali,2010,24.21
+Africa,GAB,Gabon,2010,24.26
+Americas,BRA,Brazil,2010,24.29
+Americas,ECU,Ecuador,2010,24.53
+Africa,TCD,Chad,2010,24.67
+Eastern Mediterranean,SAU,Saudi Arabia,2010,24.8
+Americas,PRY,Paraguay,2010,24.92
+Africa,NGA,Nigeria,2010,25.08
+Western Pacific,MYS,Malaysia,2010,25.12
+Africa,SSD,South Sudan,2010,25.32
+Western Pacific,VNM,Viet Nam,2010,25.61
+Africa,KEN,Kenya,2010,25.68
+Africa,CIV,Côte d’Ivoire,2010,25.78
+Africa,SEN,Senegal,2010,25.79
+Africa,AGO,Angola,2010,25.8
+Europe,KAZ,Kazakhstan,2010,25.95
+Africa,NAM,Namibia,2010,26.24
+Africa,MRT,Mauritania,2010,26.39
+Africa,GMB,Gambia,2010,26.49
+Africa,STP,Sao Tome and Principe,2010,26.61
+Africa,MDG,Madagascar,2010,26.72
+Africa,COG,Congo,2010,27.05
+Africa,COM,Comoros,2010,27.11
+Africa,NER,Niger,2010,27.27
+Africa,LSO,Lesotho,2010,27.66
+Eastern Mediterranean,SOM,Somalia,2010,27.68
+Eastern Mediterranean,OMN,Oman,2010,27.78
+Americas,DOM,Dominican Republic,2010,27.84
+Africa,BEN,Benin,2010,28.21
+Eastern Mediterranean,DJI,Djibouti,2010,28.21
+Africa,ZAF,South Africa,2010,28.64
+Africa,TZA,United Republic of Tanzania,2010,28.83
+Africa,CMR,Cameroon,2010,28.86
+Africa,SLE,Sierra Leone,2010,29.99
+South-East Asia,MDV,Maldives,2010,3.01
+Europe,SWE,Sweden,2010,3.04
+Americas,VCT,Saint Vincent and the Grenadines,2010,3.68
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2010,3.69
+Europe,MLT,Malta,2010,3.93
+Europe,NLD,Netherlands,2010,3.96
+Africa,SWZ,Eswatini,2010,30.07
+Africa,BFA,Burkina Faso,2010,30.16
+Africa,CAF,Central African Republic,2010,30.52
+Africa,MWI,Malawi,2010,30.59
+Africa,MOZ,Mozambique,2010,30.73
+Africa,GIN,Guinea,2010,31
+Africa,TGO,Togo,2010,31.07
+Americas,VEN,Venezuela (Bolivarian Republic of),2010,31.21
+Africa,GNB,Guinea-Bissau,2010,31.46
+Africa,UGA,Uganda,2010,32.25
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2010,32.5
+Africa,LBR,Liberia,2010,33.1
+Africa,BDI,Burundi,2010,33.17
+Africa,ERI,Eritrea,2010,34
+Africa,RWA,Rwanda,2010,34.01
+Africa,COD,Democratic Republic of the Congo,2010,36.02
+Africa,ZWE,Zimbabwe,2010,37.6
+South-East Asia,THA,Thailand,2010,38.33
+Europe,CHE,Switzerland,2010,4.32
+Europe,NOR,Norway,2010,4.38
+Europe,IRL,Ireland,2010,4.81
+Europe,DEU,Germany,2010,4.81
+Europe,ISR,Israel,2010,4.94
+Europe,DNK,Denmark,2010,4.99
+Western Pacific,SGP,Singapore,2010,5.09
+Europe,FIN,Finland,2010,5.22
+Western Pacific,JPN,Japan,2010,5.32
+Americas,ATG,Antigua and Barbuda,2010,5.37
+Europe,ESP,Spain,2010,5.44
+Americas,GRD,Grenada,2010,5.65
+Western Pacific,TON,Tonga,2010,5.77
+Western Pacific,KIR,Kiribati,2010,5.83
+Europe,LUX,Luxembourg,2010,6.48
+Europe,FRA,France,2010,6.55
+Western Pacific,AUS,Australia,2010,6.55
+Europe,EST,Estonia,2010,6.76
+Europe,AUT,Austria,2010,6.77
+Europe,TUR,Türkiye,2010,6.82
+Europe,SVN,Slovenia,2010,7.19
+Europe,ITA,Italy,2010,7.32
+Americas,CAN,Canada,2010,7.34
+Western Pacific,BRN,Brunei Darussalam,2010,7.72
+Europe,CZE,Czechia,2010,7.85
+Europe,MKD,The former Yugoslav Republic of Macedonia,2010,8.06
+Europe,BEL,Belgium,2010,8.13
+Europe,CYP,Cyprus,2010,8.25
+Americas,CUB,Cuba,2010,8.33
+Americas,BRB,Barbados,2010,8.86
+Europe,SRB,Serbia,2010,8.95
+Europe,SVK,Slovakia,2010,8.96
+Europe,HUN,Hungary,2010,9.21
+Western Pacific,NZL,New Zealand,2010,9.31
+Americas,LCA,Saint Lucia,2010,9.66
+Western Pacific,FJI,Fiji,2010,9.77
+Europe,HUN,Hungary,2009,10.43
+Western Pacific,PHL,Philippines,2009,10.57
+Western Pacific,TON,Tonga,2009,10.59
+Europe,SRB,Serbia,2009,10.68
+Western Pacific,BRN,Brunei Darussalam,2009,11.46
+Europe,AZE,Azerbaijan,2009,11.6
+Europe,PRT,Portugal,2009,11.98
+Africa,MUS,Mauritius,2009,12.06
+Americas,USA,United States of America,2009,12.12
+Europe,LVA,Latvia,2009,12.26
+Americas,CHL,Chile,2009,12.41
+Europe,BGR,Bulgaria,2009,12.43
+Americas,JAM,Jamaica,2009,12.69
+Europe,UZB,Uzbekistan,2009,12.87
+Eastern Mediterranean,EGY,Egypt,2009,12.92
+Europe,HRV,Croatia,2009,13.01
+Europe,POL,Poland,2009,13.28
+Americas,ARG,Argentina,2009,13.29
+Western Pacific,VUT,Vanuatu,2009,13.46
+Eastern Mediterranean,BHR,Bahrain,2009,13.5
+Americas,PAN,Panama,2009,13.55
+South-East Asia,BTN,Bhutan,2009,13.56
+Europe,LTU,Lithuania,2009,13.58
+Europe,MDA,Republic of Moldova,2009,13.79
+South-East Asia,IDN,Indonesia,2009,13.9
+Europe,ROU,Romania,2009,13.97
+Western Pacific,LAO,Lao People's Democratic Republic,2009,14.21
+South-East Asia,LKA,Sri Lanka,2009,14.33
+Europe,ALB,Albania,2009,14.4
+Eastern Mediterranean,AFG,Afghanistan,2009,14.42
+Americas,NIC,Nicaragua,2009,14.43
+Eastern Mediterranean,PAK,Pakistan,2009,14.54
+Western Pacific,KOR,Republic of Korea,2009,14.72
+Eastern Mediterranean,LBN,Lebanon,2009,14.77
+Europe,GRC,Greece,2009,14.93
+Americas,PER,Peru,2009,15.09
+South-East Asia,TLS,Timor-Leste,2009,15.17
+Americas,GUY,Guyana,2009,15.65
+Americas,GTM,Guatemala,2009,15.67
+South-East Asia,NPL,Nepal,2009,15.72
+Americas,MEX,Mexico,2009,15.85
+Americas,CRI,Costa Rica,2009,15.95
+Americas,BHS,Bahamas,2009,16.28
+Americas,HND,Honduras,2009,16.31
+Americas,URY,Uruguay,2009,16.48
+Europe,MNE,Montenegro,2009,16.53
+Americas,BOL,Bolivia (Plurinational State of),2009,16.56
+Europe,TKM,Turkmenistan,2009,16.71
+Americas,BLZ,Belize,2009,16.83
+South-East Asia,BGD,Bangladesh,2009,16.92
+South-East Asia,IND,India,2009,17.05
+Europe,UKR,Ukraine,2009,17.05
+Europe,BIH,Bosnia and Herzegovina,2009,17.08
+Western Pacific,MNG,Mongolia,2009,17.54
+Western Pacific,PNG,Papua New Guinea,2009,17.57
+Americas,COL,Colombia,2009,17.67
+Western Pacific,SLB,Solomon Islands,2009,17.86
+Europe,ARM,Armenia,2009,17.87
+Western Pacific,KHM,Cambodia,2009,17.88
+Eastern Mediterranean,QAT,Qatar,2009,18.13
+Americas,HTI,Haiti,2009,18.25
+Americas,LCA,Saint Lucia,2009,18.39
+Europe,GEO,Georgia,2009,18.55
+Europe,TJK,Tajikistan,2009,18.68
+Eastern Mediterranean,ARE,United Arab Emirates,2009,19.02
+South-East Asia,MMR,Myanmar,2009,19.14
+Africa,GNQ,Equatorial Guinea,2009,19.37
+Europe,BLR,Belarus,2009,19.52
+Europe,KGZ,Kyrgyzstan,2009,19.89
+South-East Asia,MDV,Maldives,2009,2.56
+Western Pacific,CHN,China,2009,20.48
+Eastern Mediterranean,IRQ,Iraq,2009,21
+Europe,RUS,Russian Federation,2009,21.66
+Eastern Mediterranean,LBY,Libya,2009,21.89
+Americas,TTO,Trinidad and Tobago,2009,22.11
+Americas,BRA,Brazil,2009,22.19
+Eastern Mediterranean,JOR,Jordan,2009,22.27
+Africa,DZA,Algeria,2009,22.48
+Eastern Mediterranean,SYR,Syrian Arab Republic,2009,22.7
+Americas,ECU,Ecuador,2009,22.96
+Eastern Mediterranean,YEM,Yemen,2009,22.99
+Africa,CPV,Cabo Verde,2009,23.01
+South-East Asia,PRK,Democratic People's Republic of Korea,2009,23.42
+Africa,ETH,Ethiopia,2009,23.51
+Americas,PRY,Paraguay,2009,23.57
+Eastern Mediterranean,MAR,Morocco,2009,23.66
+Americas,DOM,Dominican Republic,2009,23.77
+Eastern Mediterranean,SAU,Saudi Arabia,2009,23.78
+Africa,ZMB,Zambia,2009,23.81
+Eastern Mediterranean,TUN,Tunisia,2009,23.83
+Africa,GHA,Ghana,2009,23.88
+Africa,SSD,South Sudan,2009,24
+Africa,BWA,Botswana,2009,24.03
+Eastern Mediterranean,SDN,Sudan,2009,24.17
+Africa,MLI,Mali,2009,24.23
+Western Pacific,VNM,Viet Nam,2009,24.59
+Americas,SLV,El Salvador,2009,24.64
+Africa,TCD,Chad,2009,24.93
+Western Pacific,MYS,Malaysia,2009,25.07
+Africa,GAB,Gabon,2009,25.2
+Africa,NGA,Nigeria,2009,25.27
+Africa,SEN,Senegal,2009,25.5
+Africa,CIV,Côte d’Ivoire,2009,25.52
+Europe,KAZ,Kazakhstan,2009,25.55
+Eastern Mediterranean,KWT,Kuwait,2009,25.59
+Africa,KEN,Kenya,2009,26.05
+Africa,STP,Sao Tome and Principe,2009,26.15
+Africa,MRT,Mauritania,2009,26.2
+Africa,COG,Congo,2009,26.25
+Africa,GMB,Gambia,2009,26.26
+Africa,MDG,Madagascar,2009,26.26
+Americas,SUR,Suriname,2009,26.57
+Africa,NAM,Namibia,2009,26.82
+Africa,COM,Comoros,2009,27.03
+Africa,NER,Niger,2009,27.29
+Africa,AGO,Angola,2009,27.34
+Eastern Mediterranean,SOM,Somalia,2009,27.45
+Africa,LSO,Lesotho,2009,27.74
+Eastern Mediterranean,DJI,Djibouti,2009,27.9
+Africa,BEN,Benin,2009,27.92
+Africa,CMR,Cameroon,2009,28.5
+Africa,ZAF,South Africa,2009,28.64
+Africa,TZA,United Republic of Tanzania,2009,28.66
+Africa,BFA,Burkina Faso,2009,29.43
+Africa,SWZ,Eswatini,2009,29.65
+Western Pacific,WSM,Samoa,2009,29.8
+Americas,GRD,Grenada,2009,3.78
+Western Pacific,FSM,Micronesia (Federated States of),2009,3.88
+Africa,SLE,Sierra Leone,2009,30.47
+Africa,GIN,Guinea,2009,30.61
+Africa,MWI,Malawi,2009,30.86
+Africa,MOZ,Mozambique,2009,30.98
+Africa,TGO,Togo,2009,31.26
+Africa,GNB,Guinea-Bissau,2009,31.27
+Africa,UGA,Uganda,2009,31.89
+Africa,CAF,Central African Republic,2009,32.03
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2009,32.48
+Africa,BDI,Burundi,2009,33.03
+Africa,LBR,Liberia,2009,33.4
+Africa,ERI,Eritrea,2009,33.98
+Africa,RWA,Rwanda,2009,34.14
+Eastern Mediterranean,OMN,Oman,2009,35.46
+Africa,COD,Democratic Republic of the Congo,2009,36.3
+Americas,VEN,Venezuela (Bolivarian Republic of),2009,36.85
+Africa,ZWE,Zimbabwe,2009,37.94
+South-East Asia,THA,Thailand,2009,38.66
+Europe,SWE,Sweden,2009,4.12
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2009,4.3
+Western Pacific,SGP,Singapore,2009,4.41
+Europe,ISR,Israel,2009,4.46
+Europe,NLD,Netherlands,2009,4.46
+Europe,NOR,Norway,2009,4.6
+Europe,CHE,Switzerland,2009,4.67
+Western Pacific,KIR,Kiribati,2009,4.95
+Europe,MLT,Malta,2009,5.25
+Europe,DEU,Germany,2009,5.34
+Western Pacific,JPN,Japan,2009,5.36
+Europe,DNK,Denmark,2009,5.65
+Europe,ISL,Iceland,2009,5.69
+Europe,FIN,Finland,2009,5.75
+Europe,IRL,Ireland,2009,5.96
+Europe,ESP,Spain,2009,6.01
+Europe,TUR,Türkiye,2009,6.25
+Americas,ATG,Antigua and Barbuda,2009,6.33
+Europe,FRA,France,2009,7.04
+Western Pacific,AUS,Australia,2009,7.15
+Americas,CAN,Canada,2009,7.17
+Western Pacific,FJI,Fiji,2009,7.26
+Americas,VCT,Saint Vincent and the Grenadines,2009,7.78
+Europe,AUT,Austria,2009,7.8
+Europe,MKD,The former Yugoslav Republic of Macedonia,2009,7.97
+Europe,ITA,Italy,2009,8.03
+Europe,EST,Estonia,2009,8.76
+Americas,CUB,Cuba,2009,8.84
+Europe,CZE,Czechia,2009,8.86
+Europe,SVN,Slovenia,2009,8.95
+Americas,BRB,Barbados,2009,9.25
+Europe,CYP,Cyprus,2009,9.25
+Europe,BEL,Belgium,2009,9.42
+Europe,SVK,Slovakia,2009,9.56
+Western Pacific,NZL,New Zealand,2009,9.6
+Europe,LUX,Luxembourg,2009,9.86
+Africa,SYC,Seychelles,2009,9.91
+Western Pacific,FSM,Micronesia (Federated States of),2008,1.93
+Western Pacific,PHL,Philippines,2008,10.04
+Western Pacific,BRN,Brunei Darussalam,2008,10.54
+Europe,UZB,Uzbekistan,2008,10.6
+Europe,CZE,Czechia,2008,10.64
+Europe,SVN,Slovenia,2008,11.07
+Americas,ATG,Antigua and Barbuda,2008,11.18
+Americas,GRD,Grenada,2008,11.38
+Europe,SRB,Serbia,2008,11.75
+Europe,PRT,Portugal,2008,12.09
+Europe,HUN,Hungary,2008,12.28
+Americas,JAM,Jamaica,2008,12.35
+Europe,EST,Estonia,2008,12.39
+Western Pacific,FJI,Fiji,2008,12.54
+Western Pacific,WSM,Samoa,2008,13.1
+Eastern Mediterranean,EGY,Egypt,2008,13.17
+Europe,AZE,Azerbaijan,2008,13.27
+Western Pacific,VUT,Vanuatu,2008,13.35
+Americas,USA,United States of America,2008,13.42
+Eastern Mediterranean,BHR,Bahrain,2008,13.55
+South-East Asia,IDN,Indonesia,2008,13.55
+Western Pacific,LAO,Lao People's Democratic Republic,2008,14.11
+South-East Asia,LKA,Sri Lanka,2008,14.22
+Eastern Mediterranean,PAK,Pakistan,2008,14.23
+Americas,CHL,Chile,2008,14.29
+Americas,NIC,Nicaragua,2008,14.35
+Europe,SVK,Slovakia,2008,14.44
+Europe,ALB,Albania,2008,14.49
+Americas,BHS,Bahamas,2008,14.53
+Europe,BGR,Bulgaria,2008,14.54
+Americas,ARG,Argentina,2008,14.82
+Eastern Mediterranean,LBN,Lebanon,2008,14.82
+Western Pacific,KOR,Republic of Korea,2008,14.98
+Eastern Mediterranean,AFG,Afghanistan,2008,15.01
+South-East Asia,TLS,Timor-Leste,2008,15.06
+South-East Asia,BTN,Bhutan,2008,15.19
+Africa,MUS,Mauritius,2008,15.33
+Americas,PAN,Panama,2008,15.39
+Americas,MEX,Mexico,2008,15.4
+Europe,GRC,Greece,2008,15.51
+Europe,ROU,Romania,2008,15.52
+Europe,HRV,Croatia,2008,15.74
+South-East Asia,NPL,Nepal,2008,15.86
+Americas,URY,Uruguay,2008,15.9
+Americas,HND,Honduras,2008,16.07
+Europe,MDA,Republic of Moldova,2008,16.29
+Americas,PER,Peru,2008,16.37
+Europe,POL,Poland,2008,16.56
+Americas,GTM,Guatemala,2008,16.63
+Europe,TKM,Turkmenistan,2008,16.65
+Americas,CRI,Costa Rica,2008,16.83
+South-East Asia,BGD,Bangladesh,2008,16.86
+Europe,BIH,Bosnia and Herzegovina,2008,17.13
+South-East Asia,IND,India,2008,17.15
+Americas,BOL,Bolivia (Plurinational State of),2008,17.2
+Europe,ARM,Armenia,2008,17.33
+Western Pacific,TON,Tonga,2008,17.41
+Western Pacific,PNG,Papua New Guinea,2008,17.44
+Western Pacific,SLB,Solomon Islands,2008,17.5
+Western Pacific,KHM,Cambodia,2008,17.7
+Eastern Mediterranean,ARE,United Arab Emirates,2008,17.96
+Americas,COL,Colombia,2008,18.01
+Europe,LTU,Lithuania,2008,18.27
+Americas,HTI,Haiti,2008,18.43
+Europe,MNE,Montenegro,2008,18.51
+Europe,LVA,Latvia,2008,18.51
+Europe,TJK,Tajikistan,2008,18.56
+Africa,GNQ,Equatorial Guinea,2008,19.17
+South-East Asia,MMR,Myanmar,2008,19.22
+Western Pacific,MNG,Mongolia,2008,19.61
+Americas,ECU,Ecuador,2008,19.9
+Western Pacific,KIR,Kiribati,2008,2.03
+South-East Asia,MDV,Maldives,2008,2.06
+Western Pacific,CHN,China,2008,20.51
+Eastern Mediterranean,LBY,Libya,2008,21.06
+Eastern Mediterranean,IRQ,Iraq,2008,21.07
+Africa,NAM,Namibia,2008,21.26
+Europe,GEO,Georgia,2008,21.58
+Europe,KGZ,Kyrgyzstan,2008,21.81
+Eastern Mediterranean,JOR,Jordan,2008,21.92
+Eastern Mediterranean,YEM,Yemen,2008,22.2
+Africa,DZA,Algeria,2008,22.41
+Americas,BRA,Brazil,2008,22.55
+Americas,PRY,Paraguay,2008,22.63
+Africa,CPV,Cabo Verde,2008,22.67
+Eastern Mediterranean,QAT,Qatar,2008,22.76
+Eastern Mediterranean,SYR,Syrian Arab Republic,2008,22.88
+Africa,SSD,South Sudan,2008,23.01
+Americas,GUY,Guyana,2008,23.03
+Africa,ETH,Ethiopia,2008,23.38
+South-East Asia,PRK,Democratic People's Republic of Korea,2008,23.68
+Eastern Mediterranean,MAR,Morocco,2008,23.72
+Africa,ZMB,Zambia,2008,23.86
+Europe,BLR,Belarus,2008,23.86
+Africa,GHA,Ghana,2008,23.88
+Africa,BWA,Botswana,2008,23.93
+Africa,MLI,Mali,2008,23.96
+Eastern Mediterranean,TUN,Tunisia,2008,23.99
+Africa,GAB,Gabon,2008,24.23
+Americas,SUR,Suriname,2008,24.37
+Eastern Mediterranean,SDN,Sudan,2008,24.68
+Western Pacific,MYS,Malaysia,2008,24.71
+Western Pacific,VNM,Viet Nam,2008,24.78
+Americas,TTO,Trinidad and Tobago,2008,24.8
+Europe,UKR,Ukraine,2008,24.81
+Africa,TCD,Chad,2008,24.96
+Africa,AGO,Angola,2008,24.96
+Africa,NGA,Nigeria,2008,25.13
+Africa,SEN,Senegal,2008,25.4
+Africa,CIV,Côte d’Ivoire,2008,25.45
+Africa,MDG,Madagascar,2008,25.48
+Europe,RUS,Russian Federation,2008,25.49
+Eastern Mediterranean,SAU,Saudi Arabia,2008,25.72
+Africa,KEN,Kenya,2008,25.91
+Africa,COG,Congo,2008,25.93
+Americas,DOM,Dominican Republic,2008,25.94
+Africa,MRT,Mauritania,2008,26.27
+Africa,STP,Sao Tome and Principe,2008,26.3
+Africa,GMB,Gambia,2008,26.58
+Africa,COM,Comoros,2008,26.78
+Africa,NER,Niger,2008,27.19
+Eastern Mediterranean,DJI,Djibouti,2008,27.44
+Eastern Mediterranean,SOM,Somalia,2008,27.59
+Africa,LSO,Lesotho,2008,27.63
+Africa,BEN,Benin,2008,27.64
+Africa,CMR,Cameroon,2008,28.36
+Africa,TZA,United Republic of Tanzania,2008,28.36
+Americas,SLV,El Salvador,2008,28.38
+Eastern Mediterranean,KWT,Kuwait,2008,28.46
+Africa,SWZ,Eswatini,2008,28.95
+Europe,KAZ,Kazakhstan,2008,29.23
+Africa,ZAF,South Africa,2008,29.5
+Africa,BFA,Burkina Faso,2008,29.67
+Americas,LCA,Saint Lucia,2008,3.53
+Africa,SLE,Sierra Leone,2008,30.46
+Africa,GIN,Guinea,2008,30.7
+Africa,GNB,Guinea-Bissau,2008,31.12
+Africa,TGO,Togo,2008,31.31
+Africa,MWI,Malawi,2008,31.32
+Africa,MOZ,Mozambique,2008,31.4
+Africa,UGA,Uganda,2008,31.75
+Africa,CAF,Central African Republic,2008,32.32
+Africa,BDI,Burundi,2008,33.03
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2008,33.4
+Africa,RWA,Rwanda,2008,33.65
+Americas,BLZ,Belize,2008,33.76
+Africa,LBR,Liberia,2008,33.86
+Africa,ERI,Eritrea,2008,33.89
+Eastern Mediterranean,OMN,Oman,2008,35.62
+Africa,COD,Democratic Republic of the Congo,2008,35.75
+Africa,ZWE,Zimbabwe,2008,37.46
+Americas,VEN,Venezuela (Bolivarian Republic of),2008,37.69
+South-East Asia,THA,Thailand,2008,38.86
+Europe,MLT,Malta,2008,4.32
+Europe,ISL,Iceland,2008,4.5
+Europe,NLD,Netherlands,2008,4.67
+Europe,SWE,Sweden,2008,4.77
+Europe,CHE,Switzerland,2008,4.83
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2008,5.19
+Europe,NOR,Norway,2008,5.51
+Americas,VCT,Saint Vincent and the Grenadines,2008,5.52
+Western Pacific,JPN,Japan,2008,5.52
+Europe,DEU,Germany,2008,5.78
+Western Pacific,SGP,Singapore,2008,5.8
+Europe,ISR,Israel,2008,5.93
+Americas,BRB,Barbados,2008,6.07
+Europe,TUR,Türkiye,2008,6.2
+Europe,IRL,Ireland,2008,6.52
+Africa,SYC,Seychelles,2008,6.63
+Europe,FIN,Finland,2008,6.75
+Europe,ESP,Spain,2008,6.94
+Europe,FRA,France,2008,7.09
+Western Pacific,AUS,Australia,2008,7.12
+Europe,LUX,Luxembourg,2008,7.42
+Europe,DNK,Denmark,2008,7.62
+Americas,CAN,Canada,2008,8.04
+Europe,MKD,The former Yugoslav Republic of Macedonia,2008,8.08
+Europe,AUT,Austria,2008,8.39
+Europe,ITA,Italy,2008,8.87
+Americas,CUB,Cuba,2008,9.16
+Western Pacific,NZL,New Zealand,2008,9.16
+Europe,BEL,Belgium,2008,9.42
+Europe,CYP,Cyprus,2008,9.8
+Americas,BRB,Barbados,2007,10.06
+Europe,UZB,Uzbekistan,2007,10.26
+Western Pacific,NZL,New Zealand,2007,10.47
+Western Pacific,PHL,Philippines,2007,10.58
+Europe,BEL,Belgium,2007,10.84
+Western Pacific,FJI,Fiji,2007,11
+Europe,CYP,Cyprus,2007,11.09
+Europe,CZE,Czechia,2007,12.17
+Europe,SVK,Slovakia,2007,12.48
+Europe,SRB,Serbia,2007,12.6
+Western Pacific,WSM,Samoa,2007,12.63
+Americas,JAM,Jamaica,2007,12.65
+Africa,MUS,Mauritius,2007,12.72
+Eastern Mediterranean,EGY,Egypt,2007,12.76
+Europe,PRT,Portugal,2007,13.05
+South-East Asia,BTN,Bhutan,2007,13.24
+Americas,CHL,Chile,2007,13.33
+Western Pacific,TON,Tonga,2007,13.65
+South-East Asia,IDN,Indonesia,2007,13.67
+Western Pacific,VUT,Vanuatu,2007,13.67
+Europe,AZE,Azerbaijan,2007,13.74
+Eastern Mediterranean,PAK,Pakistan,2007,14.06
+Americas,MEX,Mexico,2007,14.06
+Americas,ARG,Argentina,2007,14.1
+Western Pacific,LAO,Lao People's Democratic Republic,2007,14.16
+Europe,BGR,Bulgaria,2007,14.32
+Europe,ROU,Romania,2007,14.35
+Americas,URY,Uruguay,2007,14.38
+South-East Asia,LKA,Sri Lanka,2007,14.42
+Americas,NIC,Nicaragua,2007,14.44
+Europe,HRV,Croatia,2007,14.62
+Americas,PAN,Panama,2007,14.65
+Europe,HUN,Hungary,2007,14.7
+Europe,ALB,Albania,2007,14.8
+Eastern Mediterranean,LBN,Lebanon,2007,14.91
+Americas,USA,United States of America,2007,14.92
+Eastern Mediterranean,AFG,Afghanistan,2007,14.96
+Americas,BOL,Bolivia (Plurinational State of),2007,15.04
+South-East Asia,TLS,Timor-Leste,2007,15.24
+Western Pacific,KOR,Republic of Korea,2007,15.35
+Europe,SVN,Slovenia,2007,15.61
+Americas,HND,Honduras,2007,15.67
+Americas,BHS,Bahamas,2007,15.7
+Eastern Mediterranean,BHR,Bahrain,2007,15.83
+South-East Asia,NPL,Nepal,2007,15.97
+Americas,CRI,Costa Rica,2007,16.1
+Europe,GRC,Greece,2007,16.14
+Europe,POL,Poland,2007,16.39
+Americas,PER,Peru,2007,16.6
+South-East Asia,IND,India,2007,16.66
+Americas,LCA,Saint Lucia,2007,16.7
+South-East Asia,BGD,Bangladesh,2007,16.94
+Europe,TKM,Turkmenistan,2007,16.94
+Europe,EST,Estonia,2007,17.03
+Europe,MDA,Republic of Moldova,2007,17.05
+Americas,PRY,Paraguay,2007,17.22
+Western Pacific,KHM,Cambodia,2007,17.39
+Europe,BIH,Bosnia and Herzegovina,2007,17.46
+Western Pacific,PNG,Papua New Guinea,2007,17.54
+Europe,ARM,Armenia,2007,17.56
+Western Pacific,BRN,Brunei Darussalam,2007,17.6
+Eastern Mediterranean,ARE,United Arab Emirates,2007,17.65
+Western Pacific,SLB,Solomon Islands,2007,17.68
+Africa,SYC,Seychelles,2007,17.76
+Americas,COL,Colombia,2007,17.92
+Europe,GEO,Georgia,2007,18.24
+Europe,TJK,Tajikistan,2007,18.46
+Americas,HTI,Haiti,2007,18.52
+Africa,GNQ,Equatorial Guinea,2007,18.99
+South-East Asia,MMR,Myanmar,2007,19.04
+Americas,ECU,Ecuador,2007,19.12
+Western Pacific,FSM,Micronesia (Federated States of),2007,2.87
+Americas,GTM,Guatemala,2007,20.09
+Europe,LVA,Latvia,2007,20.11
+Eastern Mediterranean,IRQ,Iraq,2007,20.24
+Europe,MNE,Montenegro,2007,20.34
+Western Pacific,CHN,China,2007,20.9
+Americas,TTO,Trinidad and Tobago,2007,21.02
+Eastern Mediterranean,LBY,Libya,2007,21.17
+Africa,NAM,Namibia,2007,21.52
+Africa,SSD,South Sudan,2007,21.62
+Europe,KGZ,Kyrgyzstan,2007,21.76
+Eastern Mediterranean,YEM,Yemen,2007,22.03
+Eastern Mediterranean,JOR,Jordan,2007,22.16
+Africa,DZA,Algeria,2007,22.29
+Western Pacific,MNG,Mongolia,2007,22.32
+Americas,BRA,Brazil,2007,22.53
+Eastern Mediterranean,SYR,Syrian Arab Republic,2007,22.76
+Africa,CPV,Cabo Verde,2007,23.15
+Europe,BLR,Belarus,2007,23.46
+Africa,ETH,Ethiopia,2007,23.51
+South-East Asia,PRK,Democratic People's Republic of Korea,2007,23.66
+Eastern Mediterranean,TUN,Tunisia,2007,23.75
+Eastern Mediterranean,MAR,Morocco,2007,23.78
+Africa,MLI,Mali,2007,23.79
+Eastern Mediterranean,QAT,Qatar,2007,23.8
+Africa,GHA,Ghana,2007,24
+Africa,ZMB,Zambia,2007,24.13
+Americas,DOM,Dominican Republic,2007,24.19
+Western Pacific,MYS,Malaysia,2007,24.24
+Western Pacific,VNM,Viet Nam,2007,24.33
+Africa,TCD,Chad,2007,24.57
+Eastern Mediterranean,SDN,Sudan,2007,24.72
+Africa,GAB,Gabon,2007,24.95
+Americas,SUR,Suriname,2007,25.43
+Africa,CIV,Côte d’Ivoire,2007,25.43
+Africa,SEN,Senegal,2007,25.46
+Africa,AGO,Angola,2007,25.47
+Africa,MDG,Madagascar,2007,25.56
+Africa,MRT,Mauritania,2007,25.67
+Africa,KEN,Kenya,2007,25.75
+Africa,NGA,Nigeria,2007,25.87
+Africa,COG,Congo,2007,26.03
+Eastern Mediterranean,SAU,Saudi Arabia,2007,26.03
+Africa,BWA,Botswana,2007,26.09
+Africa,COM,Comoros,2007,26.5
+Africa,GMB,Gambia,2007,26.53
+Europe,LTU,Lithuania,2007,26.6
+Africa,STP,Sao Tome and Principe,2007,27.06
+Eastern Mediterranean,SOM,Somalia,2007,27.2
+Africa,NER,Niger,2007,27.32
+Africa,BEN,Benin,2007,27.61
+Eastern Mediterranean,DJI,Djibouti,2007,27.69
+Africa,LSO,Lesotho,2007,27.83
+Africa,CMR,Cameroon,2007,28.08
+Europe,RUS,Russian Federation,2007,28.17
+Africa,SWZ,Eswatini,2007,28.78
+Africa,TZA,United Republic of Tanzania,2007,28.8
+Europe,UKR,Ukraine,2007,29.49
+Eastern Mediterranean,KWT,Kuwait,2007,29.51
+Africa,BFA,Burkina Faso,2007,29.63
+South-East Asia,MDV,Maldives,2007,3.59
+Europe,MLT,Malta,2007,3.92
+Africa,SLE,Sierra Leone,2007,30.67
+Americas,SLV,El Salvador,2007,30.9
+Eastern Mediterranean,OMN,Oman,2007,30.97
+Africa,GIN,Guinea,2007,31.08
+Africa,TGO,Togo,2007,31.09
+Africa,MOZ,Mozambique,2007,31.25
+Africa,GNB,Guinea-Bissau,2007,31.54
+Africa,MWI,Malawi,2007,31.76
+Africa,UGA,Uganda,2007,31.78
+Americas,BLZ,Belize,2007,32.36
+Africa,ZAF,South Africa,2007,32.44
+Africa,CAF,Central African Republic,2007,32.65
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2007,33.12
+Africa,BDI,Burundi,2007,33.36
+Africa,LBR,Liberia,2007,33.58
+Africa,ERI,Eritrea,2007,33.77
+Africa,RWA,Rwanda,2007,34.67
+Americas,GUY,Guyana,2007,35.63
+Africa,COD,Democratic Republic of the Congo,2007,35.96
+Africa,ZWE,Zimbabwe,2007,36.55
+Americas,VEN,Venezuela (Bolivarian Republic of),2007,36.76
+South-East Asia,THA,Thailand,2007,38.93
+Europe,KAZ,Kazakhstan,2007,39.54
+Europe,ISL,Iceland,2007,4.93
+Europe,NLD,Netherlands,2007,4.94
+Europe,NOR,Norway,2007,5.09
+Europe,CHE,Switzerland,2007,5.25
+Europe,SWE,Sweden,2007,5.29
+Europe,ISR,Israel,2007,5.75
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2007,5.83
+Western Pacific,SGP,Singapore,2007,6.03
+Western Pacific,JPN,Japan,2007,6.18
+Western Pacific,KIR,Kiribati,2007,6.22
+Europe,DEU,Germany,2007,6.36
+Americas,ATG,Antigua and Barbuda,2007,7.24
+Europe,TUR,Türkiye,2007,7.42
+Europe,FIN,Finland,2007,7.47
+Americas,GRD,Grenada,2007,7.61
+Europe,DNK,Denmark,2007,7.66
+Europe,FRA,France,2007,7.7
+Western Pacific,AUS,Australia,2007,7.9
+Europe,IRL,Ireland,2007,8.05
+Americas,VCT,Saint Vincent and the Grenadines,2007,8.24
+Europe,AUT,Austria,2007,8.56
+Americas,CUB,Cuba,2007,8.59
+Europe,MKD,The former Yugoslav Republic of Macedonia,2007,8.62
+Europe,ESP,Spain,2007,8.7
+Americas,CAN,Canada,2007,8.88
+Europe,ITA,Italy,2007,9.68
+Europe,LUX,Luxembourg,2007,9.69
+Western Pacific,FSM,Micronesia (Federated States of),2006,1.9
+Western Pacific,NZL,New Zealand,2006,10.06
+Europe,ITA,Italy,2006,10.26
+Europe,BEL,Belgium,2006,10.5
+Europe,CZE,Czechia,2006,10.64
+Europe,ISL,Iceland,2006,10.76
+Eastern Mediterranean,EGY,Egypt,2006,11.08
+Europe,SRB,Serbia,2006,11.46
+Africa,SYC,Seychelles,2006,12.29
+Africa,MUS,Mauritius,2006,12.54
+Western Pacific,BRN,Brunei Darussalam,2006,12.69
+Western Pacific,WSM,Samoa,2006,12.72
+Americas,VCT,Saint Vincent and the Grenadines,2006,12.89
+Americas,ARG,Argentina,2006,13.11
+Europe,ROU,Romania,2006,13.24
+Europe,AZE,Azerbaijan,2006,13.24
+South-East Asia,BTN,Bhutan,2006,13.39
+Western Pacific,VUT,Vanuatu,2006,13.53
+Europe,SVN,Slovenia,2006,13.73
+Western Pacific,LAO,Lao People's Democratic Republic,2006,13.92
+Europe,SVK,Slovakia,2006,13.94
+Eastern Mediterranean,PAK,Pakistan,2006,14.05
+Americas,JAM,Jamaica,2006,14.08
+Europe,BGR,Bulgaria,2006,14.09
+South-East Asia,IDN,Indonesia,2006,14.16
+Europe,MNE,Montenegro,2006,14.24
+South-East Asia,LKA,Sri Lanka,2006,14.39
+Americas,URY,Uruguay,2006,14.46
+Europe,HRV,Croatia,2006,14.48
+Western Pacific,TON,Tonga,2006,14.75
+Europe,MDA,Republic of Moldova,2006,14.83
+Americas,BHS,Bahamas,2006,14.85
+Europe,ALB,Albania,2006,14.89
+Western Pacific,FJI,Fiji,2006,14.98
+Eastern Mediterranean,AFG,Afghanistan,2006,15.06
+Europe,POL,Poland,2006,15.09
+Americas,GRD,Grenada,2006,15.25
+Europe,HUN,Hungary,2006,15.3
+Americas,MEX,Mexico,2006,15.59
+Americas,USA,United States of America,2006,15.61
+Americas,HND,Honduras,2006,15.82
+Western Pacific,KOR,Republic of Korea,2006,15.9
+South-East Asia,NPL,Nepal,2006,15.91
+South-East Asia,TLS,Timor-Leste,2006,15.94
+Europe,GRC,Greece,2006,16.03
+Americas,PAN,Panama,2006,16.04
+Europe,PRT,Portugal,2006,16.08
+Americas,NIC,Nicaragua,2006,16.16
+South-East Asia,IND,India,2006,16.29
+Eastern Mediterranean,LBN,Lebanon,2006,16.39
+Americas,CRI,Costa Rica,2006,16.39
+Americas,PER,Peru,2006,16.6
+Europe,GEO,Georgia,2006,16.61
+Americas,PRY,Paraguay,2006,16.84
+Europe,TKM,Turkmenistan,2006,17.07
+Eastern Mediterranean,ARE,United Arab Emirates,2006,17.17
+Americas,COL,Colombia,2006,17.44
+Europe,BIH,Bosnia and Herzegovina,2006,17.55
+South-East Asia,BGD,Bangladesh,2006,17.62
+Western Pacific,SLB,Solomon Islands,2006,17.67
+Europe,ARM,Armenia,2006,17.85
+Western Pacific,KHM,Cambodia,2006,17.86
+Western Pacific,PNG,Papua New Guinea,2006,17.99
+Western Pacific,KIR,Kiribati,2006,18.02
+Americas,ECU,Ecuador,2006,18.45
+Europe,TJK,Tajikistan,2006,18.62
+Americas,HTI,Haiti,2006,18.64
+Americas,CHL,Chile,2006,18.68
+South-East Asia,MMR,Myanmar,2006,18.97
+Europe,EST,Estonia,2006,19.34
+Africa,GNQ,Equatorial Guinea,2006,19.5
+Eastern Mediterranean,IRQ,Iraq,2006,19.61
+Americas,ATG,Antigua and Barbuda,2006,2.37
+Europe,MLT,Malta,2006,2.46
+South-East Asia,MDV,Maldives,2006,2.47
+Europe,LVA,Latvia,2006,20
+Americas,TTO,Trinidad and Tobago,2006,20.11
+Europe,KGZ,Kyrgyzstan,2006,20.51
+Western Pacific,CHN,China,2006,20.74
+Americas,BOL,Bolivia (Plurinational State of),2006,20.9
+Africa,SSD,South Sudan,2006,21.22
+Eastern Mediterranean,LBY,Libya,2006,21.3
+Western Pacific,MNG,Mongolia,2006,21.65
+Eastern Mediterranean,BHR,Bahrain,2006,21.81
+Americas,BRA,Brazil,2006,21.83
+Eastern Mediterranean,YEM,Yemen,2006,21.88
+Europe,BLR,Belarus,2006,22.07
+Africa,DZA,Algeria,2006,22.17
+Eastern Mediterranean,JOR,Jordan,2006,22.3
+Eastern Mediterranean,SYR,Syrian Arab Republic,2006,22.56
+South-East Asia,PRK,Democratic People's Republic of Korea,2006,23.17
+Africa,CPV,Cabo Verde,2006,23.23
+Africa,NAM,Namibia,2006,23.57
+Eastern Mediterranean,TUN,Tunisia,2006,23.86
+Africa,MLI,Mali,2006,23.9
+Africa,ETH,Ethiopia,2006,23.93
+Eastern Mediterranean,MAR,Morocco,2006,23.94
+Africa,GAB,Gabon,2006,24.01
+Africa,TCD,Chad,2006,24.48
+Western Pacific,VNM,Viet Nam,2006,24.49
+Africa,AGO,Angola,2006,24.58
+Africa,GHA,Ghana,2006,24.61
+Africa,BWA,Botswana,2006,24.66
+Americas,SUR,Suriname,2006,24.74
+Western Pacific,MYS,Malaysia,2006,24.74
+Eastern Mediterranean,SAU,Saudi Arabia,2006,24.76
+Africa,ZMB,Zambia,2006,24.88
+Eastern Mediterranean,SDN,Sudan,2006,24.91
+Europe,UKR,Ukraine,2006,25.3
+Africa,SEN,Senegal,2006,25.34
+Africa,COG,Congo,2006,25.5
+Americas,DOM,Dominican Republic,2006,25.63
+Africa,MDG,Madagascar,2006,25.74
+Africa,KEN,Kenya,2006,25.81
+Africa,CIV,Côte d’Ivoire,2006,25.82
+Africa,MRT,Mauritania,2006,26.03
+Africa,NGA,Nigeria,2006,26.42
+Africa,COM,Comoros,2006,26.5
+Europe,LTU,Lithuania,2006,26.67
+Africa,GMB,Gambia,2006,26.71
+Eastern Mediterranean,OMN,Oman,2006,27.2
+Eastern Mediterranean,SOM,Somalia,2006,27.44
+Europe,RUS,Russian Federation,2006,27.49
+Africa,NER,Niger,2006,27.61
+Africa,LSO,Lesotho,2006,27.81
+Africa,STP,Sao Tome and Principe,2006,27.83
+Eastern Mediterranean,DJI,Djibouti,2006,27.94
+Africa,CMR,Cameroon,2006,28.14
+Africa,BEN,Benin,2006,28.15
+Africa,SWZ,Eswatini,2006,28.56
+Americas,BLZ,Belize,2006,28.8
+Africa,TZA,United Republic of Tanzania,2006,28.8
+Eastern Mediterranean,KWT,Kuwait,2006,29.03
+Africa,BFA,Burkina Faso,2006,29.43
+Africa,GIN,Guinea,2006,30.69
+Americas,VEN,Venezuela (Bolivarian Republic of),2006,30.82
+Africa,SLE,Sierra Leone,2006,31.24
+Africa,TGO,Togo,2006,31.25
+Africa,GNB,Guinea-Bissau,2006,31.36
+Africa,UGA,Uganda,2006,31.82
+Africa,MOZ,Mozambique,2006,31.97
+Africa,MWI,Malawi,2006,32.4
+Americas,SLV,El Salvador,2006,32.9
+Africa,CAF,Central African Republic,2006,33.02
+Africa,BDI,Burundi,2006,33.15
+Americas,GUY,Guyana,2006,33.23
+Africa,ERI,Eritrea,2006,33.65
+Africa,LBR,Liberia,2006,34.69
+Africa,RWA,Rwanda,2006,35.53
+Eastern Mediterranean,QAT,Qatar,2006,35.59
+Africa,ZWE,Zimbabwe,2006,36.45
+Africa,COD,Democratic Republic of the Congo,2006,36.62
+South-East Asia,THA,Thailand,2006,38.68
+Europe,KAZ,Kazakhstan,2006,39.79
+Americas,GTM,Guatemala,2006,4.61
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2006,40.28
+Africa,ZAF,South Africa,2006,41.07
+Europe,NLD,Netherlands,2006,5.09
+Europe,CHE,Switzerland,2006,5.11
+Western Pacific,SGP,Singapore,2006,5.29
+Europe,SWE,Sweden,2006,5.31
+Europe,NOR,Norway,2006,5.35
+Europe,DNK,Denmark,2006,5.79
+Americas,LCA,Saint Lucia,2006,6.05
+Europe,ISR,Israel,2006,6.39
+Europe,FIN,Finland,2006,6.56
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2006,6.56
+Europe,DEU,Germany,2006,6.57
+Europe,TUR,Türkiye,2006,6.95
+Europe,MKD,The former Yugoslav Republic of Macedonia,2006,6.98
+Europe,FRA,France,2006,7.89
+Americas,BRB,Barbados,2006,7.93
+Western Pacific,AUS,Australia,2006,8.03
+Western Pacific,JPN,Japan,2006,8.55
+Europe,IRL,Ireland,2006,8.89
+Europe,AUT,Austria,2006,9.09
+Americas,CAN,Canada,2006,9.14
+Europe,CYP,Cyprus,2006,9.19
+Europe,LUX,Luxembourg,2006,9.45
+Europe,ESP,Spain,2006,9.58
+Americas,CUB,Cuba,2006,9.7
+Western Pacific,PHL,Philippines,2006,9.83
+Europe,UZB,Uzbekistan,2006,9.96
+Americas,ATG,Antigua and Barbuda,2005,0
+Western Pacific,FSM,Micronesia (Federated States of),2005,0
+Europe,SRB,Serbia,2005,10
+Western Pacific,PHL,Philippines,2005,10.14
+Africa,SYC,Seychelles,2005,10.15
+Western Pacific,NZL,New Zealand,2005,10.25
+Europe,ITA,Italy,2005,10.29
+Europe,LUX,Luxembourg,2005,10.48
+Europe,ESP,Spain,2005,10.6
+Western Pacific,KIR,Kiribati,2005,10.83
+Eastern Mediterranean,EGY,Egypt,2005,10.84
+Europe,BEL,Belgium,2005,10.94
+Americas,CUB,Cuba,2005,11.59
+Africa,MUS,Mauritius,2005,11.62
+Americas,ARG,Argentina,2005,11.64
+Americas,JAM,Jamaica,2005,12.38
+Americas,GRD,Grenada,2005,12.42
+Europe,CYP,Cyprus,2005,12.55
+Americas,URY,Uruguay,2005,12.76
+Western Pacific,WSM,Samoa,2005,12.8
+Europe,BGR,Bulgaria,2005,12.84
+Europe,UZB,Uzbekistan,2005,12.85
+Europe,CZE,Czechia,2005,12.93
+Western Pacific,FJI,Fiji,2005,13.02
+Europe,ROU,Romania,2005,13.33
+South-East Asia,BTN,Bhutan,2005,13.41
+Americas,LCA,Saint Lucia,2005,13.46
+Europe,SVN,Slovenia,2005,13.48
+Europe,SVK,Slovakia,2005,13.69
+Americas,PAN,Panama,2005,13.78
+Western Pacific,VUT,Vanuatu,2005,13.86
+Western Pacific,TON,Tonga,2005,13.87
+Europe,AZE,Azerbaijan,2005,13.88
+Western Pacific,LAO,Lao People's Democratic Republic,2005,13.98
+Europe,HRV,Croatia,2005,14.07
+Europe,GEO,Georgia,2005,14.23
+South-East Asia,IDN,Indonesia,2005,14.3
+Western Pacific,BRN,Brunei Darussalam,2005,14.43
+Eastern Mediterranean,PAK,Pakistan,2005,14.43
+Americas,PRY,Paraguay,2005,14.46
+Americas,CRI,Costa Rica,2005,14.47
+Europe,EST,Estonia,2005,14.68
+Europe,HUN,Hungary,2005,14.79
+South-East Asia,LKA,Sri Lanka,2005,14.85
+Europe,ALB,Albania,2005,14.93
+Americas,BOL,Bolivia (Plurinational State of),2005,15.16
+Eastern Mediterranean,AFG,Afghanistan,2005,15.17
+Europe,MDA,Republic of Moldova,2005,15.48
+South-East Asia,TLS,Timor-Leste,2005,15.58
+Eastern Mediterranean,BHR,Bahrain,2005,15.63
+Americas,MEX,Mexico,2005,15.64
+Americas,USA,United States of America,2005,15.73
+Americas,HND,Honduras,2005,15.84
+Americas,PER,Peru,2005,15.88
+South-East Asia,IND,India,2005,15.89
+Europe,MNE,Montenegro,2005,15.9
+Europe,POL,Poland,2005,16
+South-East Asia,NPL,Nepal,2005,16.02
+Western Pacific,KOR,Republic of Korea,2005,16.1
+Americas,NIC,Nicaragua,2005,16.13
+Europe,GRC,Greece,2005,16.57
+Americas,COL,Colombia,2005,16.94
+Eastern Mediterranean,LBN,Lebanon,2005,17.01
+Europe,TKM,Turkmenistan,2005,17.16
+Americas,ECU,Ecuador,2005,17.21
+Western Pacific,SLB,Solomon Islands,2005,17.45
+Europe,KGZ,Kyrgyzstan,2005,17.59
+South-East Asia,BGD,Bangladesh,2005,17.64
+Europe,PRT,Portugal,2005,17.68
+Americas,CHL,Chile,2005,17.73
+Europe,BIH,Bosnia and Herzegovina,2005,17.79
+Western Pacific,KHM,Cambodia,2005,17.89
+Western Pacific,PNG,Papua New Guinea,2005,18.05
+Europe,ARM,Armenia,2005,18.31
+Americas,HTI,Haiti,2005,18.53
+Eastern Mediterranean,ARE,United Arab Emirates,2005,18.66
+Europe,TJK,Tajikistan,2005,18.85
+Americas,TTO,Trinidad and Tobago,2005,19.21
+South-East Asia,MMR,Myanmar,2005,19.3
+Eastern Mediterranean,IRQ,Iraq,2005,19.32
+Africa,GNQ,Equatorial Guinea,2005,20.08
+Western Pacific,CHN,China,2005,20.78
+Africa,SSD,South Sudan,2005,20.87
+Americas,BHS,Bahamas,2005,20.93
+Eastern Mediterranean,LBY,Libya,2005,21.07
+Europe,LVA,Latvia,2005,21.36
+Western Pacific,MNG,Mongolia,2005,21.73
+Eastern Mediterranean,SYR,Syrian Arab Republic,2005,21.9
+Africa,NAM,Namibia,2005,21.93
+Eastern Mediterranean,YEM,Yemen,2005,21.98
+Europe,BLR,Belarus,2005,22.06
+Africa,DZA,Algeria,2005,22.06
+Africa,GAB,Gabon,2005,22.37
+Americas,BRA,Brazil,2005,22.39
+Eastern Mediterranean,JOR,Jordan,2005,22.58
+South-East Asia,PRK,Democratic People's Republic of Korea,2005,22.63
+Africa,CPV,Cabo Verde,2005,23.76
+Eastern Mediterranean,MAR,Morocco,2005,23.97
+Eastern Mediterranean,TUN,Tunisia,2005,24.06
+Africa,MLI,Mali,2005,24.15
+Africa,ETH,Ethiopia,2005,24.53
+Western Pacific,VNM,Viet Nam,2005,24.65
+Africa,TCD,Chad,2005,24.76
+Africa,SEN,Senegal,2005,24.77
+Africa,BWA,Botswana,2005,24.77
+Western Pacific,MYS,Malaysia,2005,24.88
+Europe,UKR,Ukraine,2005,25.16
+Africa,ZMB,Zambia,2005,25.45
+Africa,COG,Congo,2005,25.45
+Africa,GHA,Ghana,2005,25.52
+Europe,LTU,Lithuania,2005,25.57
+Eastern Mediterranean,SDN,Sudan,2005,25.59
+Africa,MDG,Madagascar,2005,25.86
+Eastern Mediterranean,SAU,Saudi Arabia,2005,25.89
+Africa,AGO,Angola,2005,26.06
+Africa,GMB,Gambia,2005,26.23
+Africa,KEN,Kenya,2005,26.27
+Africa,CIV,Côte d’Ivoire,2005,26.33
+Americas,SUR,Suriname,2005,26.43
+Africa,MRT,Mauritania,2005,26.45
+Africa,COM,Comoros,2005,26.81
+Africa,NGA,Nigeria,2005,26.97
+Americas,VEN,Venezuela (Bolivarian Republic of),2005,27.17
+Eastern Mediterranean,SOM,Somalia,2005,27.35
+Africa,NER,Niger,2005,27.54
+Africa,LSO,Lesotho,2005,27.57
+Eastern Mediterranean,DJI,Djibouti,2005,28.09
+Eastern Mediterranean,OMN,Oman,2005,28.27
+Africa,CMR,Cameroon,2005,28.3
+Americas,GUY,Guyana,2005,28.55
+Africa,STP,Sao Tome and Principe,2005,28.58
+Europe,RUS,Russian Federation,2005,28.82
+Africa,BEN,Benin,2005,28.85
+Americas,DOM,Dominican Republic,2005,28.87
+Africa,BFA,Burkina Faso,2005,29.17
+Eastern Mediterranean,KWT,Kuwait,2005,29.47
+Americas,SLV,El Salvador,2005,29.69
+Africa,TZA,United Republic of Tanzania,2005,29.79
+Africa,BDI,Burundi,2005,29.91
+Africa,SWZ,Eswatini,2005,29.92
+Africa,GIN,Guinea,2005,30.68
+Africa,TGO,Togo,2005,30.86
+Europe,KAZ,Kazakhstan,2005,31.12
+Africa,GNB,Guinea-Bissau,2005,31.45
+Africa,SLE,Sierra Leone,2005,31.55
+Eastern Mediterranean,QAT,Qatar,2005,31.78
+Africa,MOZ,Mozambique,2005,32.33
+Africa,UGA,Uganda,2005,32.52
+Africa,MWI,Malawi,2005,32.93
+Africa,CAF,Central African Republic,2005,33.36
+Africa,ERI,Eritrea,2005,33.93
+Africa,ZWE,Zimbabwe,2005,35.27
+Americas,BLZ,Belize,2005,35.86
+Africa,LBR,Liberia,2005,36.51
+Africa,COD,Democratic Republic of the Congo,2005,36.78
+Africa,RWA,Rwanda,2005,37.04
+Africa,ZAF,South Africa,2005,38.05
+South-East Asia,THA,Thailand,2005,38.86
+Europe,MLT,Malta,2005,4.2
+Americas,GTM,Guatemala,2005,4.38
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2005,41
+South-East Asia,MDV,Maldives,2005,5.01
+Western Pacific,SGP,Singapore,2005,5.02
+Europe,NLD,Netherlands,2005,5.14
+Europe,SWE,Sweden,2005,5.27
+Europe,NOR,Norway,2005,5.29
+Europe,CHE,Switzerland,2005,5.71
+Europe,DNK,Denmark,2005,6.49
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2005,6.63
+Europe,ISL,Iceland,2005,6.78
+Europe,TUR,Türkiye,2005,6.84
+Europe,DEU,Germany,2005,6.89
+Europe,ISR,Israel,2005,7.08
+Europe,MKD,The former Yugoslav Republic of Macedonia,2005,7.13
+Europe,FIN,Finland,2005,7.43
+Americas,VCT,Saint Vincent and the Grenadines,2005,8.29
+Western Pacific,AUS,Australia,2005,8.31
+Americas,BRB,Barbados,2005,8.69
+Europe,FRA,France,2005,8.97
+Western Pacific,JPN,Japan,2005,9.38
+Americas,CAN,Canada,2005,9.49
+Europe,AUT,Austria,2005,9.6
+Europe,IRL,Ireland,2005,9.95
+South-East Asia,MDV,Maldives,2004,1.61
+Americas,GRD,Grenada,2004,1.92
+Western Pacific,JPN,Japan,2004,10.09
+Western Pacific,PHL,Philippines,2004,10.11
+Americas,ARG,Argentina,2004,10.61
+Europe,AZE,Azerbaijan,2004,10.69
+Eastern Mediterranean,EGY,Egypt,2004,10.72
+Europe,ITA,Italy,2004,10.89
+Europe,AUT,Austria,2004,11.01
+Western Pacific,NZL,New Zealand,2004,11.2
+Europe,BEL,Belgium,2004,11.43
+Americas,CUB,Cuba,2004,11.43
+Europe,LUX,Luxembourg,2004,11.51
+Europe,ESP,Spain,2004,11.67
+Americas,PRY,Paraguay,2004,12.08
+Europe,ROU,Romania,2004,12.29
+Americas,JAM,Jamaica,2004,12.39
+Europe,BGR,Bulgaria,2004,12.51
+Western Pacific,BRN,Brunei Darussalam,2004,12.52
+Europe,UZB,Uzbekistan,2004,12.83
+Western Pacific,TON,Tonga,2004,12.97
+Western Pacific,FJI,Fiji,2004,13.08
+South-East Asia,BTN,Bhutan,2004,13.15
+Americas,ECU,Ecuador,2004,13.78
+Western Pacific,LAO,Lao People's Democratic Republic,2004,13.85
+Europe,EST,Estonia,2004,13.86
+Americas,PAN,Panama,2004,13.89
+Americas,URY,Uruguay,2004,13.91
+Europe,CZE,Czechia,2004,13.92
+Western Pacific,VUT,Vanuatu,2004,14.21
+Europe,HRV,Croatia,2004,14.3
+Europe,SVN,Slovenia,2004,14.37
+Eastern Mediterranean,PAK,Pakistan,2004,14.39
+South-East Asia,IDN,Indonesia,2004,14.39
+Europe,SVK,Slovakia,2004,14.45
+Europe,CYP,Cyprus,2004,14.59
+Europe,ALB,Albania,2004,14.65
+South-East Asia,LKA,Sri Lanka,2004,14.7
+Americas,MEX,Mexico,2004,14.95
+Western Pacific,WSM,Samoa,2004,15.12
+Americas,BOL,Bolivia (Plurinational State of),2004,15.14
+Europe,HUN,Hungary,2004,15.16
+Eastern Mediterranean,AFG,Afghanistan,2004,15.19
+Europe,MNE,Montenegro,2004,15.28
+South-East Asia,TLS,Timor-Leste,2004,15.33
+Americas,PER,Peru,2004,15.36
+Africa,MUS,Mauritius,2004,15.38
+Americas,CRI,Costa Rica,2004,15.38
+Europe,GEO,Georgia,2004,15.55
+South-East Asia,IND,India,2004,15.6
+Eastern Mediterranean,BHR,Bahrain,2004,15.67
+Americas,USA,United States of America,2004,15.79
+Americas,NIC,Nicaragua,2004,15.86
+South-East Asia,NPL,Nepal,2004,15.89
+Americas,HND,Honduras,2004,15.94
+Americas,BHS,Bahamas,2004,15.98
+South-East Asia,BGD,Bangladesh,2004,16.36
+Western Pacific,KOR,Republic of Korea,2004,16.63
+Europe,MDA,Republic of Moldova,2004,16.67
+Americas,BRB,Barbados,2004,16.71
+Europe,POL,Poland,2004,16.89
+Europe,TKM,Turkmenistan,2004,17.35
+Americas,COL,Colombia,2004,17.48
+Europe,GRC,Greece,2004,17.49
+Eastern Mediterranean,LBN,Lebanon,2004,17.53
+Western Pacific,KHM,Cambodia,2004,17.61
+Western Pacific,PNG,Papua New Guinea,2004,17.66
+Americas,CHL,Chile,2004,17.83
+Americas,TTO,Trinidad and Tobago,2004,17.91
+Europe,BIH,Bosnia and Herzegovina,2004,18.14
+Western Pacific,SLB,Solomon Islands,2004,18.32
+Europe,ARM,Armenia,2004,18.46
+Europe,KGZ,Kyrgyzstan,2004,18.71
+Western Pacific,KIR,Kiribati,2004,18.78
+Americas,HTI,Haiti,2004,18.89
+Europe,PRT,Portugal,2004,19.07
+Europe,TJK,Tajikistan,2004,19.08
+South-East Asia,MMR,Myanmar,2004,19.72
+Africa,GNQ,Equatorial Guinea,2004,19.75
+Americas,ATG,Antigua and Barbuda,2004,2.49
+Americas,LCA,Saint Lucia,2004,20.39
+Africa,SSD,South Sudan,2004,20.48
+Western Pacific,CHN,China,2004,20.54
+Europe,UKR,Ukraine,2004,20.58
+Eastern Mediterranean,ARE,United Arab Emirates,2004,20.89
+Eastern Mediterranean,IRQ,Iraq,2004,21.06
+Western Pacific,MNG,Mongolia,2004,21.07
+Eastern Mediterranean,LBY,Libya,2004,21.23
+Eastern Mediterranean,SYR,Syrian Arab Republic,2004,21.84
+Africa,NAM,Namibia,2004,22.02
+Americas,BRA,Brazil,2004,22.23
+Eastern Mediterranean,YEM,Yemen,2004,22.39
+Africa,DZA,Algeria,2004,22.48
+South-East Asia,PRK,Democratic People's Republic of Korea,2004,22.74
+Eastern Mediterranean,JOR,Jordan,2004,22.76
+Europe,BLR,Belarus,2004,23.02
+Eastern Mediterranean,SAU,Saudi Arabia,2004,23.03
+Eastern Mediterranean,TUN,Tunisia,2004,23.43
+Americas,BLZ,Belize,2004,23.5
+Europe,LVA,Latvia,2004,23.52
+Europe,LTU,Lithuania,2004,23.6
+Eastern Mediterranean,MAR,Morocco,2004,23.76
+Africa,CPV,Cabo Verde,2004,23.87
+Africa,MLI,Mali,2004,24.46
+Africa,ETH,Ethiopia,2004,24.82
+Western Pacific,VNM,Viet Nam,2004,24.88
+Africa,SEN,Senegal,2004,24.89
+Africa,TCD,Chad,2004,25.05
+Africa,GAB,Gabon,2004,25.1
+Europe,KAZ,Kazakhstan,2004,25.42
+Africa,GHA,Ghana,2004,25.44
+Eastern Mediterranean,KWT,Kuwait,2004,25.45
+Western Pacific,MYS,Malaysia,2004,25.49
+Eastern Mediterranean,SDN,Sudan,2004,25.65
+Africa,COG,Congo,2004,25.81
+Africa,AGO,Angola,2004,25.87
+Africa,KEN,Kenya,2004,25.9
+Africa,ZMB,Zambia,2004,25.91
+Africa,GMB,Gambia,2004,25.93
+Africa,MDG,Madagascar,2004,26.41
+Africa,CIV,Côte d’Ivoire,2004,26.46
+Africa,MRT,Mauritania,2004,26.67
+Eastern Mediterranean,OMN,Oman,2004,26.87
+Africa,COM,Comoros,2004,26.96
+Africa,LSO,Lesotho,2004,27.2
+Eastern Mediterranean,DJI,Djibouti,2004,27.61
+Africa,NGA,Nigeria,2004,27.64
+Eastern Mediterranean,SOM,Somalia,2004,27.68
+Africa,CMR,Cameroon,2004,27.78
+Africa,NER,Niger,2004,27.91
+Africa,BEN,Benin,2004,27.96
+Americas,VEN,Venezuela (Bolivarian Republic of),2004,28.19
+Africa,STP,Sao Tome and Principe,2004,28.77
+Africa,BFA,Burkina Faso,2004,29.06
+Americas,GUY,Guyana,2004,29.1
+Americas,SUR,Suriname,2004,29.37
+Eastern Mediterranean,QAT,Qatar,2004,29.47
+Africa,BDI,Burundi,2004,29.71
+Africa,BWA,Botswana,2004,29.81
+Europe,RUS,Russian Federation,2004,29.91
+Europe,MLT,Malta,2004,3.48
+Africa,TZA,United Republic of Tanzania,2004,30.09
+Africa,SWZ,Eswatini,2004,30.41
+Africa,GIN,Guinea,2004,30.57
+Africa,TGO,Togo,2004,31.04
+Africa,SLE,Sierra Leone,2004,31.25
+Africa,GNB,Guinea-Bissau,2004,31.51
+Africa,UGA,Uganda,2004,32.43
+Africa,MWI,Malawi,2004,32.92
+Africa,MOZ,Mozambique,2004,33.1
+Africa,ERI,Eritrea,2004,33.53
+Africa,CAF,Central African Republic,2004,33.65
+Africa,ZWE,Zimbabwe,2004,34.84
+Americas,SLV,El Salvador,2004,35.63
+Americas,DOM,Dominican Republic,2004,35.99
+Africa,COD,Democratic Republic of the Congo,2004,36.54
+Africa,RWA,Rwanda,2004,36.73
+Africa,LBR,Liberia,2004,37.34
+South-East Asia,THA,Thailand,2004,38.86
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2004,39.01
+Western Pacific,FSM,Micronesia (Federated States of),2004,4.69
+Americas,GTM,Guatemala,2004,4.95
+Africa,ZAF,South Africa,2004,41.27
+Europe,SWE,Sweden,2004,5.57
+Europe,NLD,Netherlands,2004,5.57
+Western Pacific,SGP,Singapore,2004,6.25
+Europe,NOR,Norway,2004,6.29
+Europe,TUR,Türkiye,2004,6.81
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2004,6.87
+Europe,DNK,Denmark,2004,7.03
+Europe,CHE,Switzerland,2004,7.18
+Americas,VCT,Saint Vincent and the Grenadines,2004,7.37
+Europe,DEU,Germany,2004,7.48
+Europe,FIN,Finland,2004,7.63
+Europe,ISR,Israel,2004,7.74
+Europe,MKD,The former Yugoslav Republic of Macedonia,2004,7.78
+Western Pacific,AUS,Australia,2004,8.21
+Europe,ISL,Iceland,2004,8.26
+Europe,FRA,France,2004,8.91
+Americas,CAN,Canada,2004,8.95
+Europe,SRB,Serbia,2004,9.1
+Africa,SYC,Seychelles,2004,9.15
+Europe,IRL,Ireland,2004,9.59
+South-East Asia,MDV,Maldives,2003,0.66
+Americas,GRD,Grenada,2003,1.92
+Europe,FRA,France,2003,10.06
+Americas,ATG,Antigua and Barbuda,2003,10.09
+Americas,VCT,Saint Vincent and the Grenadines,2003,10.15
+Western Pacific,PHL,Philippines,2003,10.15
+Western Pacific,JPN,Japan,2003,10.56
+Americas,CUB,Cuba,2003,11.5
+Americas,BRB,Barbados,2003,11.66
+Americas,PRY,Paraguay,2003,11.7
+Europe,AUT,Austria,2003,11.74
+Europe,ITA,Italy,2003,11.75
+Europe,CYP,Cyprus,2003,11.78
+Europe,ROU,Romania,2003,11.8
+Europe,BEL,Belgium,2003,12.01
+Western Pacific,NZL,New Zealand,2003,12.21
+Americas,URY,Uruguay,2003,12.22
+Europe,LUX,Luxembourg,2003,12.3
+Eastern Mediterranean,EGY,Egypt,2003,12.34
+South-East Asia,BTN,Bhutan,2003,12.42
+Europe,BGR,Bulgaria,2003,12.69
+Europe,SVN,Slovenia,2003,12.98
+Western Pacific,TON,Tonga,2003,13.05
+Americas,BHS,Bahamas,2003,13.1
+Europe,ESP,Spain,2003,13.4
+Western Pacific,WSM,Samoa,2003,13.52
+Europe,EST,Estonia,2003,13.62
+Americas,JAM,Jamaica,2003,13.63
+Western Pacific,LAO,Lao People's Democratic Republic,2003,13.74
+Europe,GEO,Georgia,2003,13.94
+Americas,PER,Peru,2003,13.98
+Eastern Mediterranean,PAK,Pakistan,2003,14
+Europe,MNE,Montenegro,2003,14.17
+Africa,STP,Sao Tome and Principe,2003,14.28
+South-East Asia,IDN,Indonesia,2003,14.49
+Europe,AZE,Azerbaijan,2003,14.51
+Europe,CZE,Czechia,2003,14.57
+Western Pacific,VUT,Vanuatu,2003,14.64
+Europe,ALB,Albania,2003,14.66
+South-East Asia,BGD,Bangladesh,2003,14.89
+Western Pacific,FSM,Micronesia (Federated States of),2003,14.97
+Americas,MEX,Mexico,2003,14.98
+South-East Asia,TLS,Timor-Leste,2003,14.99
+Eastern Mediterranean,AFG,Afghanistan,2003,15.02
+South-East Asia,LKA,Sri Lanka,2003,15.03
+Americas,ECU,Ecuador,2003,15.06
+Europe,HUN,Hungary,2003,15.12
+Americas,BOL,Bolivia (Plurinational State of),2003,15.12
+Europe,SVK,Slovakia,2003,15.27
+Africa,MUS,Mauritius,2003,15.38
+South-East Asia,NPL,Nepal,2003,15.41
+Americas,CRI,Costa Rica,2003,15.42
+Americas,PAN,Panama,2003,15.43
+Western Pacific,FJI,Fiji,2003,15.56
+South-East Asia,IND,India,2003,15.8
+Europe,GRC,Greece,2003,15.8
+Western Pacific,MNG,Mongolia,2003,15.84
+Americas,HND,Honduras,2003,15.92
+Europe,MDA,Republic of Moldova,2003,15.93
+Americas,USA,United States of America,2003,15.97
+Americas,NIC,Nicaragua,2003,16
+Eastern Mediterranean,BHR,Bahrain,2003,16.05
+Europe,HRV,Croatia,2003,16.47
+Europe,POL,Poland,2003,16.5
+Europe,TKM,Turkmenistan,2003,16.82
+Americas,COL,Colombia,2003,17.16
+Americas,LCA,Saint Lucia,2003,17.44
+Africa,SYC,Seychelles,2003,17.48
+Western Pacific,PNG,Papua New Guinea,2003,17.62
+Western Pacific,KHM,Cambodia,2003,17.63
+Eastern Mediterranean,SAU,Saudi Arabia,2003,17.72
+Europe,KGZ,Kyrgyzstan,2003,17.89
+Americas,CHL,Chile,2003,18
+Eastern Mediterranean,LBN,Lebanon,2003,18.07
+Europe,BIH,Bosnia and Herzegovina,2003,18.37
+Europe,ARM,Armenia,2003,18.49
+Western Pacific,SLB,Solomon Islands,2003,18.79
+Western Pacific,KOR,Republic of Korea,2003,18.8
+Europe,KAZ,Kazakhstan,2003,18.8
+Europe,TJK,Tajikistan,2003,18.97
+Western Pacific,KIR,Kiribati,2003,19.14
+Americas,HTI,Haiti,2003,19.33
+Europe,PRT,Portugal,2003,19.39
+Africa,SSD,South Sudan,2003,19.95
+South-East Asia,MMR,Myanmar,2003,20.06
+Europe,UKR,Ukraine,2003,20.14
+Americas,TTO,Trinidad and Tobago,2003,20.26
+Americas,SUR,Suriname,2003,20.29
+Africa,GNQ,Equatorial Guinea,2003,20.76
+Americas,BRA,Brazil,2003,21.03
+Eastern Mediterranean,LBY,Libya,2003,21.12
+Western Pacific,CHN,China,2003,21.13
+Eastern Mediterranean,SYR,Syrian Arab Republic,2003,21.93
+Eastern Mediterranean,YEM,Yemen,2003,21.98
+Eastern Mediterranean,IRQ,Iraq,2003,22.01
+Africa,DZA,Algeria,2003,22.7
+Africa,NAM,Namibia,2003,22.76
+Eastern Mediterranean,JOR,Jordan,2003,22.86
+South-East Asia,PRK,Democratic People's Republic of Korea,2003,22.98
+Africa,GAB,Gabon,2003,23.14
+Eastern Mediterranean,TUN,Tunisia,2003,23.35
+Europe,LTU,Lithuania,2003,23.55
+Africa,CPV,Cabo Verde,2003,24
+Eastern Mediterranean,MAR,Morocco,2003,24.06
+Western Pacific,VNM,Viet Nam,2003,24.2
+Eastern Mediterranean,ARE,United Arab Emirates,2003,24.25
+Africa,MLI,Mali,2003,24.54
+Europe,LVA,Latvia,2003,24.63
+Eastern Mediterranean,OMN,Oman,2003,24.98
+Africa,ETH,Ethiopia,2003,25.12
+Africa,SEN,Senegal,2003,25.16
+Africa,AGO,Angola,2003,25.26
+Africa,GMB,Gambia,2003,25.52
+Africa,GHA,Ghana,2003,25.64
+Eastern Mediterranean,SDN,Sudan,2003,25.72
+Africa,MRT,Mauritania,2003,25.83
+Africa,CIV,Côte d’Ivoire,2003,25.87
+Eastern Mediterranean,KWT,Kuwait,2003,26
+Africa,COG,Congo,2003,26.04
+Africa,KEN,Kenya,2003,26.16
+Africa,ZMB,Zambia,2003,26.23
+Western Pacific,MYS,Malaysia,2003,26.24
+Africa,TCD,Chad,2003,26.44
+Africa,MDG,Madagascar,2003,26.44
+Europe,BLR,Belarus,2003,26.73
+Africa,COM,Comoros,2003,26.75
+Eastern Mediterranean,SOM,Somalia,2003,27.22
+Americas,VEN,Venezuela (Bolivarian Republic of),2003,27.35
+Africa,CMR,Cameroon,2003,27.36
+Eastern Mediterranean,DJI,Djibouti,2003,27.78
+Africa,NER,Niger,2003,28
+Americas,GUY,Guyana,2003,28.05
+Africa,LSO,Lesotho,2003,28.11
+Africa,BEN,Benin,2003,28.22
+Africa,BFA,Burkina Faso,2003,28.4
+Africa,NGA,Nigeria,2003,28.64
+Africa,BDI,Burundi,2003,29.82
+Africa,TZA,United Republic of Tanzania,2003,30
+Africa,SWZ,Eswatini,2003,30.05
+Africa,GIN,Guinea,2003,30.33
+Africa,TGO,Togo,2003,30.94
+Europe,RUS,Russian Federation,2003,30.96
+Africa,SLE,Sierra Leone,2003,31.33
+Americas,BLZ,Belize,2003,31.55
+Africa,GNB,Guinea-Bissau,2003,31.58
+Africa,BWA,Botswana,2003,31.73
+Eastern Mediterranean,QAT,Qatar,2003,32.56
+Africa,MWI,Malawi,2003,32.64
+Africa,UGA,Uganda,2003,32.67
+Africa,ERI,Eritrea,2003,33.3
+Africa,CAF,Central African Republic,2003,33.53
+Africa,MOZ,Mozambique,2003,33.55
+Africa,ZWE,Zimbabwe,2003,33.75
+Americas,SLV,El Salvador,2003,35.55
+Africa,RWA,Rwanda,2003,36.87
+Africa,LBR,Liberia,2003,37.5
+Africa,COD,Democratic Republic of the Congo,2003,37.98
+South-East Asia,THA,Thailand,2003,38.84
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2003,38.93
+Americas,DOM,Dominican Republic,2003,39.2
+Europe,MLT,Malta,2003,4.49
+Americas,GTM,Guatemala,2003,4.88
+Africa,ZAF,South Africa,2003,43.41
+Europe,SWE,Sweden,2003,6.03
+Europe,MKD,The former Yugoslav Republic of Macedonia,2003,6.38
+Europe,TUR,Türkiye,2003,6.6
+Europe,NOR,Norway,2003,6.7
+Europe,NLD,Netherlands,2003,6.93
+Western Pacific,SGP,Singapore,2003,6.97
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2003,7.2
+Europe,ISR,Israel,2003,7.41
+Europe,CHE,Switzerland,2003,7.75
+Europe,FIN,Finland,2003,7.9
+Europe,SRB,Serbia,2003,8.05
+Europe,DNK,Denmark,2003,8.26
+Europe,DEU,Germany,2003,8.38
+Europe,ISL,Iceland,2003,8.41
+Western Pacific,AUS,Australia,2003,8.52
+Europe,IRL,Ireland,2003,8.72
+Western Pacific,BRN,Brunei Darussalam,2003,8.77
+Americas,CAN,Canada,2003,9.12
+Americas,ARG,Argentina,2003,9.41
+Europe,UZB,Uzbekistan,2003,9.92
+Europe,AZE,Azerbaijan,2002,10.12
+Western Pacific,PHL,Philippines,2002,10.16
+Europe,ISL,Iceland,2002,10.51
+Western Pacific,NZL,New Zealand,2002,11.33
+Western Pacific,JPN,Japan,2002,11.34
+Americas,BRB,Barbados,2002,11.34
+Eastern Mediterranean,EGY,Egypt,2002,11.5
+Europe,ROU,Romania,2002,11.6
+South-East Asia,BTN,Bhutan,2002,12.01
+Europe,CYP,Cyprus,2002,12.08
+Europe,AUT,Austria,2002,12.12
+Americas,URY,Uruguay,2002,12.33
+Europe,GEO,Georgia,2002,12.47
+Europe,FRA,France,2002,12.49
+Europe,BGR,Bulgaria,2002,12.57
+Western Pacific,TON,Tonga,2002,13.13
+Americas,CUB,Cuba,2002,13.29
+Europe,ITA,Italy,2002,13.34
+South-East Asia,BGD,Bangladesh,2002,13.46
+Western Pacific,WSM,Samoa,2002,13.6
+Europe,ESP,Spain,2002,13.6
+Western Pacific,LAO,Lao People's Democratic Republic,2002,13.63
+Europe,MNE,Montenegro,2002,13.69
+Europe,BEL,Belgium,2002,13.86
+Eastern Mediterranean,PAK,Pakistan,2002,14.09
+Africa,STP,Sao Tome and Principe,2002,14.11
+Europe,SVN,Slovenia,2002,14.14
+Europe,SVK,Slovakia,2002,14.28
+Europe,CZE,Czechia,2002,14.38
+Americas,MEX,Mexico,2002,14.38
+Europe,LUX,Luxembourg,2002,14.42
+Western Pacific,VUT,Vanuatu,2002,14.44
+Americas,PER,Peru,2002,14.48
+Americas,JAM,Jamaica,2002,14.49
+Europe,ALB,Albania,2002,14.49
+South-East Asia,TLS,Timor-Leste,2002,14.52
+Europe,KGZ,Kyrgyzstan,2002,14.64
+Europe,HRV,Croatia,2002,14.7
+South-East Asia,IDN,Indonesia,2002,14.77
+Eastern Mediterranean,AFG,Afghanistan,2002,14.92
+Western Pacific,FSM,Micronesia (Federated States of),2002,14.95
+Western Pacific,BRN,Brunei Darussalam,2002,15
+Americas,ECU,Ecuador,2002,15.01
+Americas,TTO,Trinidad and Tobago,2002,15.03
+South-East Asia,LKA,Sri Lanka,2002,15.11
+Americas,BOL,Bolivia (Plurinational State of),2002,15.16
+South-East Asia,NPL,Nepal,2002,15.28
+Europe,MDA,Republic of Moldova,2002,15.56
+Americas,PAN,Panama,2002,15.72
+Americas,NIC,Nicaragua,2002,15.84
+Americas,HND,Honduras,2002,15.94
+Americas,CHL,Chile,2002,15.98
+Europe,HUN,Hungary,2002,16.15
+Americas,USA,United States of America,2002,16.21
+South-East Asia,IND,India,2002,16.34
+Europe,GRC,Greece,2002,16.38
+Europe,KAZ,Kazakhstan,2002,16.59
+Europe,TKM,Turkmenistan,2002,16.66
+Europe,EST,Estonia,2002,16.7
+Americas,CRI,Costa Rica,2002,17.02
+Europe,POL,Poland,2002,17.21
+Eastern Mediterranean,SAU,Saudi Arabia,2002,17.24
+Americas,BHS,Bahamas,2002,17.66
+Western Pacific,KHM,Cambodia,2002,17.67
+Americas,SUR,Suriname,2002,17.83
+Western Pacific,PNG,Papua New Guinea,2002,17.97
+Eastern Mediterranean,LBN,Lebanon,2002,18.34
+Europe,BIH,Bosnia and Herzegovina,2002,18.49
+Western Pacific,KOR,Republic of Korea,2002,18.55
+Africa,MUS,Mauritius,2002,18.89
+Eastern Mediterranean,BHR,Bahrain,2002,18.91
+Americas,HTI,Haiti,2002,18.94
+Americas,COL,Colombia,2002,19.02
+Africa,SYC,Seychelles,2002,19.03
+Western Pacific,SLB,Solomon Islands,2002,19.06
+Europe,ARM,Armenia,2002,19.08
+Europe,TJK,Tajikistan,2002,19.22
+Europe,UKR,Ukraine,2002,19.5
+Africa,SSD,South Sudan,2002,19.68
+South-East Asia,MDV,Maldives,2002,2.04
+Americas,ATG,Antigua and Barbuda,2002,2.55
+Africa,GNQ,Equatorial Guinea,2002,20.29
+South-East Asia,MMR,Myanmar,2002,20.38
+Eastern Mediterranean,SYR,Syrian Arab Republic,2002,20.78
+Eastern Mediterranean,IRQ,Iraq,2002,20.9
+Americas,BRA,Brazil,2002,21.21
+Europe,PRT,Portugal,2002,21.25
+Eastern Mediterranean,LBY,Libya,2002,21.48
+Eastern Mediterranean,YEM,Yemen,2002,21.98
+Western Pacific,MNG,Mongolia,2002,22.02
+Western Pacific,CHN,China,2002,22.12
+Eastern Mediterranean,ARE,United Arab Emirates,2002,22.36
+South-East Asia,PRK,Democratic People's Republic of Korea,2002,22.54
+Europe,LTU,Lithuania,2002,22.73
+Africa,DZA,Algeria,2002,22.8
+Eastern Mediterranean,TUN,Tunisia,2002,22.9
+Africa,NAM,Namibia,2002,23.2
+Eastern Mediterranean,JOR,Jordan,2002,23.41
+Africa,GAB,Gabon,2002,23.46
+Africa,CPV,Cabo Verde,2002,23.48
+Eastern Mediterranean,KWT,Kuwait,2002,23.54
+Americas,LCA,Saint Lucia,2002,23.84
+Eastern Mediterranean,MAR,Morocco,2002,24
+Americas,GUY,Guyana,2002,24.03
+Western Pacific,VNM,Viet Nam,2002,24.3
+Africa,ETH,Ethiopia,2002,24.65
+Africa,SEN,Senegal,2002,24.68
+Africa,MLI,Mali,2002,24.79
+Western Pacific,MYS,Malaysia,2002,25.09
+Eastern Mediterranean,SDN,Sudan,2002,25.38
+Africa,AGO,Angola,2002,25.39
+Africa,CIV,Côte d’Ivoire,2002,25.42
+Eastern Mediterranean,OMN,Oman,2002,25.61
+Europe,LVA,Latvia,2002,25.77
+Africa,GMB,Gambia,2002,25.78
+Africa,MRT,Mauritania,2002,25.9
+Africa,GHA,Ghana,2002,25.92
+Africa,COG,Congo,2002,25.95
+Europe,BLR,Belarus,2002,26.1
+Eastern Mediterranean,SOM,Somalia,2002,26.14
+Africa,TCD,Chad,2002,26.43
+Africa,KEN,Kenya,2002,26.53
+Africa,COM,Comoros,2002,26.69
+Africa,MDG,Madagascar,2002,26.76
+Africa,ZMB,Zambia,2002,26.92
+Eastern Mediterranean,DJI,Djibouti,2002,27.45
+Africa,CMR,Cameroon,2002,27.69
+Africa,LSO,Lesotho,2002,27.96
+Africa,BFA,Burkina Faso,2002,28.02
+Africa,NER,Niger,2002,28.29
+Africa,BEN,Benin,2002,28.68
+Africa,BDI,Burundi,2002,29.27
+Africa,SWZ,Eswatini,2002,29.56
+Europe,RUS,Russian Federation,2002,29.64
+Africa,NGA,Nigeria,2002,29.83
+Americas,VEN,Venezuela (Bolivarian Republic of),2002,29.85
+Africa,BWA,Botswana,2002,30.15
+Africa,GIN,Guinea,2002,30.19
+Africa,GNB,Guinea-Bissau,2002,30.63
+Africa,TGO,Togo,2002,30.8
+Africa,TZA,United Republic of Tanzania,2002,31.25
+Africa,SLE,Sierra Leone,2002,31.28
+Africa,CAF,Central African Republic,2002,31.61
+Eastern Mediterranean,QAT,Qatar,2002,31.68
+Africa,ZWE,Zimbabwe,2002,32.36
+Africa,ERI,Eritrea,2002,32.85
+Americas,SLV,El Salvador,2002,33.06
+Africa,MWI,Malawi,2002,33.24
+Africa,UGA,Uganda,2002,33.33
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2002,33.52
+Africa,MOZ,Mozambique,2002,33.92
+Africa,LBR,Liberia,2002,34.78
+Americas,BLZ,Belize,2002,36.13
+Americas,DOM,Dominican Republic,2002,36.73
+Africa,RWA,Rwanda,2002,37.18
+Africa,COD,Democratic Republic of the Congo,2002,38.53
+South-East Asia,THA,Thailand,2002,39.17
+Africa,ZAF,South Africa,2002,39.94
+Europe,MLT,Malta,2002,4.01
+Americas,VCT,Saint Vincent and the Grenadines,2002,4.63
+Americas,GTM,Guatemala,2002,4.82
+Europe,SWE,Sweden,2002,6.32
+Western Pacific,SGP,Singapore,2002,6.36
+Europe,TUR,Türkiye,2002,6.8
+Europe,NLD,Netherlands,2002,6.84
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2002,7.11
+Europe,CHE,Switzerland,2002,7.33
+Europe,NOR,Norway,2002,7.39
+Western Pacific,FJI,Fiji,2002,7.48
+Americas,GRD,Grenada,2002,7.72
+Western Pacific,KIR,Kiribati,2002,8.02
+Europe,UZB,Uzbekistan,2002,8.25
+Europe,FIN,Finland,2002,8.54
+Europe,ISR,Israel,2002,8.68
+Europe,DEU,Germany,2002,8.8
+Europe,MKD,The former Yugoslav Republic of Macedonia,2002,8.83
+Americas,PRY,Paraguay,2002,8.86
+Europe,DNK,Denmark,2002,8.88
+Western Pacific,AUS,Australia,2002,9.11
+Europe,SRB,Serbia,2002,9.41
+Americas,CAN,Canada,2002,9.66
+Americas,ARG,Argentina,2002,9.81
+Europe,IRL,Ireland,2002,9.98
+South-East Asia,MDV,Maldives,2001,0.7
+Africa,STP,Sao Tome and Principe,2001,10.12
+Eastern Mediterranean,EGY,Egypt,2001,10.65
+Europe,IRL,Ireland,2001,11.06
+Americas,ARG,Argentina,2001,11.64
+Europe,CYP,Cyprus,2001,11.77
+Americas,PRY,Paraguay,2001,11.92
+South-East Asia,BTN,Bhutan,2001,11.93
+Western Pacific,NZL,New Zealand,2001,12
+South-East Asia,BGD,Bangladesh,2001,12.05
+Western Pacific,JPN,Japan,2001,12.07
+Africa,SYC,Seychelles,2001,12.13
+Europe,AUT,Austria,2001,12.2
+Americas,SUR,Suriname,2001,12.8
+Americas,ATG,Antigua and Barbuda,2001,12.95
+Europe,ROU,Romania,2001,13.02
+Europe,BGR,Bulgaria,2001,13.15
+Western Pacific,TON,Tonga,2001,13.2
+Europe,GEO,Georgia,2001,13.38
+Western Pacific,LAO,Lao People's Democratic Republic,2001,13.38
+Europe,CZE,Czechia,2001,13.38
+Europe,FRA,France,2001,13.4
+Americas,JAM,Jamaica,2001,13.45
+Europe,HUN,Hungary,2001,13.54
+Western Pacific,WSM,Samoa,2001,13.68
+Europe,SRB,Serbia,2001,13.79
+Europe,ITA,Italy,2001,13.93
+Americas,MEX,Mexico,2001,13.97
+Africa,MUS,Mauritius,2001,13.99
+Eastern Mediterranean,PAK,Pakistan,2001,14.04
+South-East Asia,TLS,Timor-Leste,2001,14.08
+Europe,KGZ,Kyrgyzstan,2001,14.17
+Americas,CUB,Cuba,2001,14.24
+Western Pacific,VUT,Vanuatu,2001,14.27
+Europe,ESP,Spain,2001,14.36
+Europe,ALB,Albania,2001,14.51
+South-East Asia,IDN,Indonesia,2001,14.62
+Americas,ECU,Ecuador,2001,14.77
+Americas,BOL,Bolivia (Plurinational State of),2001,14.81
+Western Pacific,FSM,Micronesia (Federated States of),2001,14.93
+Europe,SVN,Slovenia,2001,14.99
+Europe,SVK,Slovakia,2001,15.08
+Eastern Mediterranean,AFG,Afghanistan,2001,15.11
+Europe,HRV,Croatia,2001,15.13
+South-East Asia,LKA,Sri Lanka,2001,15.26
+South-East Asia,NPL,Nepal,2001,15.3
+Americas,PAN,Panama,2001,15.44
+Americas,HND,Honduras,2001,15.53
+Americas,URY,Uruguay,2001,15.58
+Americas,USA,United States of America,2001,15.7
+Americas,LCA,Saint Lucia,2001,15.8
+Europe,MDA,Republic of Moldova,2001,15.81
+Eastern Mediterranean,ARE,United Arab Emirates,2001,15.81
+Europe,BEL,Belgium,2001,15.83
+Western Pacific,MNG,Mongolia,2001,15.91
+Europe,EST,Estonia,2001,15.95
+Americas,NIC,Nicaragua,2001,16.03
+Americas,PER,Peru,2001,16.04
+Americas,TTO,Trinidad and Tobago,2001,16.12
+Americas,CHL,Chile,2001,16.23
+Europe,KAZ,Kazakhstan,2001,16.24
+Europe,TKM,Turkmenistan,2001,16.3
+Europe,LUX,Luxembourg,2001,16.36
+Europe,POL,Poland,2001,16.62
+South-East Asia,IND,India,2001,16.63
+Eastern Mediterranean,SAU,Saudi Arabia,2001,17.11
+Americas,CRI,Costa Rica,2001,17.25
+Eastern Mediterranean,BHR,Bahrain,2001,17.35
+Western Pacific,PNG,Papua New Guinea,2001,17.46
+Europe,MNE,Montenegro,2001,17.61
+Western Pacific,KHM,Cambodia,2001,17.63
+Europe,BLR,Belarus,2001,17.72
+Europe,UKR,Ukraine,2001,17.78
+Europe,GRC,Greece,2001,18.24
+Western Pacific,SLB,Solomon Islands,2001,18.4
+Americas,HTI,Haiti,2001,18.7
+Eastern Mediterranean,LBN,Lebanon,2001,18.77
+Europe,BIH,Bosnia and Herzegovina,2001,18.85
+Western Pacific,BRN,Brunei Darussalam,2001,19.41
+Africa,SSD,South Sudan,2001,19.42
+Europe,TJK,Tajikistan,2001,19.47
+Europe,ARM,Armenia,2001,19.47
+Americas,COL,Colombia,2001,20.04
+Americas,BRA,Brazil,2001,20.12
+Africa,GNQ,Equatorial Guinea,2001,20.42
+South-East Asia,MMR,Myanmar,2001,20.62
+Eastern Mediterranean,IRQ,Iraq,2001,20.63
+Americas,BHS,Bahamas,2001,20.95
+Western Pacific,KOR,Republic of Korea,2001,20.96
+Eastern Mediterranean,LBY,Libya,2001,21.13
+Eastern Mediterranean,SYR,Syrian Arab Republic,2001,21.37
+Europe,PRT,Portugal,2001,21.51
+Western Pacific,CHN,China,2001,21.9
+Eastern Mediterranean,YEM,Yemen,2001,21.96
+Europe,LTU,Lithuania,2001,22.02
+South-East Asia,PRK,Democratic People's Republic of Korea,2001,22.29
+Eastern Mediterranean,OMN,Oman,2001,22.4
+Africa,DZA,Algeria,2001,22.68
+Africa,NAM,Namibia,2001,22.8
+Eastern Mediterranean,TUN,Tunisia,2001,23.25
+Eastern Mediterranean,JOR,Jordan,2001,23.29
+Africa,CPV,Cabo Verde,2001,23.41
+Africa,GAB,Gabon,2001,23.5
+Eastern Mediterranean,KWT,Kuwait,2001,23.63
+Eastern Mediterranean,MAR,Morocco,2001,23.82
+Western Pacific,VNM,Viet Nam,2001,24.16
+Americas,GUY,Guyana,2001,24.29
+Africa,ETH,Ethiopia,2001,24.45
+Africa,SEN,Senegal,2001,24.59
+Africa,MLI,Mali,2001,24.84
+Africa,AGO,Angola,2001,25.19
+Africa,CIV,Côte d’Ivoire,2001,25.3
+Western Pacific,MYS,Malaysia,2001,25.43
+Eastern Mediterranean,SDN,Sudan,2001,25.48
+Africa,GMB,Gambia,2001,25.51
+Africa,GHA,Ghana,2001,25.79
+Europe,LVA,Latvia,2001,25.86
+Africa,MRT,Mauritania,2001,25.9
+Africa,COG,Congo,2001,26.07
+Africa,MDG,Madagascar,2001,26.09
+Africa,KEN,Kenya,2001,26.47
+Africa,TCD,Chad,2001,26.59
+Africa,COM,Comoros,2001,26.8
+Eastern Mediterranean,SOM,Somalia,2001,27
+Africa,LSO,Lesotho,2001,27.14
+Africa,ZMB,Zambia,2001,27.19
+Africa,CMR,Cameroon,2001,27.53
+Eastern Mediterranean,DJI,Djibouti,2001,27.56
+Africa,BFA,Burkina Faso,2001,27.74
+Eastern Mediterranean,QAT,Qatar,2001,27.8
+Africa,NER,Niger,2001,28.1
+Africa,BEN,Benin,2001,28.5
+Europe,RUS,Russian Federation,2001,28.79
+Africa,NGA,Nigeria,2001,29.58
+Africa,ZWE,Zimbabwe,2001,29.7
+Africa,SWZ,Eswatini,2001,29.91
+Americas,VEN,Venezuela (Bolivarian Republic of),2001,30.04
+Africa,BDI,Burundi,2001,30.15
+Africa,GNB,Guinea-Bissau,2001,30.42
+Africa,TGO,Togo,2001,30.44
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2001,30.61
+Africa,GIN,Guinea,2001,30.69
+Africa,BWA,Botswana,2001,31.11
+Africa,CAF,Central African Republic,2001,31.92
+Africa,ERI,Eritrea,2001,31.92
+Africa,TZA,United Republic of Tanzania,2001,32.03
+Americas,DOM,Dominican Republic,2001,32.17
+Africa,SLE,Sierra Leone,2001,32.34
+Africa,MWI,Malawi,2001,32.37
+Africa,UGA,Uganda,2001,33.59
+Africa,MOZ,Mozambique,2001,33.92
+Americas,SLV,El Salvador,2001,35.26
+Africa,LBR,Liberia,2001,35.41
+Africa,RWA,Rwanda,2001,36.37
+Americas,BLZ,Belize,2001,37.54
+Africa,COD,Democratic Republic of the Congo,2001,38
+Africa,ZAF,South Africa,2001,38.34
+South-East Asia,THA,Thailand,2001,39.28
+Europe,MLT,Malta,2001,4.79
+Europe,MKD,The former Yugoslav Republic of Macedonia,2001,5.38
+Americas,VCT,Saint Vincent and the Grenadines,2001,5.56
+Americas,GTM,Guatemala,2001,5.62
+Western Pacific,SGP,Singapore,2001,5.84
+Europe,NOR,Norway,2001,6.57
+Americas,GRD,Grenada,2001,6.78
+Europe,NLD,Netherlands,2001,6.97
+Western Pacific,KIR,Kiribati,2001,6.99
+Europe,SWE,Sweden,2001,7.04
+Europe,TUR,Türkiye,2001,7.04
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2001,7.04
+Europe,CHE,Switzerland,2001,7.81
+Western Pacific,FJI,Fiji,2001,7.99
+Europe,DNK,Denmark,2001,8.57
+Americas,BRB,Barbados,2001,8.64
+Europe,FIN,Finland,2001,8.88
+Europe,DEU,Germany,2001,8.95
+Americas,CAN,Canada,2001,9.2
+Europe,ISR,Israel,2001,9.22
+Western Pacific,AUS,Australia,2001,9.33
+Europe,UZB,Uzbekistan,2001,9.57
+Europe,ISL,Iceland,2001,9.61
+Western Pacific,PHL,Philippines,2001,9.69
+Europe,AZE,Azerbaijan,2001,9.99
+South-East Asia,MDV,Maldives,2000,1.79
+South-East Asia,BGD,Bangladesh,2000,10.8
+Europe,SRB,Serbia,2000,10.86
+Eastern Mediterranean,EGY,Egypt,2000,11.24
+Europe,IRL,Ireland,2000,11.39
+Americas,ARG,Argentina,2000,11.47
+South-East Asia,BTN,Bhutan,2000,11.67
+Europe,ISL,Iceland,2000,11.77
+Europe,GEO,Georgia,2000,11.83
+Eastern Mediterranean,BHR,Bahrain,2000,12.04
+Europe,CYP,Cyprus,2000,12.3
+Africa,STP,Sao Tome and Principe,2000,12.32
+Western Pacific,NZL,New Zealand,2000,12.33
+Europe,KGZ,Kyrgyzstan,2000,12.42
+Europe,ROU,Romania,2000,12.44
+Europe,AUT,Austria,2000,12.47
+Western Pacific,JPN,Japan,2000,12.48
+Americas,JAM,Jamaica,2000,12.52
+Europe,HUN,Hungary,2000,12.65
+Europe,BGR,Bulgaria,2000,13.04
+Western Pacific,TON,Tonga,2000,13.27
+Europe,FRA,France,2000,13.35
+Americas,ECU,Ecuador,2000,13.51
+Americas,TTO,Trinidad and Tobago,2000,13.57
+Africa,SYC,Seychelles,2000,13.58
+Europe,MDA,Republic of Moldova,2000,13.59
+Europe,UKR,Ukraine,2000,13.61
+Western Pacific,LAO,Lao People's Democratic Republic,2000,13.77
+Europe,ITA,Italy,2000,13.93
+Eastern Mediterranean,PAK,Pakistan,2000,13.95
+Western Pacific,VUT,Vanuatu,2000,14.06
+Europe,MNE,Montenegro,2000,14.18
+Americas,MEX,Mexico,2000,14.18
+Europe,KAZ,Kazakhstan,2000,14.2
+Europe,ALB,Albania,2000,14.35
+South-East Asia,TLS,Timor-Leste,2000,14.47
+South-East Asia,IDN,Indonesia,2000,14.47
+Americas,BOL,Bolivia (Plurinational State of),2000,14.54
+Americas,BRB,Barbados,2000,14.58
+Eastern Mediterranean,AFG,Afghanistan,2000,14.65
+Europe,CZE,Czechia,2000,14.89
+Western Pacific,WSM,Samoa,2000,14.9
+Western Pacific,FSM,Micronesia (Federated States of),2000,14.9
+Europe,SVK,Slovakia,2000,15.11
+South-East Asia,LKA,Sri Lanka,2000,15.14
+Europe,HRV,Croatia,2000,15.24
+Europe,ESP,Spain,2000,15.42
+Americas,PAN,Panama,2000,15.44
+Americas,HND,Honduras,2000,15.44
+South-East Asia,NPL,Nepal,2000,15.53
+Americas,USA,United States of America,2000,15.67
+Americas,CUB,Cuba,2000,15.76
+Americas,PER,Peru,2000,15.79
+Western Pacific,MNG,Mongolia,2000,15.85
+Western Pacific,BRN,Brunei Darussalam,2000,15.91
+Eastern Mediterranean,ARE,United Arab Emirates,2000,16.02
+Europe,TKM,Turkmenistan,2000,16.1
+Africa,MUS,Mauritius,2000,16.12
+Americas,NIC,Nicaragua,2000,16.33
+Europe,SVN,Slovenia,2000,16.35
+Europe,BEL,Belgium,2000,16.65
+Americas,URY,Uruguay,2000,16.84
+South-East Asia,IND,India,2000,16.86
+Eastern Mediterranean,SAU,Saudi Arabia,2000,17.05
+Western Pacific,PNG,Papua New Guinea,2000,17.41
+Americas,HTI,Haiti,2000,17.46
+Europe,EST,Estonia,2000,17.65
+Western Pacific,SLB,Solomon Islands,2000,17.69
+Americas,CRI,Costa Rica,2000,17.77
+Europe,BLR,Belarus,2000,17.81
+Europe,LUX,Luxembourg,2000,17.89
+Western Pacific,KHM,Cambodia,2000,17.92
+Americas,CHL,Chile,2000,17.93
+Europe,POL,Poland,2000,18.6
+Europe,BIH,Bosnia and Herzegovina,2000,19.01
+Eastern Mediterranean,LBN,Lebanon,2000,19.18
+Africa,SSD,South Sudan,2000,19.24
+Europe,PRT,Portugal,2000,19.36
+Europe,TJK,Tajikistan,2000,19.46
+Europe,ARM,Armenia,2000,19.64
+Americas,BRA,Brazil,2000,19.71
+Americas,LCA,Saint Lucia,2000,19.78
+Europe,GRC,Greece,2000,19.85
+Americas,COL,Colombia,2000,20.04
+Eastern Mediterranean,LBY,Libya,2000,20.61
+Eastern Mediterranean,IRQ,Iraq,2000,20.73
+South-East Asia,MMR,Myanmar,2000,20.91
+Africa,GAB,Gabon,2000,21.25
+Western Pacific,CHN,China,2000,21.38
+Eastern Mediterranean,YEM,Yemen,2000,21.91
+Eastern Mediterranean,SYR,Syrian Arab Republic,2000,22.02
+Africa,GNQ,Equatorial Guinea,2000,22.11
+Eastern Mediterranean,OMN,Oman,2000,22.35
+Africa,NAM,Namibia,2000,22.54
+Africa,DZA,Algeria,2000,22.54
+South-East Asia,PRK,Democratic People's Republic of Korea,2000,22.66
+Europe,LTU,Lithuania,2000,22.79
+Africa,CPV,Cabo Verde,2000,22.89
+Eastern Mediterranean,JOR,Jordan,2000,23.23
+Eastern Mediterranean,TUN,Tunisia,2000,23.71
+Eastern Mediterranean,MAR,Morocco,2000,23.86
+Western Pacific,VNM,Viet Nam,2000,24.09
+Africa,ETH,Ethiopia,2000,24.61
+Africa,SEN,Senegal,2000,24.81
+Africa,AGO,Angola,2000,25.07
+Africa,CIV,Côte d’Ivoire,2000,25.44
+Eastern Mediterranean,SDN,Sudan,2000,25.5
+Americas,BHS,Bahamas,2000,25.56
+Africa,MLI,Mali,2000,25.56
+Western Pacific,KOR,Republic of Korea,2000,25.63
+Americas,SUR,Suriname,2000,25.69
+Africa,GMB,Gambia,2000,25.73
+Africa,GHA,Ghana,2000,25.82
+Africa,MRT,Mauritania,2000,26.08
+Eastern Mediterranean,KWT,Kuwait,2000,26.11
+Americas,GUY,Guyana,2000,26.25
+Africa,COG,Congo,2000,26.28
+Africa,KEN,Kenya,2000,26.44
+Africa,MDG,Madagascar,2000,26.63
+Eastern Mediterranean,IRN,Iran (Islamic Republic of),2000,26.8
+Western Pacific,MYS,Malaysia,2000,26.83
+Africa,COM,Comoros,2000,26.92
+Africa,TCD,Chad,2000,26.95
+Africa,LSO,Lesotho,2000,27
+Africa,ZMB,Zambia,2000,27.36
+Americas,VEN,Venezuela (Bolivarian Republic of),2000,27.41
+Africa,CMR,Cameroon,2000,27.45
+Eastern Mediterranean,DJI,Djibouti,2000,27.45
+Africa,BFA,Burkina Faso,2000,27.63
+Eastern Mediterranean,SOM,Somalia,2000,27.65
+Europe,RUS,Russian Federation,2000,27.86
+Africa,NER,Niger,2000,28.43
+Africa,BEN,Benin,2000,28.43
+Europe,LVA,Latvia,2000,29.15
+Africa,NGA,Nigeria,2000,29.23
+Africa,ZWE,Zimbabwe,2000,29.31
+Americas,DOM,Dominican Republic,2000,29.43
+Americas,BLZ,Belize,2000,29.52
+Africa,SWZ,Eswatini,2000,29.86
+Africa,TGO,Togo,2000,30.08
+Africa,BDI,Burundi,2000,30.35
+Africa,GNB,Guinea-Bissau,2000,30.66
+Africa,GIN,Guinea,2000,31.09
+Africa,MWI,Malawi,2000,31.22
+Eastern Mediterranean,QAT,Qatar,2000,31.23
+Africa,SLE,Sierra Leone,2000,31.23
+Africa,ERI,Eritrea,2000,31.32
+Africa,BWA,Botswana,2000,31.84
+Africa,TZA,United Republic of Tanzania,2000,32.22
+Africa,CAF,Central African Republic,2000,32.33
+Africa,UGA,Uganda,2000,33.87
+Africa,MOZ,Mozambique,2000,33.97
+Africa,LBR,Liberia,2000,35.48
+Americas,SLV,El Salvador,2000,35.9
+Africa,RWA,Rwanda,2000,37.96
+Africa,COD,Democratic Republic of the Congo,2000,38.11
+South-East Asia,THA,Thailand,2000,39.03
+Europe,MLT,Malta,2000,4.57
+Americas,VCT,Saint Vincent and the Grenadines,2000,4.64
+Americas,GRD,Grenada,2000,4.86
+Africa,ZAF,South Africa,2000,43.99
+Western Pacific,SGP,Singapore,2000,6.5
+Europe,SWE,Sweden,2000,6.74
+Americas,GTM,Guatemala,2000,6.85
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2000,6.89
+Europe,NLD,Netherlands,2000,7.55
+Europe,ISR,Israel,2000,7.99
+Europe,NOR,Norway,2000,8.05
+Europe,FIN,Finland,2000,8.11
+Europe,AZE,Azerbaijan,2000,8.16
+Europe,MKD,The former Yugoslav Republic of Macedonia,2000,8.21
+Western Pacific,KIR,Kiribati,2000,8.29
+Europe,CHE,Switzerland,2000,8.54
+Europe,TUR,Türkiye,2000,8.98
+Americas,ATG,Antigua and Barbuda,2000,9.21
+Americas,PRY,Paraguay,2000,9.43
+Europe,DNK,Denmark,2000,9.6
+Europe,DEU,Germany,2000,9.62
+Western Pacific,FJI,Fiji,2000,9.74
+Europe,UZB,Uzbekistan,2000,9.74
+Americas,CAN,Canada,2000,9.78
+Western Pacific,PHL,Philippines,2000,9.85
+Western Pacific,AUS,Australia,2000,9.86

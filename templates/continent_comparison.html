@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Continent Comparison - Road Traffic Data Analysis{% endblock %}
+
+{% block content %}
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">Continent Comparison</h5>
+    <form method="post">
+      <div class="form-group">
+        <label for="continents">Select Continents:</label>
+        <select multiple class="form-control" id="continents" name="continents">
+          {% for continent in continents %}
+            <option value="{{ continent }}" {% if continent in selected_continents %}selected{% endif %}>{{ continent }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary">Compare</button>
+    </form>
+    <div id="chart" class="mt-4">{{ graph_html|safe }}</div>
+  </div>
+</div>
+{% endblock %}
