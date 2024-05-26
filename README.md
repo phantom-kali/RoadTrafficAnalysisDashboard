@@ -7,18 +7,15 @@ This repository contains a web application for analyzing road traffic data. It p
 - Trend analysis over time
 - Continent-wise comparison
 - Country-wise comparison
-- Anomalies detection
 - Correlation analysis
 
 ## Technologies Used
 - Python
 - Flask
 - Pandas
-- Matplotlib
-- Seaborn
+- Plotly
 - HTML
 - CSS
-- JavaScript
 
 ## Installation
 1. Clone the repository:
