@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYMENT_SOURCE=$PWD
+    - export DEPLOYMENT_TARGET=$HOME/public_html
+    - echo "Deploying from $DEPLOYMENT_SOURCE to $DEPLOYMENT_TARGET"
+    - rsync -av --exclude='.git*' --exclude='.cpanel.yml' $DEPLOYMENT_SOURCE/ $DEPLOYMENT_TARGET/
